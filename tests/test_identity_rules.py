@@ -1,4 +1,5 @@
 from common import compute_display_label, mechanical_fingerprint, natural_card_key
+from materialize_mechanical_pool import printing_locator
 
 
 def pokemon_payload(name: str, damage: str = "30") -> dict:
@@ -73,3 +74,12 @@ def test_override_wins() -> None:
 
 def test_natural_key_is_readable() -> None:
     assert natural_card_key("Pikachu ex", "SSP", "57") == "Pikachu ex · SSP 57"
+
+
+def test_printing_locator_uses_tcgdex_official_abbreviation() -> None:
+    printing = {
+        "tcgdex_set_id": "sv02",
+        "collector_number": "172",
+        "set_payload": {"abbreviation": {"official": "PAL"}},
+    }
+    assert printing_locator(printing, {}) == ("PAL", "172")

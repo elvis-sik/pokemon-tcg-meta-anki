@@ -44,6 +44,19 @@ def image_field(filename: str) -> str:
     return f'<img src="{html.escape(filename, quote=True)}">' if filename else ""
 
 
+def media_filename_if_ready(entry: dict[str, Any], filename_key: str, *, crop: bool = False) -> str:
+    filename = str(entry.get(filename_key) or "")
+    if not filename:
+        return ""
+    if entry.get("status") not in {"cached", "downloaded"}:
+        return ""
+    if crop and entry.get("crop_status") != "created":
+        return ""
+    if not (MEDIA_DIR / filename).is_file():
+        return ""
+    return filename
+
+
 def energy_cost(cost: list[Any]) -> str:
     return " ".join(
         f'<span class="ptcg-energy ptcg-energy-{re.sub(r"[^a-z0-9]+", "-", str(token).casefold()).strip("-")}">{e(token)}</span>'
@@ -117,14 +130,16 @@ def card_fields(card: dict[str, Any], media: dict[str, Any], model_fields: list[
     mechanics = card.get("normalized_mechanics") or {}
     display = card.get("display_printing") or {}
     media_entry = (media.get("cards") or {}).get(card["card_key"], {})
+    artwork_filename = media_filename_if_ready(media_entry, "artwork_filename", crop=True)
+    full_card_filename = media_filename_if_ready(media_entry, "full_card_filename")
     fields.update(
         {
             "CardKey": e(card["card_key"]),
             "Name": e(card["name"]),
             "AutoDisplayLabel": e(card.get("auto_display_label", "")),
             "DisplayLabelOverride": e(card.get("display_label_override", "")),
-            "ArtworkImage": image_field(str(media_entry.get("artwork_filename") or "")),
-            "FullCardImage": image_field(str(media_entry.get("full_card_filename") or "")),
+            "ArtworkImage": image_field(artwork_filename),
+            "FullCardImage": image_field(full_card_filename),
             "DisplaySetCode": e(display.get("set_code", "")),
             "DisplayCollectorNumber": e(display.get("collector_number", "")),
             "CompetitiveRole": e(card.get("competitive_role", "")),

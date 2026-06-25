@@ -58,10 +58,22 @@ def regular_printing_score(printing: dict[str, Any]) -> int:
     return 1
 
 
+def set_code_from_payload(printing: dict[str, Any]) -> str:
+    set_payload = printing.get("set_payload") if isinstance(printing.get("set_payload"), dict) else {}
+    abbreviation = set_payload.get("abbreviation") if isinstance(set_payload, dict) else {}
+    if isinstance(abbreviation, dict):
+        code = str(abbreviation.get("official") or "").strip()
+        if code:
+            return code
+    return str(set_payload.get("tcgOnline") or "").strip()
+
+
 def printing_locator(printing: dict[str, Any], set_id_to_code: dict[str, str]) -> tuple[str, str]:
     code = str(printing.get("set_code") or "")
     if not code:
         code = set_id_to_code.get(str(printing.get("tcgdex_set_id") or ""), "")
+    if not code:
+        code = set_code_from_payload(printing)
     number = str(
         printing.get("collector_number")
         or (printing.get("raw_payload") or {}).get("localId")
@@ -180,6 +192,9 @@ def main() -> None:
     fingerprints_by_name: dict[str, set[str]] = defaultdict(set)
     legal_fingerprints_by_name: dict[str, set[str]] = defaultdict(set)
     for printing in universe:
+        inferred_code = set_code_from_payload(printing)
+        if inferred_code and printing.get("tcgdex_set_id"):
+            set_id_to_code.setdefault(str(printing["tcgdex_set_id"]), inferred_code)
         fingerprint = printing.get("mechanical_fingerprint")
         if not fingerprint:
             fingerprint = mechanical_fingerprint(printing["raw_payload"])

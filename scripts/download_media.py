@@ -49,7 +49,10 @@ def fetch_image(
     retries: int,
 ) -> tuple[Image.Image, str]:
     failures: list[str] = []
-    for url in urls:
+    url_list = list(urls)
+    if not url_list:
+        raise RuntimeError("missing source URL")
+    for url in url_list:
         for attempt in range(retries):
             try:
                 response = session.get(url, timeout=timeout)

@@ -1,0 +1,15 @@
+{
+  "valid": true,
+  "errors": [],
+  "warnings": [
+    "9 cards lack a display image URL"
+  ],
+  "counts": {
+    "mechanical_cards": 361,
+    "top10_mechanical_cards": 145,
+    "top50_source_locators_covered": 361,
+    "top10_source_locators_covered": 145,
+    "provisional_keys": 0,
+    "missing_display_images": 9
+  }
+}
