@@ -11,3 +11,4 @@ media/*.jpg
 media/*.webp
 dist/*.apkg
 reports/*failures*.csv
+reports/artwork_crop_contact_sheet.jpg

@@ -1,4 +1,4 @@
-PYTHON ?= python
+PYTHON ?= $(if $(wildcard .venv/bin/python),.venv/bin/python,$(shell command -v python3 2>/dev/null || command -v python 2>/dev/null || printf python))
 
 .PHONY: validate-source resolve discover materialize validate-resolved media crop freeze build test all clean-generated
 

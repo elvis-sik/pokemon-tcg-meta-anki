@@ -1,5 +1,5 @@
 from common import compute_display_label, mechanical_fingerprint, natural_card_key
-from materialize_mechanical_pool import printing_locator
+from materialize_mechanical_pool import limitless_card_image_url, printing_locator
 
 
 def pokemon_payload(name: str, damage: str = "30") -> dict:
@@ -83,3 +83,10 @@ def test_printing_locator_uses_tcgdex_official_abbreviation() -> None:
         "set_payload": {"abbreviation": {"official": "PAL"}},
     }
     assert printing_locator(printing, {}) == ("PAL", "172")
+
+
+def test_limitless_image_url_pads_numeric_collector_number() -> None:
+    assert (
+        limitless_card_image_url("mep", "25")
+        == "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci/MEP/MEP_025_R_EN.png"
+    )

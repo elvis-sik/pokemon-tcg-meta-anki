@@ -32,6 +32,7 @@ from common import (
 )
 
 CURRENT_STANDARD_MARKS = {"H", "I", "J"}
+LIMITLESS_IMAGE_ASSET_ROOT = "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/tpci"
 
 
 def legal_in_current_standard(printing: dict[str, Any]) -> bool:
@@ -68,6 +69,22 @@ def set_code_from_payload(printing: dict[str, Any]) -> str:
     return str(set_payload.get("tcgOnline") or "").strip()
 
 
+def limitless_card_image_url(set_code: str, collector_number: str) -> str:
+    code = str(set_code or "").strip().upper()
+    number = str(collector_number or "").strip()
+    if not code or not number:
+        return ""
+    if not re.fullmatch(r"[A-Z0-9]+", code):
+        return ""
+    if re.fullmatch(r"\d+", number):
+        number = number.zfill(3)
+    else:
+        number = number.upper()
+    if not re.fullmatch(r"[A-Z0-9]+", number):
+        return ""
+    return f"{LIMITLESS_IMAGE_ASSET_ROOT}/{code}/{code}_{number}_R_EN.png"
+
+
 def printing_locator(printing: dict[str, Any], set_id_to_code: dict[str, str]) -> tuple[str, str]:
     code = str(printing.get("set_code") or "")
     if not code:
@@ -80,6 +97,15 @@ def printing_locator(printing: dict[str, Any], set_id_to_code: dict[str, str]) -
         or ""
     )
     return code, number
+
+
+def image_url_for_printing(printing: dict[str, Any], set_id_to_code: dict[str, str]) -> str:
+    code, number = printing_locator(printing, set_id_to_code)
+    return str(
+        printing.get("image_url")
+        or (printing.get("raw_payload") or {}).get("image")
+        or limitless_card_image_url(code, number)
+    )
 
 
 def apply_merge_overrides(
@@ -323,8 +349,7 @@ def main() -> None:
                     "standard_legal": item.get("standard_legal"),
                     "regulation_mark": item.get("regulation_mark")
                     or (item.get("raw_payload") or {}).get("regulationMark"),
-                    "image_url": item.get("image_url")
-                    or (item.get("raw_payload") or {}).get("image"),
+                    "image_url": image_url_for_printing(item, set_id_to_code),
                 }
                 for item in sorted(all_printings, key=release_sort_key)
             ],
@@ -342,8 +367,7 @@ def main() -> None:
                 "set_code": display_code,
                 "collector_number": display_number,
                 "release_date": display.get("release_date"),
-                "image_url": display.get("image_url")
-                or (display.get("raw_payload") or {}).get("image"),
+                "image_url": image_url_for_printing(display, set_id_to_code),
             },
             "auto_display_label": auto_label,
             "display_label_override": label_override,

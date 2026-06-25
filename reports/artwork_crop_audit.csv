@@ -67,6 +67,7 @@ Cynthia's Roselia · DRI 007,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg
 Cynthia's Roserade · DRI 008,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_2c036f22e31baa50_art.png
 Cynthia's Spiritomb · DRI 129,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_3bc140992b235ac9_art.png
 Cyrano · SSP 170,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg_33eadcfa09d60e2b_art.png
+Darkness Energy · DP 129,Energy,default_Energy,0.075,0.105,0.85,0.455,ptcg_6c275de8ec25266b_art.png
 Dartrix · POR 011,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_eb714867b5ed0d26_art.png
 Dawn · PFL 087,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg_1d9b0ef4c060cc5e_art.png
 Decidueye ex · POR 012,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_30a4e3cb3a525587_art.png
@@ -120,8 +121,10 @@ Fennekin · CRI 011,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_3f1d07b9
 Festival Grounds · TWM 149,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg_62e251b064fac4ff_art.png
 Fezandipiti ex · SFA 038,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_15f60533d2ca535b_art.png
 Fezandipiti · TWM 096,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_3cc446611787bdf9_art.png
+Fighting Energy · BS 97,Energy,default_Energy,0.075,0.105,0.85,0.455,ptcg_b8b66d5e19a62388_art.png
 Fighting Gong · MEG 116,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg_e17ad0b3fdb70896_art.png
 Finizen · TWM 059,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_e0d246688f8a5b88_art.png
+Fire Energy · BS 98,Energy,default_Energy,0.075,0.105,0.85,0.455,ptcg_d6fba96a1b312afb_art.png
 Flareon ex · PRE 014,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_32f6806f149d9d13_art.png
 Forest of Vitality · MEG 117,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg_deeac199338bdc01_art.png
 Froakie · CRI 020,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_0cd464fd591cf5a5_art.png
@@ -137,6 +140,7 @@ Glalie · TWM 052,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_3b66ea3d0d
 Glass Trumpet · SCR 135,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg_614492d04ed4b816_art.png
 Goldeen · TWM 044,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_aaf61457c6d6206d_art.png
 Grand Tree · SCR 136,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg_563d7afe17a0aa7d_art.png
+Grass Energy · BS 99,Energy,default_Energy,0.075,0.105,0.85,0.455,ptcg_989469254527ffba_art.png
 Gravity Mountain · SSP 177,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg_865c9f169af47e52_art.png
 Great Haul Net · CRI 078,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg_31ff2752d4332f7c_art.png
 Greninja ex · TWM 106,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_b3abec250c3a83be_art.png
@@ -184,6 +188,7 @@ Latias ex · SSP 076,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_81afd94
 Leafeon ex · PRE 006,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_358363cbc85f503d_art.png
 Legacy Energy · TWM 167,Energy,default_Energy,0.075,0.105,0.85,0.455,ptcg_3d3cc11204ffc0f5_art.png
 Light Ball · ASC 191,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg_85a25800568c7335_art.png
+Lightning Energy · BS 100,Energy,default_Energy,0.075,0.105,0.85,0.455,ptcg_ce57b4be6e1ac647_art.png
 Lillie's Clefairy ex · SVP 195,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_c828d6929abc6daa_art.png
 Lillie's Determination · MEG 119,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg_c5dddc91542ec71f_art.png
 Lillie's Pearl · JTG 151,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg_e85b7b946d3cd5c2_art.png
@@ -209,6 +214,7 @@ Mega Diancie ex · PFL 041,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_5
 Mega Dragonite ex · ASC 152,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_a22e67617f02ec65_art.png
 Mega Froslass ex · ASC 047,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_7b9891b20b2368cc_art.png
 Mega Greninja ex · CRI 022,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_4cce94c45fa23d40_art.png
+Mega Kangaskhan ex · MEP 025,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_ef5b7bc8354e21a0_art.png
 Mega Lopunny ex · PFL 084,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_d40a8514aa458162_art.png
 Mega Lucario ex · MEP 012,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_f54a1649434853b0_art.png
 Mega Manectric ex · MEG 050,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_9e77848bc0c3d82e_art.png
@@ -222,6 +228,7 @@ Mega Venusaur ex · MEG 003,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_
 Meganium · MEG 010,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_226f73afa1adc5da_art.png
 Meowth ex · POR 062,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_e8de7674e75da976_art.png
 Metagross · CRI 061,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_46e6330bcd56a12d_art.png
+Metal Energy · DP 130,Energy,default_Energy,0.075,0.105,0.85,0.455,ptcg_0c08a283e645a9f3_art.png
 Metang · SVP 090,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_4896da10b97e3a80_art.png
 Miracle Headset · SSP 183,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg_14e2b275974e87a6_art.png
 Mist Energy · TEF 161,Energy,default_Energy,0.075,0.105,0.85,0.455,ptcg_7b2fc09641e7ad53_art.png
@@ -264,6 +271,7 @@ Premium Power Pro · MEG 124,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg
 Prime Catcher · TEF 157,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg_2ed8a151da86dd69_art.png
 Prism Energy · BLK 086,Energy,default_Energy,0.075,0.105,0.85,0.455,ptcg_fd16e347f2d4ff34_art.png
 Prism Tower · CRI 080,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg_400d5bf0e7a5a752_art.png
+Psychic Energy · BS 101,Energy,default_Energy,0.075,0.105,0.85,0.455,ptcg_742ce5c084d004c3_art.png
 Psyduck · ASC 039,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_5dfdd9e85b88af99_art.png
 Raging Bolt ex · SVP 145,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_d2796c836150fe0c_art.png
 Rare Candy · SSH 180,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg_ada6aed9d8e90caf_art.png
@@ -344,6 +352,7 @@ Unfair Stamp · TWM 165,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg_fa49
 Victini · SSP 021,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_ddf781366740128d_art.png
 Vivillon · POR 009,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_f29a01ee77f9b0f2_art.png
 Wally's Compassion · MEG 132,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg_b4f615e502e76f3d_art.png
+Water Energy · BS 102,Energy,default_Energy,0.075,0.105,0.85,0.455,ptcg_ae825979ecac6c12_art.png
 Weedle · CRI 001,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_5cda1820e50507c8_art.png
 Wellspring Mask Ogerpon ex · TWM 064,Pokemon,default_Pokemon,0.075,0.105,0.85,0.405,ptcg_d63adfeea2c595e4_art.png
 Wondrous Patch · PFL 094,Trainer,default_Trainer,0.075,0.105,0.85,0.455,ptcg_fdf33b2056c7dfe1_art.png
