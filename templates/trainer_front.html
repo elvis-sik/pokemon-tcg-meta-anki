@@ -1,7 +1,12 @@
-<div class="ptcg-shell">
-  <div class="ptcg-label">
-    {{#DisplayLabelOverride}}{{DisplayLabelOverride}}{{/DisplayLabelOverride}}
-    {{^DisplayLabelOverride}}{{AutoDisplayLabel}}{{/DisplayLabelOverride}}
+<div class="ptcg-shell ptcg-front-shell ptcg-card-shell ptcg-trainer-shell" data-trainer="{{TrainerSubtype}}">
+  <header class="ptcg-card-header">
+    <div class="ptcg-kicker">Pokémon TCG · {{DisplaySetCode}} {{DisplayCollectorNumber}}</div>
+    <div class="ptcg-label">
+      {{#DisplayLabelOverride}}{{DisplayLabelOverride}}{{/DisplayLabelOverride}}
+      {{^DisplayLabelOverride}}{{AutoDisplayLabel}}{{/DisplayLabelOverride}}
+    </div>
+  </header>
+  <div class="ptcg-art-stage">
+    <div class="ptcg-art">{{ArtworkImage}}</div>
   </div>
-  <div class="ptcg-art">{{ArtworkImage}}</div>
 </div>

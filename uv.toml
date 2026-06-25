@@ -1,4 +1,6 @@
 exclude-newer = "7 days"
+exclude-newer-package = { "anki-addon-workbench" = "2026-06-26" }
 
 [pip]
 exclude-newer = "7 days"
+exclude-newer-package = { "anki-addon-workbench" = "2026-06-26" }

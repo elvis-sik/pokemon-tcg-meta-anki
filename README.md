@@ -57,9 +57,8 @@ No card images are redistributed in this ZIP. The build scripts fetch images and
 4. Run:
 
 ```bash
-python -m venv .venv
+sfw uv sync
 source .venv/bin/activate
-pip install -r requirements.txt
 
 python scripts/validate_source.py
 python scripts/resolve_cards_tcgdex.py
@@ -69,7 +68,12 @@ python scripts/validate_resolved_pool.py
 python scripts/download_media.py
 python scripts/crop_artwork.py
 python scripts/build_anki.py
+anki-workbench smoke --screenshot /tmp/ptcg-preview.png
 ```
+
+On macOS, the workbench smoke command currently opens a disposable Anki GUI window
+briefly while it renders cards. The data directory is isolated, and the profile is
+named `PTCG Workbench Preview` so it does not look like your review profile.
 
 The network-dependent steps are intentionally separate from validation and compilation. Run `python scripts/freeze_natural_keys.py` only after auditing the proposed origin keys; it creates durable registry state for later updates.
 

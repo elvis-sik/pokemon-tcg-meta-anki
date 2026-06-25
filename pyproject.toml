@@ -3,11 +3,29 @@ name = "ptcg-competitive-anki-handoff"
 version = "0.1.0"
 description = "Reproducible source and build design for a competitive Pokemon TCG Anki deck"
 requires-python = ">=3.11"
+dependencies = [
+    "anki-addon-workbench[gui]>=0.4.0",
+    "genanki>=0.13.1,<0.14",
+    "jsonschema>=4.23,<5",
+    "pillow>=10.4,<13",
+    "pytest>=8.3,<10",
+    "requests>=2.32,<3",
+]
 
 [tool.pytest.ini_options]
 pythonpath = ["scripts"]
 testpaths = ["tests"]
 addopts = "-q"
+
+[tool.anki-addon-workbench]
+project_name = "Pokémon TCG Competitive Anki Deck"
+seed_apkgs = ["dist/ptcg_competitive_cards_2026-06-25.apkg"]
+probe_addon = "tests/gui_smoke/probe_addon"
+probe_package = "zz_ptcg_preview_probe"
+deck_smoke_render_limit = 12
+anki_version = "25.09"
+profile = "PTCG Workbench Preview"
+docker_image = "ptcg-anki-gui"
 
 [tool.ruff]
 line-length = 100
