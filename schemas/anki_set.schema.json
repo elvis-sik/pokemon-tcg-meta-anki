@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PTCG Set Anki note",
+  "type": "object",
+  "required": [
+    "SetKey",
+    "Code"
+  ],
+  "properties": {
+    "SetKey": {
+      "type": "string"
+    },
+    "Code": {
+      "type": "string"
+    },
+    "FullName": {
+      "type": "string"
+    },
+    "SetMarkImage": {
+      "type": "string"
+    },
+    "SetLogoImage": {
+      "type": "string"
+    },
+    "ReleaseDate": {
+      "type": "string"
+    },
+    "TournamentLegalDate": {
+      "type": "string"
+    },
+    "Series": {
+      "type": "string"
+    },
+    "SetType": {
+      "type": "string"
+    },
+    "SourceAttribution": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}

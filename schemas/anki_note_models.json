@@ -1,0 +1,149 @@
+{
+  "PTCG Pokemon": {
+    "deck": "Pokémon TCG::Cards",
+    "fields": [
+      "CardKey",
+      "Name",
+      "AutoDisplayLabel",
+      "DisplayLabelOverride",
+      "ArtworkImage",
+      "FullCardImage",
+      "DisplaySetCode",
+      "DisplayCollectorNumber",
+      "PokemonType1",
+      "PokemonType2",
+      "HP",
+      "Stage",
+      "EvolvesFrom",
+      "RuleBoxClass",
+      "PrizeValue",
+      "SpecialLabels",
+      "OtherRuleText",
+      "Ability1Kind",
+      "Ability1Name",
+      "Ability1Text",
+      "Ability2Kind",
+      "Ability2Name",
+      "Ability2Text",
+      "Ability3Kind",
+      "Ability3Name",
+      "Ability3Text",
+      "Attack1Name",
+      "Attack1Cost",
+      "Attack1Damage",
+      "Attack1Text",
+      "Attack2Name",
+      "Attack2Cost",
+      "Attack2Damage",
+      "Attack2Text",
+      "Attack3Name",
+      "Attack3Cost",
+      "Attack3Damage",
+      "Attack3Text",
+      "Attack4Name",
+      "Attack4Cost",
+      "Attack4Damage",
+      "Attack4Text",
+      "Weakness1Type",
+      "Weakness1Value",
+      "Weakness2Type",
+      "Weakness2Value",
+      "Resistance1Type",
+      "Resistance1Value",
+      "Resistance2Type",
+      "Resistance2Value",
+      "RetreatCost",
+      "CompetitiveRole",
+      "Rulings",
+      "SourceAttribution"
+    ],
+    "templates": [
+      {
+        "name": "Whole-card recall",
+        "front": "templates/pokemon_front.html",
+        "back": "templates/pokemon_back.html"
+      }
+    ]
+  },
+  "PTCG Trainer": {
+    "deck": "Pokémon TCG::Cards",
+    "fields": [
+      "CardKey",
+      "Name",
+      "AutoDisplayLabel",
+      "DisplayLabelOverride",
+      "ArtworkImage",
+      "FullCardImage",
+      "DisplaySetCode",
+      "DisplayCollectorNumber",
+      "TrainerSubtype",
+      "RuleBoxClass",
+      "EffectText",
+      "OtherRuleText",
+      "CompetitiveRole",
+      "Rulings",
+      "SourceAttribution"
+    ],
+    "templates": [
+      {
+        "name": "Whole-card recall",
+        "front": "templates/trainer_front.html",
+        "back": "templates/trainer_back.html"
+      }
+    ]
+  },
+  "PTCG Energy": {
+    "deck": "Pokémon TCG::Cards",
+    "fields": [
+      "CardKey",
+      "Name",
+      "AutoDisplayLabel",
+      "DisplayLabelOverride",
+      "ArtworkImage",
+      "FullCardImage",
+      "DisplaySetCode",
+      "DisplayCollectorNumber",
+      "EnergySubtype",
+      "EnergyProvided",
+      "EffectText",
+      "OtherRuleText",
+      "CompetitiveRole",
+      "Rulings",
+      "SourceAttribution"
+    ],
+    "templates": [
+      {
+        "name": "Whole-card recall",
+        "front": "templates/energy_front.html",
+        "back": "templates/energy_back.html"
+      }
+    ]
+  },
+  "PTCG Set": {
+    "deck": "Pokémon TCG::Sets",
+    "fields": [
+      "SetKey",
+      "Code",
+      "FullName",
+      "SetMarkImage",
+      "SetLogoImage",
+      "ReleaseDate",
+      "TournamentLegalDate",
+      "Series",
+      "SetType",
+      "SourceAttribution"
+    ],
+    "templates": [
+      {
+        "name": "Mark or code to name",
+        "front": "templates/set_mark_to_name_front.html",
+        "back": "templates/set_mark_to_name_back.html"
+      },
+      {
+        "name": "Name to mark or code",
+        "front": "templates/set_name_to_mark_front.html",
+        "back": "templates/set_name_to_mark_back.html"
+      }
+    ]
+  }
+}

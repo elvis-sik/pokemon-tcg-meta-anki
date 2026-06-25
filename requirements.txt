@@ -1,0 +1,5 @@
+requests>=2.32,<3
+Pillow>=10.4,<13
+genanki>=0.13.1,<0.14
+jsonschema>=4.23,<5
+pytest>=8.3,<10

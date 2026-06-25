@@ -1,0 +1,357 @@
+{
+  "package_name": "ptcg_anki_handoff_2026-06-25",
+  "snapshot_date": "2026-06-25",
+  "purpose": "Coding-agent handoff for a mechanically deduplicated competitive Pokemon TCG Anki deck",
+  "source_counts": {
+    "ranked_archetypes": 50,
+    "representative_decks": 50,
+    "top50_exact_set_number_locators": 361,
+    "top10_exact_set_number_locators": 145,
+    "earlier_mechanical_count_estimates": {
+      "top50": 360,
+      "top10": 141
+    }
+  },
+  "validation": {
+    "all_representative_decks_60_cards": true,
+    "source_validator": "passed",
+    "python_compile": "passed",
+    "pytest": "11 passed",
+    "synthetic_apkg_integration": "passed",
+    "json_parse": "passed",
+    "csv_shape_validation": "passed"
+  },
+  "important_note": "The 361 and 145 values are exact source printing locators. The included resolver/materializer must mechanically deduplicate them and must not force the earlier 360/141 estimates.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 200
+    },
+    {
+      "path": "DATA_DICTIONARY.md",
+      "bytes": 3414
+    },
+    {
+      "path": "DESIGN_SPEC.md",
+      "bytes": 7764
+    },
+    {
+      "path": "HANDOFF_CONTENTS.md",
+      "bytes": 1010
+    },
+    {
+      "path": "HANDOFF_PROMPT.md",
+      "bytes": 3306
+    },
+    {
+      "path": "LICENSE_NOTES.md",
+      "bytes": 667
+    },
+    {
+      "path": "MECHANICAL_IDENTITY.md",
+      "bytes": 4096
+    },
+    {
+      "path": "Makefile",
+      "bytes": 905
+    },
+    {
+      "path": "PROVENANCE.md",
+      "bytes": 2216
+    },
+    {
+      "path": "README.md",
+      "bytes": 5015
+    },
+    {
+      "path": "UPDATE_PROCEDURE.md",
+      "bytes": 1239
+    },
+    {
+      "path": "cache/README.md",
+      "bytes": 172
+    },
+    {
+      "path": "data/archetypes_top50.csv",
+      "bytes": 26050
+    },
+    {
+      "path": "data/art_crop_overrides.csv",
+      "bytes": 69
+    },
+    {
+      "path": "data/card_candidates_with_tags_361.csv",
+      "bytes": 136623
+    },
+    {
+      "path": "data/card_locator_archetype_membership.csv",
+      "bytes": 182945
+    },
+    {
+      "path": "data/card_source_locators_top10_145.csv",
+      "bytes": 84480
+    },
+    {
+      "path": "data/card_source_locators_top50_361.csv",
+      "bytes": 134006
+    },
+    {
+      "path": "data/competitive_role_overrides.csv",
+      "bytes": 37
+    },
+    {
+      "path": "data/display_label_overrides.csv",
+      "bytes": 74
+    },
+    {
+      "path": "data/manual_mechanical_merge_overrides.csv",
+      "bytes": 69
+    },
+    {
+      "path": "data/natural_key_registry.csv",
+      "bytes": 107
+    },
+    {
+      "path": "data/representative_deck_entries.csv",
+      "bytes": 205614
+    },
+    {
+      "path": "data/representative_decks.json",
+      "bytes": 207018
+    },
+    {
+      "path": "data/rulings_overrides.csv",
+      "bytes": 44
+    },
+    {
+      "path": "data/set_catalog.csv",
+      "bytes": 2765
+    },
+    {
+      "path": "data/set_code_overrides.csv",
+      "bytes": 56
+    },
+    {
+      "path": "data/snapshot_counts.json",
+      "bytes": 746
+    },
+    {
+      "path": "data/source_manifest.json",
+      "bytes": 1311
+    },
+    {
+      "path": "generated/README.md",
+      "bytes": 453
+    },
+    {
+      "path": "media/README.md",
+      "bytes": 489
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 332
+    },
+    {
+      "path": "reports/README.md",
+      "bytes": 244
+    },
+    {
+      "path": "reports/source_validation.json",
+      "bytes": 694
+    },
+    {
+      "path": "reports/validation_report.md",
+      "bytes": 1202
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 93
+    },
+    {
+      "path": "schemas/anki_energy.schema.json",
+      "bytes": 1018
+    },
+    {
+      "path": "schemas/anki_note_models.json",
+      "bytes": 3296
+    },
+    {
+      "path": "schemas/anki_pokemon.schema.json",
+      "bytes": 3038
+    },
+    {
+      "path": "schemas/anki_set.schema.json",
+      "bytes": 719
+    },
+    {
+      "path": "schemas/anki_trainer.schema.json",
+      "bytes": 1018
+    },
+    {
+      "path": "schemas/mechanical_card.schema.json",
+      "bytes": 1801
+    },
+    {
+      "path": "schemas/source_card.schema.json",
+      "bytes": 1526
+    },
+    {
+      "path": "scripts/build_anki.py",
+      "bytes": 11545
+    },
+    {
+      "path": "scripts/common.py",
+      "bytes": 13852
+    },
+    {
+      "path": "scripts/crop_artwork.py",
+      "bytes": 6758
+    },
+    {
+      "path": "scripts/decode_limitless_builder.py",
+      "bytes": 3265
+    },
+    {
+      "path": "scripts/discover_printings_tcgdex.py",
+      "bytes": 5983
+    },
+    {
+      "path": "scripts/download_media.py",
+      "bytes": 7178
+    },
+    {
+      "path": "scripts/freeze_natural_keys.py",
+      "bytes": 2008
+    },
+    {
+      "path": "scripts/materialize_mechanical_pool.py",
+      "bytes": 18020
+    },
+    {
+      "path": "scripts/resolve_cards_tcgdex.py",
+      "bytes": 10205
+    },
+    {
+      "path": "scripts/tcgdex_client.py",
+      "bytes": 4768
+    },
+    {
+      "path": "scripts/validate_resolved_pool.py",
+      "bytes": 6557
+    },
+    {
+      "path": "scripts/validate_source.py",
+      "bytes": 8981
+    },
+    {
+      "path": "templates/energy_back.html",
+      "bytes": 1432
+    },
+    {
+      "path": "templates/energy_front.html",
+      "bytes": 269
+    },
+    {
+      "path": "templates/pokemon_back.html",
+      "bytes": 4890
+    },
+    {
+      "path": "templates/pokemon_front.html",
+      "bytes": 269
+    },
+    {
+      "path": "templates/set_mark_to_name_back.html",
+      "bytes": 619
+    },
+    {
+      "path": "templates/set_mark_to_name_front.html",
+      "bytes": 210
+    },
+    {
+      "path": "templates/set_name_to_mark_back.html",
+      "bytes": 705
+    },
+    {
+      "path": "templates/set_name_to_mark_front.html",
+      "bytes": 94
+    },
+    {
+      "path": "templates/styling.css",
+      "bytes": 4062
+    },
+    {
+      "path": "templates/trainer_back.html",
+      "bytes": 1382
+    },
+    {
+      "path": "templates/trainer_front.html",
+      "bytes": 269
+    },
+    {
+      "path": "tests/test_identity_rules.py",
+      "bytes": 2227
+    },
+    {
+      "path": "tests/test_source_snapshot.py",
+      "bytes": 1385
+    }
+  ],
+  "csv_statistics": {
+    "data/archetypes_top50.csv": {
+      "data_rows": 50,
+      "columns": 16
+    },
+    "data/art_crop_overrides.csv": {
+      "data_rows": 0,
+      "columns": 6
+    },
+    "data/card_candidates_with_tags_361.csv": {
+      "data_rows": 361,
+      "columns": 15
+    },
+    "data/card_locator_archetype_membership.csv": {
+      "data_rows": 1305,
+      "columns": 11
+    },
+    "data/card_source_locators_top10_145.csv": {
+      "data_rows": 145,
+      "columns": 17
+    },
+    "data/card_source_locators_top50_361.csv": {
+      "data_rows": 361,
+      "columns": 17
+    },
+    "data/competitive_role_overrides.csv": {
+      "data_rows": 0,
+      "columns": 2
+    },
+    "data/display_label_overrides.csv": {
+      "data_rows": 0,
+      "columns": 5
+    },
+    "data/manual_mechanical_merge_overrides.csv": {
+      "data_rows": 0,
+      "columns": 5
+    },
+    "data/natural_key_registry.csv": {
+      "data_rows": 0,
+      "columns": 6
+    },
+    "data/representative_deck_entries.csv": {
+      "data_rows": 1305,
+      "columns": 13
+    },
+    "data/rulings_overrides.csv": {
+      "data_rows": 0,
+      "columns": 3
+    },
+    "data/set_catalog.csv": {
+      "data_rows": 18,
+      "columns": 10
+    },
+    "data/set_code_overrides.csv": {
+      "data_rows": 0,
+      "columns": 5
+    }
+  }
+}

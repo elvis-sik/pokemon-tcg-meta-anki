@@ -1,0 +1,32 @@
+{
+  "snapshot_date": "2026-06-25",
+  "format": "Pokemon TCG Standard, H/I/J regulation marks, TEF-CRI snapshot",
+  "metagame_sources": [
+    {
+      "event": "2026 North America International Championships",
+      "event_id": "0070",
+      "url": "https://labs.limitlesstcg.com/0070/decks?combine=",
+      "role": "archetype counts and representative lists"
+    },
+    {
+      "event": "2026 Turin Special Event",
+      "event_id": "0069",
+      "url": "https://labs.limitlesstcg.com/0069/decks?combine=",
+      "role": "archetype counts"
+    }
+  ],
+  "card_data_sources": [
+    {
+      "name": "TCGdex API",
+      "url": "https://api.tcgdex.net/v2/en",
+      "role": "structured card mechanics, set metadata, and image asset bases",
+      "license_note": "Database project is MIT-licensed; card images/text remain property of their respective rights holders."
+    },
+    {
+      "name": "Limitless TCG",
+      "url": "https://limitlesstcg.com/cards",
+      "role": "deck-list locators, player-facing locator convention, validation and fallback"
+    }
+  ],
+  "method": "Rank named grouped archetypes by combined NAIC+Turin classified entries. For each top-50 archetype, freeze one selected NAIC representative list and its Limitless builder encoding. Decode each list into set-code/collector-number locators."
+}

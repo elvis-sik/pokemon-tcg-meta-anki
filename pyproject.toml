@@ -1,0 +1,14 @@
+[project]
+name = "ptcg-competitive-anki-handoff"
+version = "0.1.0"
+description = "Reproducible source and build design for a competitive Pokemon TCG Anki deck"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["scripts"]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"

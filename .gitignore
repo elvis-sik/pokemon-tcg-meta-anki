@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+cache/tcgdex/
+generated/*.jsonl
+generated/*resolved*
+generated/media_manifest.json
+media/*.png
+media/*.jpg
+media/*.webp
+dist/*.apkg
+reports/*failures*.csv

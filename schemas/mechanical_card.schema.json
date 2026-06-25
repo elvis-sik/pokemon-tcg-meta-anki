@@ -1,0 +1,105 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Mechanical card",
+  "type": "object",
+  "required": [
+    "mechanical_fingerprint",
+    "name",
+    "category",
+    "source_locators",
+    "archetypes",
+    "top10",
+    "top50"
+  ],
+  "properties": {
+    "mechanical_fingerprint": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "card_key": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "category": {
+      "enum": [
+        "Pokemon",
+        "Trainer",
+        "Energy"
+      ]
+    },
+    "normalized_mechanics": {
+      "type": "object"
+    },
+    "source_locators": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "all_known_english_printings": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "origin_printing": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "display_printing": {
+      "type": [
+        "object",
+        "null"
+      ]
+    },
+    "auto_display_label": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "display_label_override": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "archetypes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "top10": {
+      "type": "boolean"
+    },
+    "top50": {
+      "type": "boolean"
+    },
+    "competitive_role": {
+      "type": "string"
+    },
+    "rulings": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true
+}

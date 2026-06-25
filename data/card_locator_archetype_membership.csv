@@ -1,0 +1,1306 @@
+raw_locator,set_code,collector_number,rank,archetype,quantity,top10,archetype_tag,meta_tag_top50,meta_tag_top10,limitless_card_url
+ASC-10,ASC,10,30,Mega Venusaur,1,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/10
+ASC-109,ASC,109,17,Cynthia's Garchomp,4,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/109
+ASC-110,ASC,110,17,Cynthia's Garchomp,4,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/110
+ASC-111,ASC,111,17,Cynthia's Garchomp,3,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/111
+ASC-121,ASC,121,9,Basic Box,1,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/121
+ASC-121,ASC,121,21,Lillie's Clefairy,1,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/121
+ASC-126,ASC,126,10,Rocket's Honchkrow,4,True,ptcg::archetype::rocket_s_honchkrow,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/126
+ASC-127,ASC,127,10,Rocket's Honchkrow,3,True,ptcg::archetype::rocket_s_honchkrow,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/127
+ASC-133,ASC,133,17,Cynthia's Garchomp,1,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/133
+ASC-136,ASC,136,4,N's Zoroark,4,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/136
+ASC-136,ASC,136,36,Eelektrik,1,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/136
+ASC-137,ASC,137,4,N's Zoroark,4,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/137
+ASC-137,ASC,137,36,Eelektrik,1,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/137
+ASC-142,ASC,142,1,Dragapult,1,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,2,Ogerpon Meganium,1,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,3,Alakazam,1,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,4,N's Zoroark,1,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,5,Raging Bolt,1,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,6,Slowking,1,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,8,Mega Greninja,1,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,9,Basic Box,1,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,12,Beedrill,1,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,19,Ethan's Typhlosion,1,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,20,Greninja,1,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,21,Lillie's Clefairy,2,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,22,Metagross,1,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,25,Archaludon,1,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,27,Mega Diancie,1,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,30,Mega Venusaur,1,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,31,Tera Box,1,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,32,Mega Absol Box,1,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,34,Doublade,1,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,35,Toxtricity,1,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,37,Bloodmoon Ursaluna,1,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,38,Mega Manectric,1,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,41,Decidueye,1,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,45,Joltik Box,1,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,49,Hydreigon,1,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/142
+ASC-142,ASC,142,50,Mega Charizard X,1,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/142
+ASC-150,ASC,150,36,Eelektrik,3,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/150
+ASC-151,ASC,151,36,Eelektrik,2,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/151
+ASC-152,ASC,152,36,Eelektrik,2,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/152
+ASC-155,ASC,155,4,N's Zoroark,2,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/155
+ASC-158,ASC,158,1,Dragapult,4,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/158
+ASC-158,ASC,158,19,Ethan's Typhlosion,2,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/158
+ASC-158,ASC,158,34,Doublade,4,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/158
+ASC-159,ASC,159,1,Dragapult,4,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/159
+ASC-159,ASC,159,19,Ethan's Typhlosion,2,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/159
+ASC-159,ASC,159,34,Doublade,4,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/159
+ASC-16,ASC,16,1,Dragapult,1,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/16
+ASC-16,ASC,16,4,N's Zoroark,1,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/16
+ASC-16,ASC,16,8,Mega Greninja,1,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/16
+ASC-16,ASC,16,15,Mega Starmie,1,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/16
+ASC-16,ASC,16,20,Greninja,1,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/16
+ASC-16,ASC,16,24,Marnie's Grimmsnarl,1,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/16
+ASC-16,ASC,16,41,Decidueye,1,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/16
+ASC-16,ASC,16,42,Mega Froslass,1,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/16
+ASC-160,ASC,160,1,Dragapult,2,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/160
+ASC-162,ASC,162,22,Metagross,1,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/162
+ASC-162,ASC,162,28,Kangaskhan Bouffalant,1,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/162
+ASC-162,ASC,162,40,Rocket's Spidops,1,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/162
+ASC-162,ASC,162,45,Joltik Box,1,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/162
+ASC-171,ASC,171,12,Beedrill,1,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/171
+ASC-171,ASC,171,16,Mega Lopunny,1,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/171
+ASC-171,ASC,171,25,Archaludon,1,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/171
+ASC-171,ASC,171,31,Tera Box,2,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/171
+ASC-171,ASC,171,33,Flareon,2,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/171
+ASC-171,ASC,171,49,Hydreigon,2,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/171
+ASC-172,ASC,172,32,Mega Absol Box,2,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/172
+ASC-177,ASC,177,18,Hop's Trevenant,1,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/177
+ASC-179,ASC,179,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/179
+ASC-179,ASC,179,49,Hydreigon,3,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/179
+ASC-18,ASC,18,14,Rocket's Mewtwo,4,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/18
+ASC-18,ASC,18,40,Rocket's Spidops,4,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/18
+ASC-181,ASC,181,3,Alakazam,1,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,8,Mega Greninja,1,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,13,Festival Lead,1,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,16,Mega Lopunny,3,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,18,Hop's Trevenant,1,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,22,Metagross,1,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,24,Marnie's Grimmsnarl,1,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,29,Okidogi,2,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,30,Mega Venusaur,1,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,34,Doublade,2,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,35,Toxtricity,2,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,36,Eelektrik,2,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,37,Bloodmoon Ursaluna,2,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,41,Decidueye,1,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,42,Mega Froslass,1,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,44,Bronzong,1,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,46,Palafin,2,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,48,Froslass Munkidori,1,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,49,Hydreigon,1,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/181
+ASC-181,ASC,181,50,Mega Charizard X,2,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/181
+ASC-184,ASC,184,1,Dragapult,4,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,3,Alakazam,4,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,4,N's Zoroark,4,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,7,Mega Lucario,2,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,8,Mega Greninja,4,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,11,Crustle,2,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,12,Beedrill,4,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,13,Festival Lead,4,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,15,Mega Starmie,4,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,16,Mega Lopunny,4,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,17,Cynthia's Garchomp,3,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,19,Ethan's Typhlosion,2,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,20,Greninja,4,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,22,Metagross,1,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,24,Marnie's Grimmsnarl,3,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,25,Archaludon,2,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,26,Steven's Metagross,3,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,33,Flareon,2,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,34,Doublade,4,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,35,Toxtricity,1,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,36,Eelektrik,2,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,38,Mega Manectric,4,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,39,Mega Sharpedo,3,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,41,Decidueye,4,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,42,Mega Froslass,3,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,46,Palafin,4,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,47,Sylveon,1,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,48,Froslass Munkidori,4,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-184,ASC,184,49,Hydreigon,4,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/184
+ASC-186,ASC,186,34,Doublade,2,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/186
+ASC-186,ASC,186,37,Bloodmoon Ursaluna,1,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/186
+ASC-189,ASC,189,5,Raging Bolt,2,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/189
+ASC-189,ASC,189,31,Tera Box,1,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/189
+ASC-189,ASC,189,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/189
+ASC-189,ASC,189,49,Hydreigon,1,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/189
+ASC-19,ASC,19,14,Rocket's Mewtwo,4,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/19
+ASC-19,ASC,19,40,Rocket's Spidops,4,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/19
+ASC-190,ASC,190,24,Marnie's Grimmsnarl,1,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/190
+ASC-191,ASC,191,45,Joltik Box,1,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/191
+ASC-195,ASC,195,4,N's Zoroark,3,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/195
+ASC-196,ASC,196,1,Dragapult,2,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,2,Ogerpon Meganium,1,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,3,Alakazam,1,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,4,N's Zoroark,2,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,5,Raging Bolt,2,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,6,Slowking,2,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,8,Mega Greninja,1,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,9,Basic Box,2,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,10,Rocket's Honchkrow,3,True,ptcg::archetype::rocket_s_honchkrow,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,12,Beedrill,1,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,13,Festival Lead,2,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,14,Rocket's Mewtwo,3,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,15,Mega Starmie,1,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,16,Mega Lopunny,1,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,17,Cynthia's Garchomp,2,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,18,Hop's Trevenant,3,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,19,Ethan's Typhlosion,2,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,20,Greninja,1,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,22,Metagross,2,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,23,Ceruledge,3,False,ptcg::archetype::ceruledge,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,24,Marnie's Grimmsnarl,3,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,25,Archaludon,4,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,26,Steven's Metagross,2,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,27,Mega Diancie,2,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,28,Kangaskhan Bouffalant,2,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,29,Okidogi,2,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,30,Mega Venusaur,2,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,31,Tera Box,2,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,32,Mega Absol Box,3,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,33,Flareon,2,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,34,Doublade,2,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,35,Toxtricity,3,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,36,Eelektrik,2,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,37,Bloodmoon Ursaluna,4,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,39,Mega Sharpedo,2,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,40,Rocket's Spidops,1,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,41,Decidueye,2,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,42,Mega Froslass,2,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,44,Bronzong,2,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,45,Joltik Box,2,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,46,Palafin,1,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,47,Sylveon,2,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,48,Froslass Munkidori,4,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-196,ASC,196,50,Mega Charizard X,1,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/196
+ASC-197,ASC,197,3,Alakazam,4,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/197
+ASC-197,ASC,197,28,Kangaskhan Bouffalant,3,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/197
+ASC-197,ASC,197,48,Froslass Munkidori,2,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/197
+ASC-201,ASC,201,10,Rocket's Honchkrow,4,True,ptcg::archetype::rocket_s_honchkrow,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/201
+ASC-201,ASC,201,40,Rocket's Spidops,1,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/201
+ASC-202,ASC,202,10,Rocket's Honchkrow,4,True,ptcg::archetype::rocket_s_honchkrow,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/202
+ASC-202,ASC,202,14,Rocket's Mewtwo,4,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/202
+ASC-202,ASC,202,40,Rocket's Spidops,3,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/202
+ASC-203,ASC,203,10,Rocket's Honchkrow,3,True,ptcg::archetype::rocket_s_honchkrow,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/203
+ASC-203,ASC,203,11,Crustle,1,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/203
+ASC-203,ASC,203,14,Rocket's Mewtwo,1,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/203
+ASC-203,ASC,203,35,Toxtricity,1,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/203
+ASC-203,ASC,203,40,Rocket's Spidops,3,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/203
+ASC-204,ASC,204,10,Rocket's Honchkrow,4,True,ptcg::archetype::rocket_s_honchkrow,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/204
+ASC-204,ASC,204,14,Rocket's Mewtwo,3,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/204
+ASC-204,ASC,204,40,Rocket's Spidops,3,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/204
+ASC-207,ASC,207,10,Rocket's Honchkrow,4,True,ptcg::archetype::rocket_s_honchkrow,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/207
+ASC-207,ASC,207,11,Crustle,4,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/207
+ASC-207,ASC,207,14,Rocket's Mewtwo,1,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/207
+ASC-207,ASC,207,18,Hop's Trevenant,4,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/207
+ASC-207,ASC,207,22,Metagross,4,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/207
+ASC-207,ASC,207,24,Marnie's Grimmsnarl,4,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/207
+ASC-207,ASC,207,26,Steven's Metagross,3,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/207
+ASC-207,ASC,207,28,Kangaskhan Bouffalant,4,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/207
+ASC-207,ASC,207,30,Mega Venusaur,1,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/207
+ASC-207,ASC,207,32,Mega Absol Box,4,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/207
+ASC-207,ASC,207,35,Toxtricity,4,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/207
+ASC-207,ASC,207,37,Bloodmoon Ursaluna,1,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/207
+ASC-207,ASC,207,39,Mega Sharpedo,2,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/207
+ASC-207,ASC,207,40,Rocket's Spidops,1,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/207
+ASC-207,ASC,207,43,Mega Abomasnow,4,False,ptcg::archetype::mega_abomasnow,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/207
+ASC-207,ASC,207,45,Joltik Box,4,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/207
+ASC-207,ASC,207,46,Palafin,1,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/207
+ASC-207,ASC,207,47,Sylveon,3,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/207
+ASC-208,ASC,208,10,Rocket's Honchkrow,4,True,ptcg::archetype::rocket_s_honchkrow,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/208
+ASC-208,ASC,208,14,Rocket's Mewtwo,2,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/208
+ASC-208,ASC,208,40,Rocket's Spidops,3,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/208
+ASC-209,ASC,209,10,Rocket's Honchkrow,4,True,ptcg::archetype::rocket_s_honchkrow,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/209
+ASC-209,ASC,209,14,Rocket's Mewtwo,4,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/209
+ASC-209,ASC,209,22,Metagross,4,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/209
+ASC-209,ASC,209,28,Kangaskhan Bouffalant,3,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/209
+ASC-209,ASC,209,32,Mega Absol Box,4,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/209
+ASC-209,ASC,209,40,Rocket's Spidops,4,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/209
+ASC-209,ASC,209,45,Joltik Box,1,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/209
+ASC-210,ASC,210,1,Dragapult,1,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/210
+ASC-210,ASC,210,17,Cynthia's Garchomp,1,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/210
+ASC-210,ASC,210,26,Steven's Metagross,1,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/210
+ASC-210,ASC,210,32,Mega Absol Box,1,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/210
+ASC-210,ASC,210,35,Toxtricity,1,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/210
+ASC-210,ASC,210,36,Eelektrik,1,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/210
+ASC-210,ASC,210,39,Mega Sharpedo,2,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/210
+ASC-210,ASC,210,44,Bronzong,1,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/210
+ASC-210,ASC,210,50,Mega Charizard X,1,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/210
+ASC-212,ASC,212,19,Ethan's Typhlosion,1,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/212
+ASC-212,ASC,212,26,Steven's Metagross,1,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/212
+ASC-212,ASC,212,46,Palafin,1,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/212
+ASC-216,ASC,216,9,Basic Box,2,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/216
+ASC-216,ASC,216,29,Okidogi,4,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/216
+ASC-217,ASC,217,10,Rocket's Honchkrow,4,True,ptcg::archetype::rocket_s_honchkrow,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/217
+ASC-217,ASC,217,14,Rocket's Mewtwo,4,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/217
+ASC-217,ASC,217,40,Rocket's Spidops,4,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/217
+ASC-22,ASC,22,50,Mega Charizard X,1,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/22
+ASC-32,ASC,32,4,N's Zoroark,1,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/32
+ASC-33,ASC,33,4,N's Zoroark,1,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/33
+ASC-39,ASC,39,8,Mega Greninja,1,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/39
+ASC-39,ASC,39,13,Festival Lead,1,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/39
+ASC-39,ASC,39,16,Mega Lopunny,1,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/39
+ASC-39,ASC,39,28,Kangaskhan Bouffalant,1,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/39
+ASC-39,ASC,39,32,Mega Absol Box,1,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/39
+ASC-39,ASC,39,37,Bloodmoon Ursaluna,1,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/39
+ASC-39,ASC,39,47,Sylveon,1,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/39
+ASC-39,ASC,39,50,Mega Charizard X,1,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/39
+ASC-46,ASC,46,15,Mega Starmie,4,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/46
+ASC-46,ASC,46,20,Greninja,1,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/46
+ASC-46,ASC,46,24,Marnie's Grimmsnarl,2,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/46
+ASC-46,ASC,46,42,Mega Froslass,4,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/46
+ASC-46,ASC,46,44,Bronzong,3,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/46
+ASC-46,ASC,46,48,Froslass Munkidori,4,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/46
+ASC-47,ASC,47,15,Mega Starmie,1,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/47
+ASC-47,ASC,47,20,Greninja,1,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/47
+ASC-47,ASC,47,42,Mega Froslass,2,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/47
+ASC-47,ASC,47,44,Bronzong,2,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/47
+ASC-47,ASC,47,48,Froslass Munkidori,1,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/47
+ASC-57,ASC,57,45,Joltik Box,2,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/57
+ASC-59,ASC,59,36,Eelektrik,3,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/59
+ASC-60,ASC,60,36,Eelektrik,3,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/60
+ASC-76,ASC,76,5,Raging Bolt,1,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/76
+ASC-76,ASC,76,6,Slowking,1,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/76
+ASC-76,ASC,76,9,Basic Box,2,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/76
+ASC-76,ASC,76,14,Rocket's Mewtwo,1,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/76
+ASC-76,ASC,76,18,Hop's Trevenant,1,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/76
+ASC-76,ASC,76,21,Lillie's Clefairy,4,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/76
+ASC-76,ASC,76,26,Steven's Metagross,2,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/76
+ASC-76,ASC,76,27,Mega Diancie,2,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/76
+ASC-76,ASC,76,28,Kangaskhan Bouffalant,1,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/76
+ASC-76,ASC,76,31,Tera Box,2,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/76
+ASC-76,ASC,76,33,Flareon,2,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/76
+ASC-76,ASC,76,38,Mega Manectric,1,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/76
+ASC-76,ASC,76,40,Rocket's Spidops,1,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/76
+ASC-76,ASC,76,44,Bronzong,1,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/76
+ASC-76,ASC,76,45,Joltik Box,2,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/76
+ASC-79,ASC,79,14,Rocket's Mewtwo,2,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/79
+ASC-79,ASC,79,40,Rocket's Spidops,1,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/79
+ASC-8,ASC,8,2,Ogerpon Meganium,1,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/8
+ASC-9,ASC,9,2,Ogerpon Meganium,1,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/9
+ASC-95,ASC,95,18,Hop's Trevenant,4,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/95
+ASC-96,ASC,96,18,Hop's Trevenant,3,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/96
+ASC-97,ASC,97,14,Rocket's Mewtwo,2,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/97
+ASC-97,ASC,97,26,Steven's Metagross,1,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/97
+ASC-97,ASC,97,40,Rocket's Spidops,2,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/97
+ASC-99,ASC,99,1,Dragapult,1,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/99
+ASC-99,ASC,99,4,N's Zoroark,1,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/99
+ASC-99,ASC,99,9,Basic Box,2,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/ASC/99
+ASC-99,ASC,99,15,Mega Starmie,3,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/99
+ASC-99,ASC,99,24,Marnie's Grimmsnarl,4,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/99
+ASC-99,ASC,99,28,Kangaskhan Bouffalant,2,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/99
+ASC-99,ASC,99,32,Mega Absol Box,3,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/99
+ASC-99,ASC,99,35,Toxtricity,3,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/99
+ASC-99,ASC,99,37,Bloodmoon Ursaluna,3,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/99
+ASC-99,ASC,99,39,Mega Sharpedo,2,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/99
+ASC-99,ASC,99,42,Mega Froslass,3,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/99
+ASC-99,ASC,99,44,Bronzong,3,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/99
+ASC-99,ASC,99,46,Palafin,1,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/99
+ASC-99,ASC,99,47,Sylveon,1,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/99
+ASC-99,ASC,99,48,Froslass Munkidori,4,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/ASC/99
+BLK-40,BLK,40,3,Alakazam,1,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/BLK/40
+BLK-40,BLK,40,44,Bronzong,1,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/BLK/40
+BLK-6,BLK,6,13,Festival Lead,1,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/BLK/6
+BLK-67,BLK,67,22,Metagross,2,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/BLK/67
+BLK-67,BLK,67,26,Steven's Metagross,2,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/BLK/67
+BLK-67,BLK,67,34,Doublade,2,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/BLK/67
+CRI-1,CRI,1,12,Beedrill,4,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/1
+CRI-11,CRI,11,50,Mega Charizard X,3,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/11
+CRI-12,CRI,12,50,Mega Charizard X,1,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/12
+CRI-13,CRI,13,50,Mega Charizard X,3,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/13
+CRI-2,CRI,2,12,Beedrill,4,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/2
+CRI-20,CRI,20,8,Mega Greninja,4,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/CRI/20
+CRI-20,CRI,20,20,Greninja,3,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/20
+CRI-21,CRI,21,8,Mega Greninja,3,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/CRI/21
+CRI-21,CRI,21,20,Greninja,1,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/21
+CRI-22,CRI,22,8,Mega Greninja,2,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/CRI/22
+CRI-23,CRI,23,43,Mega Abomasnow,2,False,ptcg::archetype::mega_abomasnow,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/23
+CRI-24,CRI,24,43,Mega Abomasnow,1,False,ptcg::archetype::mega_abomasnow,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/24
+CRI-3,CRI,3,12,Beedrill,4,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/3
+CRI-33,CRI,33,27,Mega Diancie,1,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/33
+CRI-61,CRI,61,6,Slowking,2,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/CRI/61
+CRI-61,CRI,61,22,Metagross,2,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/61
+CRI-76,CRI,76,8,Mega Greninja,1,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/CRI/76
+CRI-76,CRI,76,45,Joltik Box,1,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/76
+CRI-78,CRI,78,46,Palafin,1,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/78
+CRI-79,CRI,79,25,Archaludon,1,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/79
+CRI-80,CRI,80,14,Rocket's Mewtwo,2,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/80
+CRI-80,CRI,80,25,Archaludon,2,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/80
+CRI-80,CRI,80,32,Mega Absol Box,2,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/80
+CRI-82,CRI,82,1,Dragapult,1,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,2,Ogerpon Meganium,1,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,4,N's Zoroark,1,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,7,Mega Lucario,1,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,8,Mega Greninja,1,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,9,Basic Box,1,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,12,Beedrill,1,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,20,Greninja,1,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,22,Metagross,1,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,24,Marnie's Grimmsnarl,1,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,25,Archaludon,1,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,27,Mega Diancie,1,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,28,Kangaskhan Bouffalant,1,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,29,Okidogi,1,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,31,Tera Box,1,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,32,Mega Absol Box,2,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,35,Toxtricity,1,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,36,Eelektrik,1,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,37,Bloodmoon Ursaluna,1,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,45,Joltik Box,1,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,46,Palafin,1,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/82
+CRI-82,CRI,82,50,Mega Charizard X,1,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/82
+CRI-83,CRI,83,4,N's Zoroark,4,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/CRI/83
+CRI-83,CRI,83,32,Mega Absol Box,4,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/83
+CRI-86,CRI,86,50,Mega Charizard X,1,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/CRI/86
+DRI-10,DRI,10,3,Alakazam,1,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/DRI/10
+DRI-10,DRI,10,13,Festival Lead,1,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/10
+DRI-10,DRI,10,17,Cynthia's Garchomp,1,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/10
+DRI-10,DRI,10,18,Hop's Trevenant,1,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/10
+DRI-10,DRI,10,19,Ethan's Typhlosion,1,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/10
+DRI-10,DRI,10,20,Greninja,1,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/10
+DRI-10,DRI,10,22,Metagross,1,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/10
+DRI-10,DRI,10,30,Mega Venusaur,1,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/10
+DRI-10,DRI,10,34,Doublade,1,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/10
+DRI-10,DRI,10,37,Bloodmoon Ursaluna,1,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/10
+DRI-10,DRI,10,42,Mega Froslass,1,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/10
+DRI-10,DRI,10,50,Mega Charizard X,1,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/10
+DRI-11,DRI,11,11,Crustle,3,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/11
+DRI-12,DRI,12,11,Crustle,3,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/12
+DRI-134,DRI,134,24,Marnie's Grimmsnarl,3,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/134
+DRI-135,DRI,135,24,Marnie's Grimmsnarl,2,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/135
+DRI-136,DRI,136,24,Marnie's Grimmsnarl,3,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/136
+DRI-143,DRI,143,26,Steven's Metagross,3,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/143
+DRI-144,DRI,144,26,Steven's Metagross,2,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/144
+DRI-145,DRI,145,26,Steven's Metagross,3,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/145
+DRI-153,DRI,153,10,Rocket's Honchkrow,2,True,ptcg::archetype::rocket_s_honchkrow,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/DRI/153
+DRI-154,DRI,154,10,Rocket's Honchkrow,1,True,ptcg::archetype::rocket_s_honchkrow,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/DRI/154
+DRI-162,DRI,162,17,Cynthia's Garchomp,3,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/162
+DRI-164,DRI,164,22,Metagross,2,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/164
+DRI-164,DRI,164,26,Steven's Metagross,1,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/164
+DRI-164,DRI,164,35,Toxtricity,1,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/164
+DRI-165,DRI,165,19,Ethan's Typhlosion,4,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/165
+DRI-168,DRI,168,3,Alakazam,1,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/DRI/168
+DRI-168,DRI,168,12,Beedrill,1,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/168
+DRI-168,DRI,168,40,Rocket's Spidops,1,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/168
+DRI-168,DRI,168,41,Decidueye,1,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/168
+DRI-169,DRI,169,24,Marnie's Grimmsnarl,4,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/169
+DRI-179,DRI,179,37,Bloodmoon Ursaluna,3,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/179
+DRI-32,DRI,32,19,Ethan's Typhlosion,4,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/32
+DRI-33,DRI,33,19,Ethan's Typhlosion,4,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/33
+DRI-34,DRI,34,19,Ethan's Typhlosion,4,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/34
+DRI-51,DRI,51,10,Rocket's Honchkrow,2,True,ptcg::archetype::rocket_s_honchkrow,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/DRI/51
+DRI-51,DRI,51,14,Rocket's Mewtwo,2,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/51
+DRI-51,DRI,51,22,Metagross,1,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/51
+DRI-51,DRI,51,28,Kangaskhan Bouffalant,1,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/51
+DRI-51,DRI,51,40,Rocket's Spidops,2,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/51
+DRI-51,DRI,51,45,Joltik Box,1,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/51
+DRI-51,DRI,51,47,Sylveon,1,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/51
+DRI-7,DRI,7,17,Cynthia's Garchomp,4,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/7
+DRI-78,DRI,78,6,Slowking,1,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/DRI/78
+DRI-8,DRI,8,17,Cynthia's Garchomp,3,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/DRI/8
+JTG-117,JTG,117,18,Hop's Trevenant,2,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/117
+JTG-120,JTG,120,3,Alakazam,3,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/JTG/120
+JTG-120,JTG,120,7,Mega Lucario,3,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/JTG/120
+JTG-120,JTG,120,8,Mega Greninja,2,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/JTG/120
+JTG-120,JTG,120,12,Beedrill,4,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/120
+JTG-120,JTG,120,16,Mega Lopunny,4,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/120
+JTG-120,JTG,120,25,Archaludon,3,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/120
+JTG-120,JTG,120,41,Decidueye,2,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/120
+JTG-120,JTG,120,42,Mega Froslass,2,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/120
+JTG-120,JTG,120,46,Palafin,2,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/120
+JTG-121,JTG,121,7,Mega Lucario,1,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/JTG/121
+JTG-121,JTG,121,8,Mega Greninja,1,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/JTG/121
+JTG-121,JTG,121,16,Mega Lopunny,1,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/121
+JTG-121,JTG,121,46,Palafin,1,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/121
+JTG-135,JTG,135,18,Hop's Trevenant,1,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/135
+JTG-136,JTG,136,18,Hop's Trevenant,1,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/136
+JTG-143,JTG,143,4,N's Zoroark,1,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/JTG/143
+JTG-143,JTG,143,19,Ethan's Typhlosion,1,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/143
+JTG-143,JTG,143,25,Archaludon,1,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/143
+JTG-143,JTG,143,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/143
+JTG-143,JTG,143,46,Palafin,1,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/143
+JTG-146,JTG,146,9,Basic Box,1,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/JTG/146
+JTG-146,JTG,146,22,Metagross,2,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/146
+JTG-146,JTG,146,26,Steven's Metagross,3,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/146
+JTG-146,JTG,146,28,Kangaskhan Bouffalant,2,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/146
+JTG-146,JTG,146,31,Tera Box,1,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/146
+JTG-146,JTG,146,32,Mega Absol Box,1,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/146
+JTG-146,JTG,146,34,Doublade,3,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/146
+JTG-146,JTG,146,38,Mega Manectric,4,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/146
+JTG-146,JTG,146,45,Joltik Box,1,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/146
+JTG-147,JTG,147,18,Hop's Trevenant,2,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/147
+JTG-148,JTG,148,18,Hop's Trevenant,4,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/148
+JTG-151,JTG,151,21,Lillie's Clefairy,2,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/151
+JTG-151,JTG,151,27,Mega Diancie,1,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/151
+JTG-152,JTG,152,4,N's Zoroark,2,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/JTG/152
+JTG-154,JTG,154,18,Hop's Trevenant,4,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/154
+JTG-156,JTG,156,12,Beedrill,1,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/156
+JTG-156,JTG,156,19,Ethan's Typhlosion,1,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/156
+JTG-157,JTG,157,4,N's Zoroark,1,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/JTG/157
+JTG-159,JTG,159,11,Crustle,4,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/159
+JTG-159,JTG,159,47,Sylveon,1,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/159
+JTG-7,JTG,7,13,Festival Lead,1,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/7
+JTG-8,JTG,8,48,Froslass Munkidori,1,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/JTG/8
+MEE-1,MEE,1,2,Ogerpon Meganium,14,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/1
+MEE-1,MEE,1,5,Raging Bolt,7,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/1
+MEE-1,MEE,1,9,Basic Box,4,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/1
+MEE-1,MEE,1,11,Crustle,1,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/1
+MEE-1,MEE,1,12,Beedrill,5,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/1
+MEE-1,MEE,1,13,Festival Lead,5,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/1
+MEE-1,MEE,1,14,Rocket's Mewtwo,6,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/1
+MEE-1,MEE,1,30,Mega Venusaur,12,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/1
+MEE-1,MEE,1,31,Tera Box,5,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/1
+MEE-1,MEE,1,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/1
+MEE-1,MEE,1,38,Mega Manectric,4,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/1
+MEE-1,MEE,1,40,Rocket's Spidops,6,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/1
+MEE-1,MEE,1,41,Decidueye,3,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/1
+MEE-1,MEE,1,45,Joltik Box,4,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/1
+MEE-2,MEE,2,1,Dragapult,3,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/2
+MEE-2,MEE,2,9,Basic Box,1,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/2
+MEE-2,MEE,2,16,Mega Lopunny,1,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/2
+MEE-2,MEE,2,19,Ethan's Typhlosion,5,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/2
+MEE-2,MEE,2,21,Lillie's Clefairy,1,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/2
+MEE-2,MEE,2,23,Ceruledge,6,False,ptcg::archetype::ceruledge,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/2
+MEE-2,MEE,2,32,Mega Absol Box,2,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/2
+MEE-2,MEE,2,33,Flareon,2,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/2
+MEE-2,MEE,2,50,Mega Charizard X,10,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/2
+MEE-3,MEE,3,5,Raging Bolt,1,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/3
+MEE-3,MEE,3,8,Mega Greninja,7,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/3
+MEE-3,MEE,3,9,Basic Box,1,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/3
+MEE-3,MEE,3,15,Mega Starmie,4,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/3
+MEE-3,MEE,3,20,Greninja,6,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/3
+MEE-3,MEE,3,21,Lillie's Clefairy,2,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/3
+MEE-3,MEE,3,31,Tera Box,1,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/3
+MEE-3,MEE,3,33,Flareon,2,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/3
+MEE-3,MEE,3,36,Eelektrik,5,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/3
+MEE-3,MEE,3,38,Mega Manectric,2,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/3
+MEE-3,MEE,3,42,Mega Froslass,4,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/3
+MEE-3,MEE,3,43,Mega Abomasnow,30,False,ptcg::archetype::mega_abomasnow,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/3
+MEE-3,MEE,3,44,Bronzong,2,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/3
+MEE-3,MEE,3,45,Joltik Box,2,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/3
+MEE-3,MEE,3,46,Palafin,4,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/3
+MEE-3,MEE,3,47,Sylveon,1,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/3
+MEE-3,MEE,3,48,Froslass Munkidori,3,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/3
+MEE-4,MEE,4,5,Raging Bolt,2,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/4
+MEE-4,MEE,4,31,Tera Box,2,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/4
+MEE-4,MEE,4,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/4
+MEE-4,MEE,4,36,Eelektrik,5,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/4
+MEE-4,MEE,4,38,Mega Manectric,5,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/4
+MEE-4,MEE,4,45,Joltik Box,4,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/4
+MEE-5,MEE,5,1,Dragapult,3,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/5
+MEE-5,MEE,5,3,Alakazam,1,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/5
+MEE-5,MEE,5,5,Raging Bolt,2,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/5
+MEE-5,MEE,5,6,Slowking,4,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/5
+MEE-5,MEE,5,9,Basic Box,2,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/5
+MEE-5,MEE,5,14,Rocket's Mewtwo,1,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/5
+MEE-5,MEE,5,21,Lillie's Clefairy,4,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/5
+MEE-5,MEE,5,26,Steven's Metagross,5,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/5
+MEE-5,MEE,5,27,Mega Diancie,8,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/5
+MEE-5,MEE,5,28,Kangaskhan Bouffalant,5,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/5
+MEE-5,MEE,5,31,Tera Box,2,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/5
+MEE-5,MEE,5,33,Flareon,2,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/5
+MEE-5,MEE,5,38,Mega Manectric,2,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/5
+MEE-5,MEE,5,40,Rocket's Spidops,1,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/5
+MEE-5,MEE,5,44,Bronzong,3,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/5
+MEE-5,MEE,5,45,Joltik Box,2,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/5
+MEE-5,MEE,5,47,Sylveon,4,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/5
+MEE-5,MEE,5,49,Hydreigon,2,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/5
+MEE-6,MEE,6,5,Raging Bolt,2,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/6
+MEE-6,MEE,6,7,Mega Lucario,8,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/6
+MEE-6,MEE,6,9,Basic Box,1,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/6
+MEE-6,MEE,6,17,Cynthia's Garchomp,4,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/6
+MEE-6,MEE,6,21,Lillie's Clefairy,2,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/6
+MEE-6,MEE,6,23,Ceruledge,14,False,ptcg::archetype::ceruledge,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/6
+MEE-6,MEE,6,29,Okidogi,9,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/6
+MEE-6,MEE,6,31,Tera Box,2,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/6
+MEE-6,MEE,6,37,Bloodmoon Ursaluna,7,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/6
+MEE-7,MEE,7,1,Dragapult,2,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/7
+MEE-7,MEE,7,4,N's Zoroark,7,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/7
+MEE-7,MEE,7,9,Basic Box,2,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEE/7
+MEE-7,MEE,7,15,Mega Starmie,3,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/7
+MEE-7,MEE,7,24,Marnie's Grimmsnarl,9,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/7
+MEE-7,MEE,7,28,Kangaskhan Bouffalant,3,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/7
+MEE-7,MEE,7,32,Mega Absol Box,8,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/7
+MEE-7,MEE,7,35,Toxtricity,11,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/7
+MEE-7,MEE,7,37,Bloodmoon Ursaluna,3,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/7
+MEE-7,MEE,7,39,Mega Sharpedo,9,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/7
+MEE-7,MEE,7,42,Mega Froslass,4,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/7
+MEE-7,MEE,7,44,Bronzong,3,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/7
+MEE-7,MEE,7,46,Palafin,2,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/7
+MEE-7,MEE,7,47,Sylveon,3,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/7
+MEE-7,MEE,7,48,Froslass Munkidori,5,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/7
+MEE-7,MEE,7,49,Hydreigon,4,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/7
+MEE-8,MEE,8,22,Metagross,17,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/8
+MEE-8,MEE,8,25,Archaludon,10,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/8
+MEE-8,MEE,8,26,Steven's Metagross,5,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/8
+MEE-8,MEE,8,45,Joltik Box,2,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/8
+MEE-8,MEE,8,49,Hydreigon,2,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEE/8
+MEG-1,MEG,1,30,Mega Venusaur,2,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/1
+MEG-10,MEG,10,2,Ogerpon Meganium,2,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/10
+MEG-10,MEG,10,30,Mega Venusaur,2,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/10
+MEG-104,MEG,104,5,Raging Bolt,3,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/104
+MEG-104,MEG,104,6,Slowking,3,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/104
+MEG-104,MEG,104,9,Basic Box,4,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/104
+MEG-104,MEG,104,11,Crustle,4,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/104
+MEG-104,MEG,104,21,Lillie's Clefairy,4,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/104
+MEG-104,MEG,104,28,Kangaskhan Bouffalant,2,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/104
+MEG-104,MEG,104,30,Mega Venusaur,1,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/104
+MEG-104,MEG,104,31,Tera Box,2,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/104
+MEG-104,MEG,104,32,Mega Absol Box,2,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/104
+MEG-114,MEG,114,1,Dragapult,2,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,2,Ogerpon Meganium,2,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,3,Alakazam,2,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,4,N's Zoroark,3,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,5,Raging Bolt,2,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,7,Mega Lucario,4,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,8,Mega Greninja,2,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,9,Basic Box,3,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,11,Crustle,4,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,12,Beedrill,2,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,13,Festival Lead,2,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,15,Mega Starmie,3,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,16,Mega Lopunny,4,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,17,Cynthia's Garchomp,4,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,18,Hop's Trevenant,3,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,19,Ethan's Typhlosion,2,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,20,Greninja,2,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,21,Lillie's Clefairy,3,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,22,Metagross,2,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,23,Ceruledge,1,False,ptcg::archetype::ceruledge,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,24,Marnie's Grimmsnarl,3,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,25,Archaludon,3,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,26,Steven's Metagross,2,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,27,Mega Diancie,3,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,28,Kangaskhan Bouffalant,4,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,29,Okidogi,4,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,30,Mega Venusaur,2,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,31,Tera Box,2,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,32,Mega Absol Box,4,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,33,Flareon,3,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,34,Doublade,2,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,35,Toxtricity,3,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,36,Eelektrik,3,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,37,Bloodmoon Ursaluna,2,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,38,Mega Manectric,2,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,39,Mega Sharpedo,3,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,41,Decidueye,2,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,42,Mega Froslass,3,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,43,Mega Abomasnow,2,False,ptcg::archetype::mega_abomasnow,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,44,Bronzong,1,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,45,Joltik Box,4,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,46,Palafin,3,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,47,Sylveon,4,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,48,Froslass Munkidori,2,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,49,Hydreigon,2,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-114,MEG,114,50,Mega Charizard X,1,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/114
+MEG-115,MEG,115,5,Raging Bolt,4,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/115
+MEG-115,MEG,115,9,Basic Box,3,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/115
+MEG-115,MEG,115,14,Rocket's Mewtwo,1,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/115
+MEG-115,MEG,115,24,Marnie's Grimmsnarl,1,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/115
+MEG-115,MEG,115,31,Tera Box,2,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/115
+MEG-115,MEG,115,32,Mega Absol Box,1,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/115
+MEG-115,MEG,115,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/115
+MEG-115,MEG,115,35,Toxtricity,2,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/115
+MEG-115,MEG,115,37,Bloodmoon Ursaluna,2,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/115
+MEG-115,MEG,115,40,Rocket's Spidops,1,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/115
+MEG-115,MEG,115,49,Hydreigon,1,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/115
+MEG-116,MEG,116,7,Mega Lucario,4,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/116
+MEG-116,MEG,116,17,Cynthia's Garchomp,3,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/116
+MEG-116,MEG,116,23,Ceruledge,4,False,ptcg::archetype::ceruledge,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/116
+MEG-116,MEG,116,29,Okidogi,4,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/116
+MEG-116,MEG,116,37,Bloodmoon Ursaluna,4,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/116
+MEG-117,MEG,117,2,Ogerpon Meganium,3,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/117
+MEG-117,MEG,117,12,Beedrill,4,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/117
+MEG-117,MEG,117,30,Mega Venusaur,3,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/117
+MEG-117,MEG,117,41,Decidueye,4,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/117
+MEG-119,MEG,119,1,Dragapult,4,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,2,Ogerpon Meganium,4,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,4,N's Zoroark,4,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,5,Raging Bolt,1,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,6,Slowking,4,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,7,Mega Lucario,4,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,8,Mega Greninja,4,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,9,Basic Box,1,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,11,Crustle,4,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,12,Beedrill,4,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,13,Festival Lead,4,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,14,Rocket's Mewtwo,4,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,15,Mega Starmie,4,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,16,Mega Lopunny,4,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,17,Cynthia's Garchomp,4,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,18,Hop's Trevenant,4,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,19,Ethan's Typhlosion,2,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,20,Greninja,4,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,24,Marnie's Grimmsnarl,4,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,25,Archaludon,4,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,26,Steven's Metagross,4,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,27,Mega Diancie,4,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,29,Okidogi,4,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,30,Mega Venusaur,4,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,32,Mega Absol Box,2,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,34,Doublade,3,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,35,Toxtricity,4,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,36,Eelektrik,4,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,37,Bloodmoon Ursaluna,4,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,38,Mega Manectric,4,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,39,Mega Sharpedo,4,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,40,Rocket's Spidops,3,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,41,Decidueye,3,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,42,Mega Froslass,3,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,44,Bronzong,4,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,46,Palafin,4,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,47,Sylveon,4,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,48,Froslass Munkidori,4,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-119,MEG,119,50,Mega Charizard X,4,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/119
+MEG-12,MEG,12,2,Ogerpon Meganium,1,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/12
+MEG-12,MEG,12,30,Mega Venusaur,1,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/12
+MEG-121,MEG,121,39,Mega Sharpedo,1,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/121
+MEG-122,MEG,122,27,Mega Diancie,3,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/122
+MEG-123,MEG,123,11,Crustle,1,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/123
+MEG-124,MEG,124,7,Mega Lucario,4,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/124
+MEG-124,MEG,124,17,Cynthia's Garchomp,2,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/124
+MEG-124,MEG,124,29,Okidogi,1,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/124
+MEG-125,MEG,125,3,Alakazam,3,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/125
+MEG-125,MEG,125,8,Mega Greninja,3,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/125
+MEG-125,MEG,125,17,Cynthia's Garchomp,1,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/125
+MEG-125,MEG,125,19,Ethan's Typhlosion,2,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/125
+MEG-125,MEG,125,20,Greninja,2,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/125
+MEG-125,MEG,125,24,Marnie's Grimmsnarl,2,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/125
+MEG-125,MEG,125,26,Steven's Metagross,3,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/125
+MEG-125,MEG,125,27,Mega Diancie,1,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/125
+MEG-125,MEG,125,49,Hydreigon,2,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/125
+MEG-125,MEG,125,50,Mega Charizard X,3,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/125
+MEG-126,MEG,126,48,Froslass Munkidori,1,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/126
+MEG-127,MEG,127,15,Mega Starmie,2,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/127
+MEG-127,MEG,127,37,Bloodmoon Ursaluna,3,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/127
+MEG-127,MEG,127,42,Mega Froslass,2,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/127
+MEG-129,MEG,129,8,Mega Greninja,2,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/129
+MEG-129,MEG,129,43,Mega Abomasnow,2,False,ptcg::archetype::mega_abomasnow,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/129
+MEG-129,MEG,129,46,Palafin,3,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/129
+MEG-130,MEG,130,6,Slowking,1,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/130
+MEG-130,MEG,130,11,Crustle,1,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/130
+MEG-130,MEG,130,17,Cynthia's Garchomp,1,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/130
+MEG-130,MEG,130,18,Hop's Trevenant,1,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/130
+MEG-130,MEG,130,19,Ethan's Typhlosion,1,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/130
+MEG-130,MEG,130,20,Greninja,1,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/130
+MEG-130,MEG,130,27,Mega Diancie,1,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/130
+MEG-130,MEG,130,28,Kangaskhan Bouffalant,1,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/130
+MEG-130,MEG,130,44,Bronzong,1,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/130
+MEG-130,MEG,130,46,Palafin,2,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/130
+MEG-130,MEG,130,50,Mega Charizard X,1,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/130
+MEG-131,MEG,131,1,Dragapult,4,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,2,Ogerpon Meganium,2,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,4,N's Zoroark,3,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,5,Raging Bolt,4,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,6,Slowking,4,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,7,Mega Lucario,2,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,8,Mega Greninja,3,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,9,Basic Box,4,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,10,Rocket's Honchkrow,1,True,ptcg::archetype::rocket_s_honchkrow,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,11,Crustle,1,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,12,Beedrill,4,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,14,Rocket's Mewtwo,4,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,15,Mega Starmie,4,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,16,Mega Lopunny,4,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,18,Hop's Trevenant,1,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,19,Ethan's Typhlosion,4,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,20,Greninja,3,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,21,Lillie's Clefairy,4,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,22,Metagross,2,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,23,Ceruledge,4,False,ptcg::archetype::ceruledge,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,25,Archaludon,4,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,26,Steven's Metagross,3,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,27,Mega Diancie,4,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,30,Mega Venusaur,3,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,31,Tera Box,4,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,32,Mega Absol Box,1,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,33,Flareon,4,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,35,Toxtricity,1,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,36,Eelektrik,2,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,38,Mega Manectric,4,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,39,Mega Sharpedo,4,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,40,Rocket's Spidops,4,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,41,Decidueye,1,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,42,Mega Froslass,2,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,43,Mega Abomasnow,4,False,ptcg::archetype::mega_abomasnow,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,44,Bronzong,3,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,45,Joltik Box,4,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,46,Palafin,3,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,49,Hydreigon,2,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-131,MEG,131,50,Mega Charizard X,4,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/131
+MEG-132,MEG,132,15,Mega Starmie,1,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/132
+MEG-132,MEG,132,16,Mega Lopunny,4,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/132
+MEG-132,MEG,132,20,Greninja,1,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/132
+MEG-132,MEG,132,30,Mega Venusaur,1,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/132
+MEG-132,MEG,132,36,Eelektrik,2,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/132
+MEG-132,MEG,132,42,Mega Froslass,1,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/132
+MEG-2,MEG,2,30,Mega Venusaur,2,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/2
+MEG-3,MEG,3,30,Mega Venusaur,2,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/3
+MEG-34,MEG,34,43,Mega Abomasnow,2,False,ptcg::archetype::mega_abomasnow,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/34
+MEG-35,MEG,35,43,Mega Abomasnow,4,False,ptcg::archetype::mega_abomasnow,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/35
+MEG-36,MEG,36,43,Mega Abomasnow,4,False,ptcg::archetype::mega_abomasnow,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/36
+MEG-43,MEG,43,48,Froslass Munkidori,2,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/43
+MEG-45,MEG,45,38,Mega Manectric,1,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/45
+MEG-49,MEG,49,38,Mega Manectric,2,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/49
+MEG-50,MEG,50,38,Mega Manectric,2,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/50
+MEG-54,MEG,54,3,Alakazam,4,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/54
+MEG-55,MEG,55,3,Alakazam,4,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/55
+MEG-56,MEG,56,3,Alakazam,3,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/56
+MEG-74,MEG,74,7,Mega Lucario,2,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/74
+MEG-74,MEG,74,23,Ceruledge,2,False,ptcg::archetype::ceruledge,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/74
+MEG-74,MEG,74,29,Okidogi,2,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/74
+MEG-74,MEG,74,37,Bloodmoon Ursaluna,2,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/74
+MEG-75,MEG,75,7,Mega Lucario,2,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/75
+MEG-75,MEG,75,23,Ceruledge,2,False,ptcg::archetype::ceruledge,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/75
+MEG-75,MEG,75,29,Okidogi,3,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/75
+MEG-75,MEG,75,37,Bloodmoon Ursaluna,2,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/75
+MEG-76,MEG,76,7,Mega Lucario,1,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/76
+MEG-77,MEG,77,7,Mega Lucario,3,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/77
+MEG-8,MEG,8,2,Ogerpon Meganium,1,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/8
+MEG-8,MEG,8,30,Mega Venusaur,2,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/8
+MEG-86,MEG,86,32,Mega Absol Box,2,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/86
+MEG-86,MEG,86,35,Toxtricity,1,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/86
+MEG-88,MEG,88,4,N's Zoroark,1,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/88
+MEG-88,MEG,88,9,Basic Box,1,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/88
+MEG-88,MEG,88,24,Marnie's Grimmsnarl,1,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/88
+MEG-88,MEG,88,32,Mega Absol Box,2,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/88
+MEG-88,MEG,88,39,Mega Sharpedo,1,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/88
+MEG-88,MEG,88,48,Froslass Munkidori,1,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/88
+MEG-9,MEG,9,2,Ogerpon Meganium,1,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/MEG/9
+MEG-9,MEG,9,30,Mega Venusaur,2,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/9
+MEG-94,MEG,94,25,Archaludon,1,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/94
+MEG-94,MEG,94,26,Steven's Metagross,1,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/94
+MEG-95,MEG,95,26,Steven's Metagross,1,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/MEG/95
+PFL-11,PFL,11,50,Mega Charizard X,3,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/11
+PFL-12,PFL,12,50,Mega Charizard X,1,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/12
+PFL-13,PFL,13,50,Mega Charizard X,2,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/13
+PFL-14,PFL,14,9,Basic Box,1,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/PFL/14
+PFL-14,PFL,14,16,Mega Lopunny,1,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/14
+PFL-14,PFL,14,21,Lillie's Clefairy,1,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/14
+PFL-14,PFL,14,32,Mega Absol Box,1,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/14
+PFL-18,PFL,18,50,Mega Charizard X,2,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/18
+PFL-27,PFL,27,26,Steven's Metagross,1,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/27
+PFL-41,PFL,41,27,Mega Diancie,3,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/41
+PFL-60,PFL,60,39,Mega Sharpedo,3,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/60
+PFL-61,PFL,61,39,Mega Sharpedo,3,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/61
+PFL-67,PFL,67,35,Toxtricity,4,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/67
+PFL-67,PFL,67,39,Mega Sharpedo,2,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/67
+PFL-68,PFL,68,35,Toxtricity,4,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/68
+PFL-68,PFL,68,39,Mega Sharpedo,2,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/68
+PFL-70,PFL,70,26,Steven's Metagross,1,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/70
+PFL-8,PFL,8,30,Mega Venusaur,1,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/8
+PFL-83,PFL,83,16,Mega Lopunny,3,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/83
+PFL-83,PFL,83,39,Mega Sharpedo,1,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/83
+PFL-84,PFL,84,16,Mega Lopunny,3,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/84
+PFL-84,PFL,84,39,Mega Sharpedo,1,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/84
+PFL-85,PFL,85,16,Mega Lopunny,3,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/85
+PFL-85,PFL,85,19,Ethan's Typhlosion,2,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/85
+PFL-85,PFL,85,25,Archaludon,2,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/85
+PFL-85,PFL,85,26,Steven's Metagross,1,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/85
+PFL-85,PFL,85,29,Okidogi,2,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/85
+PFL-85,PFL,85,34,Doublade,2,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/85
+PFL-85,PFL,85,36,Eelektrik,2,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/85
+PFL-85,PFL,85,49,Hydreigon,1,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/85
+PFL-85,PFL,85,50,Mega Charizard X,1,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/85
+PFL-87,PFL,87,1,Dragapult,1,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/PFL/87
+PFL-87,PFL,87,2,Ogerpon Meganium,2,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/PFL/87
+PFL-87,PFL,87,3,Alakazam,4,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/PFL/87
+PFL-87,PFL,87,12,Beedrill,3,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/87
+PFL-87,PFL,87,13,Festival Lead,1,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/87
+PFL-87,PFL,87,41,Decidueye,3,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/87
+PFL-87,PFL,87,43,Mega Abomasnow,4,False,ptcg::archetype::mega_abomasnow,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/87
+PFL-87,PFL,87,49,Hydreigon,2,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/87
+PFL-87,PFL,87,50,Mega Charizard X,3,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/87
+PFL-91,PFL,91,11,Crustle,4,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/91
+PFL-91,PFL,91,28,Kangaskhan Bouffalant,4,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/91
+PFL-91,PFL,91,47,Sylveon,3,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/91
+PFL-94,PFL,94,6,Slowking,3,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/PFL/94
+PFL-94,PFL,94,21,Lillie's Clefairy,3,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/94
+PFL-94,PFL,94,27,Mega Diancie,4,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PFL/94
+POR-11,POR,11,41,Decidueye,3,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/11
+POR-12,POR,12,41,Decidueye,3,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/12
+POR-20,POR,20,15,Mega Starmie,2,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/20
+POR-20,POR,20,20,Greninja,2,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/20
+POR-20,POR,20,36,Eelektrik,2,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/20
+POR-20,POR,20,42,Mega Froslass,1,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/20
+POR-20,POR,20,46,Palafin,1,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/20
+POR-21,POR,21,15,Mega Starmie,2,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/21
+POR-21,POR,21,20,Greninja,1,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/21
+POR-21,POR,21,36,Eelektrik,2,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/21
+POR-21,POR,21,42,Mega Froslass,1,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/21
+POR-21,POR,21,46,Palafin,1,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/21
+POR-42,POR,42,29,Okidogi,2,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/42
+POR-43,POR,43,29,Okidogi,2,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/43
+POR-55,POR,55,26,Steven's Metagross,1,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/55
+POR-56,POR,56,34,Doublade,4,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/56
+POR-57,POR,57,34,Doublade,4,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/57
+POR-58,POR,58,34,Doublade,4,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/58
+POR-62,POR,62,1,Dragapult,1,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/POR/62
+POR-62,POR,62,2,Ogerpon Meganium,1,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/POR/62
+POR-62,POR,62,4,N's Zoroark,1,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/POR/62
+POR-62,POR,62,5,Raging Bolt,3,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/POR/62
+POR-62,POR,62,6,Slowking,1,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/POR/62
+POR-62,POR,62,8,Mega Greninja,1,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/POR/62
+POR-62,POR,62,9,Basic Box,3,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/POR/62
+POR-62,POR,62,15,Mega Starmie,1,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/62
+POR-62,POR,62,20,Greninja,1,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/62
+POR-62,POR,62,21,Lillie's Clefairy,4,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/62
+POR-62,POR,62,22,Metagross,1,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/62
+POR-62,POR,62,25,Archaludon,1,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/62
+POR-62,POR,62,26,Steven's Metagross,1,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/62
+POR-62,POR,62,27,Mega Diancie,1,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/62
+POR-62,POR,62,38,Mega Manectric,1,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/62
+POR-62,POR,62,44,Bronzong,1,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/62
+POR-62,POR,62,45,Joltik Box,2,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/62
+POR-62,POR,62,46,Palafin,1,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/62
+POR-62,POR,62,50,Mega Charizard X,1,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/62
+POR-71,POR,71,1,Dragapult,4,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/POR/71
+POR-72,POR,72,28,Kangaskhan Bouffalant,1,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/72
+POR-72,POR,72,31,Tera Box,1,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/72
+POR-72,POR,72,32,Mega Absol Box,1,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/72
+POR-72,POR,72,45,Joltik Box,1,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/72
+POR-72,POR,72,46,Palafin,1,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/72
+POR-72,POR,72,49,Hydreigon,2,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/72
+POR-75,POR,75,47,Sylveon,4,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/75
+POR-76,POR,76,17,Cynthia's Garchomp,1,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/76
+POR-76,POR,76,19,Ethan's Typhlosion,1,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/76
+POR-76,POR,76,20,Greninja,1,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/76
+POR-76,POR,76,25,Archaludon,2,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/76
+POR-76,POR,76,27,Mega Diancie,3,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/76
+POR-76,POR,76,30,Mega Venusaur,1,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/76
+POR-76,POR,76,36,Eelektrik,1,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/76
+POR-76,POR,76,39,Mega Sharpedo,4,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/76
+POR-76,POR,76,41,Decidueye,1,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/76
+POR-76,POR,76,50,Mega Charizard X,1,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/76
+POR-8,POR,8,41,Decidueye,2,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/8
+POR-81,POR,81,1,Dragapult,4,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,2,Ogerpon Meganium,2,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,3,Alakazam,4,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,4,N's Zoroark,1,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,6,Slowking,4,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,7,Mega Lucario,4,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,8,Mega Greninja,4,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,10,Rocket's Honchkrow,4,True,ptcg::archetype::rocket_s_honchkrow,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,12,Beedrill,4,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,13,Festival Lead,4,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,15,Mega Starmie,4,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,16,Mega Lopunny,4,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,17,Cynthia's Garchomp,3,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,18,Hop's Trevenant,4,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,19,Ethan's Typhlosion,2,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,20,Greninja,3,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,23,Ceruledge,3,False,ptcg::archetype::ceruledge,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,24,Marnie's Grimmsnarl,4,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,25,Archaludon,4,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,27,Mega Diancie,1,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,29,Okidogi,4,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,30,Mega Venusaur,2,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,31,Tera Box,2,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,33,Flareon,4,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,34,Doublade,4,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,35,Toxtricity,4,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,36,Eelektrik,4,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,37,Bloodmoon Ursaluna,4,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,39,Mega Sharpedo,3,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,40,Rocket's Spidops,1,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,41,Decidueye,4,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,42,Mega Froslass,4,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,44,Bronzong,4,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,46,Palafin,3,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,47,Sylveon,2,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,48,Froslass Munkidori,4,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,49,Hydreigon,3,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-81,POR,81,50,Mega Charizard X,3,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/81
+POR-82,POR,82,19,Ethan's Typhlosion,1,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/82
+POR-82,POR,82,23,Ceruledge,4,False,ptcg::archetype::ceruledge,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/82
+POR-85,POR,85,29,Okidogi,2,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/85
+POR-85,POR,85,37,Bloodmoon Ursaluna,1,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/85
+POR-86,POR,86,11,Crustle,4,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/86
+POR-86,POR,86,41,Decidueye,3,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/86
+POR-87,POR,87,7,Mega Lucario,4,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/POR/87
+POR-87,POR,87,17,Cynthia's Garchomp,3,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/87
+POR-88,POR,88,3,Alakazam,4,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/POR/88
+POR-88,POR,88,6,Slowking,4,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/POR/88
+POR-88,POR,88,18,Hop's Trevenant,4,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/88
+POR-88,POR,88,21,Lillie's Clefairy,1,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/88
+POR-88,POR,88,27,Mega Diancie,4,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/88
+POR-88,POR,88,44,Bronzong,3,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/88
+POR-9,POR,9,41,Decidueye,2,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/POR/9
+PRE-115,PRE,115,15,Mega Starmie,2,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/115
+PRE-115,PRE,115,48,Froslass Munkidori,3,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/115
+PRE-116,PRE,116,30,Mega Venusaur,1,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/116
+PRE-116,PRE,116,34,Doublade,1,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/116
+PRE-116,PRE,116,50,Mega Charizard X,1,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/116
+PRE-127,PRE,127,10,Rocket's Honchkrow,4,True,ptcg::archetype::rocket_s_honchkrow,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/PRE/127
+PRE-14,PRE,14,33,Flareon,2,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/14
+PRE-21,PRE,21,13,Festival Lead,1,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/21
+PRE-34,PRE,34,47,Sylveon,1,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/34
+PRE-35,PRE,35,1,Dragapult,2,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/PRE/35
+PRE-35,PRE,35,20,Greninja,2,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/35
+PRE-35,PRE,35,27,Mega Diancie,2,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/35
+PRE-36,PRE,36,1,Dragapult,2,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/PRE/36
+PRE-36,PRE,36,20,Greninja,1,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/36
+PRE-36,PRE,36,27,Mega Diancie,2,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/36
+PRE-37,PRE,37,1,Dragapult,1,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/PRE/37
+PRE-37,PRE,37,20,Greninja,1,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/37
+PRE-37,PRE,37,27,Mega Diancie,2,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/37
+PRE-40,PRE,40,47,Sylveon,3,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/40
+PRE-50,PRE,50,7,Mega Lucario,3,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/PRE/50
+PRE-54,PRE,54,29,Okidogi,1,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/54
+PRE-54,PRE,54,37,Bloodmoon Ursaluna,2,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/54
+PRE-6,PRE,6,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/6
+PRE-75,PRE,75,33,Flareon,3,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/75
+PRE-86,PRE,86,22,Metagross,1,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/86
+PRE-95,PRE,95,4,N's Zoroark,2,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/PRE/95
+PRE-95,PRE,95,39,Mega Sharpedo,2,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/PRE/95
+SCR-106,SCR,106,25,Archaludon,4,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/106
+SCR-114,SCR,114,2,Ogerpon Meganium,1,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SCR/114
+SCR-114,SCR,114,31,Tera Box,2,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/114
+SCR-114,SCR,114,33,Flareon,4,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/114
+SCR-114,SCR,114,49,Hydreigon,3,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/114
+SCR-115,SCR,115,2,Ogerpon Meganium,1,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SCR/115
+SCR-115,SCR,115,31,Tera Box,3,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/115
+SCR-115,SCR,115,33,Flareon,4,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/115
+SCR-115,SCR,115,49,Hydreigon,3,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/115
+SCR-119,SCR,119,28,Kangaskhan Bouffalant,2,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/119
+SCR-131,SCR,131,5,Raging Bolt,4,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SCR/131
+SCR-131,SCR,131,9,Basic Box,4,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SCR/131
+SCR-131,SCR,131,21,Lillie's Clefairy,4,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/131
+SCR-131,SCR,131,31,Tera Box,3,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/131
+SCR-131,SCR,131,33,Flareon,2,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/131
+SCR-131,SCR,131,45,Joltik Box,2,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/131
+SCR-131,SCR,131,49,Hydreigon,2,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/131
+SCR-132,SCR,132,2,Ogerpon Meganium,1,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SCR/132
+SCR-132,SCR,132,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/132
+SCR-133,SCR,133,1,Dragapult,3,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SCR/133
+SCR-133,SCR,133,5,Raging Bolt,4,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SCR/133
+SCR-133,SCR,133,9,Basic Box,4,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SCR/133
+SCR-133,SCR,133,15,Mega Starmie,1,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/133
+SCR-133,SCR,133,21,Lillie's Clefairy,4,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/133
+SCR-133,SCR,133,28,Kangaskhan Bouffalant,1,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/133
+SCR-133,SCR,133,31,Tera Box,4,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/133
+SCR-133,SCR,133,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/133
+SCR-133,SCR,133,36,Eelektrik,3,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/133
+SCR-133,SCR,133,37,Bloodmoon Ursaluna,2,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/133
+SCR-133,SCR,133,38,Mega Manectric,4,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/133
+SCR-133,SCR,133,42,Mega Froslass,2,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/133
+SCR-133,SCR,133,44,Bronzong,2,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/133
+SCR-133,SCR,133,45,Joltik Box,4,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/133
+SCR-133,SCR,133,46,Palafin,1,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/133
+SCR-133,SCR,133,47,Sylveon,3,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/133
+SCR-133,SCR,133,49,Hydreigon,2,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/133
+SCR-134,SCR,134,42,Mega Froslass,1,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/134
+SCR-136,SCR,136,20,Greninja,1,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/136
+SCR-14,SCR,14,2,Ogerpon Meganium,2,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SCR/14
+SCR-142,SCR,142,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/142
+SCR-50,SCR,50,38,Mega Manectric,2,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/50
+SCR-50,SCR,50,45,Joltik Box,2,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/50
+SCR-57,SCR,57,6,Slowking,4,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SCR/57
+SCR-58,SCR,58,6,Slowking,3,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SCR/58
+SCR-71,SCR,71,26,Steven's Metagross,1,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SCR/71
+SFA-2,SFA,2,38,Mega Manectric,1,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SFA/2
+SFA-2,SFA,2,45,Joltik Box,1,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SFA/2
+SFA-3,SFA,3,41,Decidueye,3,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SFA/3
+SFA-39,SFA,39,4,N's Zoroark,1,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SFA/39
+SFA-39,SFA,39,9,Basic Box,1,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SFA/39
+SFA-39,SFA,39,32,Mega Absol Box,1,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SFA/39
+SFA-39,SFA,39,35,Toxtricity,1,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SFA/39
+SFA-39,SFA,39,39,Mega Sharpedo,2,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SFA/39
+SFA-40,SFA,40,3,Alakazam,1,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SFA/40
+SFA-40,SFA,40,37,Bloodmoon Ursaluna,1,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SFA/40
+SFA-47,SFA,47,6,Slowking,2,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SFA/47
+SFA-54,SFA,54,6,Slowking,4,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SFA/54
+SFA-57,SFA,57,20,Greninja,2,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SFA/57
+SFA-57,SFA,57,30,Mega Venusaur,1,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SFA/57
+SFA-57,SFA,57,38,Mega Manectric,1,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SFA/57
+SFA-6,SFA,6,2,Ogerpon Meganium,1,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SFA/6
+SFA-60,SFA,60,48,Froslass Munkidori,1,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SFA/60
+SFA-63,SFA,63,27,Mega Diancie,2,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SFA/63
+SFA-64,SFA,64,11,Crustle,1,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SFA/64
+SFA-64,SFA,64,47,Sylveon,1,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SFA/64
+SSP-111,SSP,111,5,Raging Bolt,1,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SSP/111
+SSP-111,SSP,111,31,Tera Box,1,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/111
+SSP-117,SSP,117,49,Hydreigon,3,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/117
+SSP-118,SSP,118,49,Hydreigon,2,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/118
+SSP-119,SSP,119,49,Hydreigon,3,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/119
+SSP-130,SSP,130,25,Archaludon,3,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/130
+SSP-143,SSP,143,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/143
+SSP-151,SSP,151,28,Kangaskhan Bouffalant,1,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/151
+SSP-164,SSP,164,23,Ceruledge,1,False,ptcg::archetype::ceruledge,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/164
+SSP-170,SSP,170,4,N's Zoroark,2,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SSP/170
+SSP-170,SSP,170,5,Raging Bolt,2,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SSP/170
+SSP-170,SSP,170,9,Basic Box,1,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SSP/170
+SSP-170,SSP,170,21,Lillie's Clefairy,1,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/170
+SSP-170,SSP,170,31,Tera Box,1,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/170
+SSP-170,SSP,170,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/170
+SSP-174,SSP,174,13,Festival Lead,1,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/174
+SSP-175,SSP,175,21,Lillie's Clefairy,4,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/175
+SSP-177,SSP,177,7,Mega Lucario,2,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SSP/177
+SSP-177,SSP,177,19,Ethan's Typhlosion,1,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/177
+SSP-177,SSP,177,22,Metagross,1,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/177
+SSP-177,SSP,177,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/177
+SSP-177,SSP,177,39,Mega Sharpedo,1,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/177
+SSP-177,SSP,177,42,Mega Froslass,1,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/177
+SSP-177,SSP,177,45,Joltik Box,1,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/177
+SSP-177,SSP,177,46,Palafin,1,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/177
+SSP-179,SSP,179,11,Crustle,1,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/179
+SSP-179,SSP,179,32,Mega Absol Box,2,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/179
+SSP-183,SSP,183,10,Rocket's Honchkrow,1,True,ptcg::archetype::rocket_s_honchkrow,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SSP/183
+SSP-185,SSP,185,22,Metagross,1,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/185
+SSP-185,SSP,185,28,Kangaskhan Bouffalant,1,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/185
+SSP-185,SSP,185,32,Mega Absol Box,1,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/185
+SSP-185,SSP,185,45,Joltik Box,1,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/185
+SSP-189,SSP,189,49,Hydreigon,3,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/189
+SSP-191,SSP,191,3,Alakazam,1,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SSP/191
+SSP-191,SSP,191,16,Mega Lopunny,1,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/191
+SSP-21,SSP,21,19,Ethan's Typhlosion,2,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/21
+SSP-32,SSP,32,23,Ceruledge,4,False,ptcg::archetype::ceruledge,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/32
+SSP-36,SSP,36,23,Ceruledge,3,False,ptcg::archetype::ceruledge,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/36
+SSP-5,SSP,5,41,Decidueye,2,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/5
+SSP-56,SSP,56,5,Raging Bolt,1,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SSP/56
+SSP-56,SSP,56,9,Basic Box,1,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SSP/56
+SSP-56,SSP,56,12,Beedrill,1,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/56
+SSP-56,SSP,56,21,Lillie's Clefairy,1,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/56
+SSP-56,SSP,56,31,Tera Box,1,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/56
+SSP-59,SSP,59,38,Mega Manectric,1,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/59
+SSP-75,SSP,75,28,Kangaskhan Bouffalant,2,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/75
+SSP-76,SSP,76,5,Raging Bolt,2,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SSP/76
+SSP-76,SSP,76,6,Slowking,2,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SSP/76
+SSP-76,SSP,76,9,Basic Box,2,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SSP/76
+SSP-76,SSP,76,20,Greninja,1,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/76
+SSP-76,SSP,76,21,Lillie's Clefairy,3,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/76
+SSP-76,SSP,76,26,Steven's Metagross,1,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/76
+SSP-76,SSP,76,27,Mega Diancie,1,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/76
+SSP-76,SSP,76,28,Kangaskhan Bouffalant,2,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/76
+SSP-76,SSP,76,31,Tera Box,1,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/76
+SSP-76,SSP,76,32,Mega Absol Box,1,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/76
+SSP-76,SSP,76,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/76
+SSP-76,SSP,76,38,Mega Manectric,2,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/76
+SSP-76,SSP,76,44,Bronzong,1,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/76
+SSP-76,SSP,76,45,Joltik Box,2,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/76
+SSP-86,SSP,86,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/86
+SSP-87,SSP,87,3,Alakazam,1,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SSP/87
+SSP-87,SSP,87,47,Sylveon,1,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SSP/87
+SVI-171,SVI,171,8,Mega Greninja,1,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/SVI/171
+SVI-171,SVI,171,31,Tera Box,1,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SVI/171
+SVI-171,SVI,171,37,Bloodmoon Ursaluna,2,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SVI/171
+SVI-171,SVI,171,50,Mega Charizard X,2,False,ptcg::archetype::mega_charizard_x,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SVI/171
+SVI-186,SVI,186,11,Crustle,3,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SVI/186
+SVI-186,SVI,186,16,Mega Lopunny,3,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SVI/186
+SVI-186,SVI,186,17,Cynthia's Garchomp,2,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SVI/186
+SVI-186,SVI,186,18,Hop's Trevenant,4,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SVI/186
+SVI-186,SVI,186,28,Kangaskhan Bouffalant,3,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SVI/186
+SVI-186,SVI,186,29,Okidogi,1,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SVI/186
+SVI-186,SVI,186,35,Toxtricity,3,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SVI/186
+SVI-186,SVI,186,38,Mega Manectric,4,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SVI/186
+SVI-186,SVI,186,42,Mega Froslass,2,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SVI/186
+SVI-186,SVI,186,44,Bronzong,3,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SVI/186
+SVI-186,SVI,186,47,Sylveon,4,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SVI/186
+SVI-186,SVI,186,48,Froslass Munkidori,4,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SVI/186
+SVP-129,SVP,129,35,Toxtricity,2,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/SVP/129
+TEF-113,TEF,113,22,Metagross,4,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/113
+TEF-114,TEF,114,22,Metagross,4,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/114
+TEF-123,TEF,123,5,Raging Bolt,2,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TEF/123
+TEF-123,TEF,123,31,Tera Box,1,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/123
+TEF-126,TEF,126,31,Tera Box,1,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/126
+TEF-128,TEF,128,15,Mega Starmie,2,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/128
+TEF-128,TEF,128,46,Palafin,1,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/128
+TEF-129,TEF,129,3,Alakazam,3,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TEF/129
+TEF-129,TEF,129,7,Mega Lucario,2,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TEF/129
+TEF-129,TEF,129,8,Mega Greninja,2,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TEF/129
+TEF-129,TEF,129,12,Beedrill,3,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/129
+TEF-129,TEF,129,15,Mega Starmie,2,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/129
+TEF-129,TEF,129,16,Mega Lopunny,3,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/129
+TEF-129,TEF,129,25,Archaludon,3,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/129
+TEF-129,TEF,129,41,Decidueye,2,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/129
+TEF-129,TEF,129,42,Mega Froslass,2,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/129
+TEF-129,TEF,129,46,Palafin,2,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/129
+TEF-142,TEF,142,11,Crustle,1,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/142
+TEF-145,TEF,145,5,Raging Bolt,1,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TEF/145
+TEF-145,TEF,145,6,Slowking,4,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TEF/145
+TEF-145,TEF,145,9,Basic Box,1,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TEF/145
+TEF-145,TEF,145,21,Lillie's Clefairy,2,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/145
+TEF-145,TEF,145,28,Kangaskhan Bouffalant,2,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/145
+TEF-145,TEF,145,29,Okidogi,1,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/145
+TEF-146,TEF,146,11,Crustle,2,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/146
+TEF-147,TEF,147,23,Ceruledge,4,False,ptcg::archetype::ceruledge,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/147
+TEF-150,TEF,150,11,Crustle,1,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/150
+TEF-152,TEF,152,9,Basic Box,1,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TEF/152
+TEF-152,TEF,152,11,Crustle,1,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/152
+TEF-152,TEF,152,43,Mega Abomasnow,1,False,ptcg::archetype::mega_abomasnow,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/152
+TEF-152,TEF,152,47,Sylveon,1,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/152
+TEF-154,TEF,154,14,Rocket's Mewtwo,1,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/154
+TEF-155,TEF,155,29,Okidogi,2,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/155
+TEF-157,TEF,157,21,Lillie's Clefairy,1,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/157
+TEF-157,TEF,157,38,Mega Manectric,1,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/157
+TEF-157,TEF,157,41,Decidueye,1,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/157
+TEF-160,TEF,160,15,Mega Starmie,1,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/160
+TEF-160,TEF,160,44,Bronzong,2,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/160
+TEF-161,TEF,161,11,Crustle,4,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/161
+TEF-161,TEF,161,16,Mega Lopunny,4,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/161
+TEF-161,TEF,161,18,Hop's Trevenant,4,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/161
+TEF-161,TEF,161,28,Kangaskhan Bouffalant,2,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/161
+TEF-161,TEF,161,34,Doublade,4,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/161
+TEF-161,TEF,161,47,Sylveon,4,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/161
+TEF-162,TEF,162,8,Mega Greninja,1,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TEF/162
+TEF-162,TEF,162,17,Cynthia's Garchomp,1,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/162
+TEF-162,TEF,162,49,Hydreigon,1,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/162
+TEF-25,TEF,25,5,Raging Bolt,1,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TEF/25
+TEF-25,TEF,25,31,Tera Box,1,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/25
+TEF-25,TEF,25,45,Joltik Box,1,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/25
+TEF-45,TEF,45,48,Froslass Munkidori,2,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/45
+TEF-68,TEF,68,27,Mega Diancie,1,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/68
+TEF-68,TEF,68,44,Bronzong,3,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/68
+TEF-69,TEF,69,27,Mega Diancie,1,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/69
+TEF-69,TEF,69,44,Bronzong,3,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/69
+TEF-84,TEF,84,25,Archaludon,1,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/84
+TEF-84,TEF,84,41,Decidueye,1,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/84
+TEF-85,TEF,85,23,Ceruledge,1,False,ptcg::archetype::ceruledge,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TEF/85
+TWM-106,TWM,106,8,Mega Greninja,2,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/106
+TWM-106,TWM,106,20,Greninja,2,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/106
+TWM-111,TWM,111,29,Okidogi,4,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/111
+TWM-112,TWM,112,29,Okidogi,1,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/112
+TWM-118,TWM,118,35,Toxtricity,1,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/118
+TWM-123,TWM,123,22,Metagross,1,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/123
+TWM-126,TWM,126,13,Festival Lead,1,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/126
+TWM-131,TWM,131,4,N's Zoroark,1,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/131
+TWM-131,TWM,131,24,Marnie's Grimmsnarl,1,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/131
+TWM-131,TWM,131,39,Mega Sharpedo,2,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/131
+TWM-135,TWM,135,47,Sylveon,4,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/135
+TWM-14,TWM,14,13,Festival Lead,4,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/14
+TWM-141,TWM,141,28,Kangaskhan Bouffalant,1,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/141
+TWM-141,TWM,141,32,Mega Absol Box,1,False,ptcg::archetype::mega_absol_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/141
+TWM-141,TWM,141,45,Joltik Box,1,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/141
+TWM-143,TWM,143,2,Ogerpon Meganium,4,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/143
+TWM-143,TWM,143,12,Beedrill,3,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/143
+TWM-143,TWM,143,13,Festival Lead,4,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/143
+TWM-143,TWM,143,14,Rocket's Mewtwo,2,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/143
+TWM-143,TWM,143,30,Mega Venusaur,3,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/143
+TWM-143,TWM,143,40,Rocket's Spidops,2,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/143
+TWM-143,TWM,143,41,Decidueye,3,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/143
+TWM-145,TWM,145,23,Ceruledge,4,False,ptcg::archetype::ceruledge,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/145
+TWM-146,TWM,146,11,Crustle,1,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/146
+TWM-148,TWM,148,3,Alakazam,2,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/148
+TWM-149,TWM,149,11,Crustle,1,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/149
+TWM-149,TWM,149,13,Festival Lead,3,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/149
+TWM-15,TWM,15,13,Festival Lead,4,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/15
+TWM-150,TWM,150,1,Dragapult,1,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/150
+TWM-150,TWM,150,3,Alakazam,1,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/150
+TWM-150,TWM,150,11,Crustle,1,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/150
+TWM-150,TWM,150,28,Kangaskhan Bouffalant,2,False,ptcg::archetype::kangaskhan_bouffalant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/150
+TWM-150,TWM,150,47,Sylveon,1,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/150
+TWM-151,TWM,151,18,Hop's Trevenant,2,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/151
+TWM-152,TWM,152,12,Beedrill,1,False,ptcg::archetype::beedrill,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/152
+TWM-153,TWM,153,1,Dragapult,1,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/153
+TWM-153,TWM,153,7,Mega Lucario,1,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/153
+TWM-153,TWM,153,20,Greninja,1,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/153
+TWM-153,TWM,153,38,Mega Manectric,2,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/153
+TWM-153,TWM,153,44,Bronzong,1,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/153
+TWM-154,TWM,154,13,Festival Lead,2,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/154
+TWM-154,TWM,154,19,Ethan's Typhlosion,1,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/154
+TWM-154,TWM,154,26,Steven's Metagross,1,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/154
+TWM-154,TWM,154,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/154
+TWM-154,TWM,154,44,Bronzong,1,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/154
+TWM-155,TWM,155,2,Ogerpon Meganium,1,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/155
+TWM-155,TWM,155,3,Alakazam,1,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/155
+TWM-155,TWM,155,13,Festival Lead,1,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/155
+TWM-155,TWM,155,19,Ethan's Typhlosion,2,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/155
+TWM-155,TWM,155,30,Mega Venusaur,1,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/155
+TWM-155,TWM,155,38,Mega Manectric,1,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/155
+TWM-155,TWM,155,42,Mega Froslass,1,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/155
+TWM-157,TWM,157,42,Mega Froslass,3,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/157
+TWM-158,TWM,158,3,Alakazam,1,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/158
+TWM-158,TWM,158,6,Slowking,1,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/158
+TWM-158,TWM,158,14,Rocket's Mewtwo,2,False,ptcg::archetype::rocket_s_mewtwo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/158
+TWM-158,TWM,158,44,Bronzong,1,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/158
+TWM-16,TWM,16,13,Festival Lead,1,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/16
+TWM-162,TWM,162,25,Archaludon,1,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/162
+TWM-162,TWM,162,46,Palafin,1,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/162
+TWM-163,TWM,163,4,N's Zoroark,1,True,ptcg::archetype::n_s_zoroark,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/163
+TWM-163,TWM,163,6,Slowking,1,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/163
+TWM-163,TWM,163,13,Festival Lead,1,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/163
+TWM-163,TWM,163,18,Hop's Trevenant,1,False,ptcg::archetype::hop_s_trevenant,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/163
+TWM-163,TWM,163,19,Ethan's Typhlosion,1,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/163
+TWM-163,TWM,163,24,Marnie's Grimmsnarl,1,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/163
+TWM-163,TWM,163,27,Mega Diancie,1,False,ptcg::archetype::mega_diancie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/163
+TWM-163,TWM,163,35,Toxtricity,1,False,ptcg::archetype::toxtricity,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/163
+TWM-163,TWM,163,37,Bloodmoon Ursaluna,1,False,ptcg::archetype::bloodmoon_ursaluna,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/163
+TWM-163,TWM,163,40,Rocket's Spidops,1,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/163
+TWM-163,TWM,163,44,Bronzong,1,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/163
+TWM-165,TWM,165,1,Dragapult,1,True,ptcg::archetype::dragapult,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/165
+TWM-165,TWM,165,2,Ogerpon Meganium,1,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/165
+TWM-165,TWM,165,5,Raging Bolt,1,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/165
+TWM-165,TWM,165,26,Steven's Metagross,1,False,ptcg::archetype::steven_s_metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/165
+TWM-165,TWM,165,31,Tera Box,1,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/165
+TWM-165,TWM,165,36,Eelektrik,1,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/165
+TWM-165,TWM,165,39,Mega Sharpedo,1,False,ptcg::archetype::mega_sharpedo,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/165
+TWM-166,TWM,166,6,Slowking,3,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/166
+TWM-167,TWM,167,7,Mega Lucario,1,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/167
+TWM-167,TWM,167,15,Mega Starmie,1,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/167
+TWM-167,TWM,167,29,Okidogi,1,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/167
+TWM-17,TWM,17,2,Ogerpon Meganium,2,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/17
+TWM-17,TWM,17,13,Festival Lead,3,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/17
+TWM-18,TWM,18,2,Ogerpon Meganium,2,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/18
+TWM-18,TWM,18,13,Festival Lead,4,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/18
+TWM-25,TWM,25,2,Ogerpon Meganium,4,True,ptcg::archetype::ogerpon_meganium,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/25
+TWM-25,TWM,25,5,Raging Bolt,3,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/25
+TWM-25,TWM,25,9,Basic Box,1,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/25
+TWM-25,TWM,25,30,Mega Venusaur,4,False,ptcg::archetype::mega_venusaur,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/25
+TWM-25,TWM,25,31,Tera Box,3,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/25
+TWM-44,TWM,44,13,Festival Lead,1,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/44
+TWM-52,TWM,52,15,Mega Starmie,1,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/52
+TWM-52,TWM,52,48,Froslass Munkidori,1,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/52
+TWM-53,TWM,53,15,Mega Starmie,3,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/53
+TWM-53,TWM,53,24,Marnie's Grimmsnarl,2,False,ptcg::archetype::marnie_s_grimmsnarl,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/53
+TWM-53,TWM,53,42,Mega Froslass,2,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/53
+TWM-53,TWM,53,44,Bronzong,2,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/53
+TWM-53,TWM,53,48,Froslass Munkidori,3,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/53
+TWM-57,TWM,57,20,Greninja,1,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/57
+TWM-59,TWM,59,46,Palafin,3,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/59
+TWM-60,TWM,60,46,Palafin,2,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/60
+TWM-61,TWM,61,46,Palafin,2,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/61
+TWM-64,TWM,64,5,Raging Bolt,1,True,ptcg::archetype::raging_bolt,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/64
+TWM-64,TWM,64,9,Basic Box,1,True,ptcg::archetype::basic_box,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/TWM/64
+TWM-64,TWM,64,21,Lillie's Clefairy,2,False,ptcg::archetype::lillie_s_clefairy,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/64
+TWM-64,TWM,64,31,Tera Box,1,False,ptcg::archetype::tera_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/64
+TWM-64,TWM,64,36,Eelektrik,1,False,ptcg::archetype::eelektrik,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/64
+TWM-64,TWM,64,38,Mega Manectric,2,False,ptcg::archetype::mega_manectric,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/64
+TWM-64,TWM,64,45,Joltik Box,2,False,ptcg::archetype::joltik_box,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/64
+TWM-80,TWM,80,16,Mega Lopunny,1,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/80
+TWM-96,TWM,96,47,Sylveon,1,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/TWM/96
+WHT-80,WHT,80,6,Slowking,1,True,ptcg::archetype::slowking,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/WHT/80
+WHT-80,WHT,80,13,Festival Lead,2,False,ptcg::archetype::festival_lead,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/80
+WHT-80,WHT,80,19,Ethan's Typhlosion,2,False,ptcg::archetype::ethan_s_typhlosion,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/80
+WHT-80,WHT,80,22,Metagross,1,False,ptcg::archetype::metagross,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/80
+WHT-80,WHT,80,29,Okidogi,1,False,ptcg::archetype::okidogi,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/80
+WHT-80,WHT,80,40,Rocket's Spidops,2,False,ptcg::archetype::rocket_s_spidops,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/80
+WHT-84,WHT,84,3,Alakazam,3,True,ptcg::archetype::alakazam,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/WHT/84
+WHT-84,WHT,84,7,Mega Lucario,2,True,ptcg::archetype::mega_lucario,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/WHT/84
+WHT-84,WHT,84,8,Mega Greninja,3,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/WHT/84
+WHT-84,WHT,84,11,Crustle,2,False,ptcg::archetype::crustle,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/84
+WHT-84,WHT,84,15,Mega Starmie,2,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/84
+WHT-84,WHT,84,16,Mega Lopunny,2,False,ptcg::archetype::mega_lopunny,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/84
+WHT-84,WHT,84,17,Cynthia's Garchomp,2,False,ptcg::archetype::cynthia_s_garchomp,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/84
+WHT-84,WHT,84,20,Greninja,3,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/84
+WHT-84,WHT,84,25,Archaludon,1,False,ptcg::archetype::archaludon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/84
+WHT-84,WHT,84,33,Flareon,1,False,ptcg::archetype::flareon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/84
+WHT-84,WHT,84,34,Doublade,3,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/84
+WHT-84,WHT,84,42,Mega Froslass,2,False,ptcg::archetype::mega_froslass,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/84
+WHT-84,WHT,84,44,Bronzong,1,False,ptcg::archetype::bronzong,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/84
+WHT-84,WHT,84,46,Palafin,3,False,ptcg::archetype::palafin,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/84
+WHT-84,WHT,84,47,Sylveon,1,False,ptcg::archetype::sylveon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/84
+WHT-84,WHT,84,48,Froslass Munkidori,3,False,ptcg::archetype::froslass_munkidori,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/84
+WHT-84,WHT,84,49,Hydreigon,3,False,ptcg::archetype::hydreigon,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/84
+WHT-86,WHT,86,8,Mega Greninja,2,True,ptcg::archetype::mega_greninja,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/WHT/86
+WHT-86,WHT,86,10,Rocket's Honchkrow,4,True,ptcg::archetype::rocket_s_honchkrow,ptcg::meta::2026_06::top50,ptcg::meta::2026_06::top10,https://limitlesstcg.com/cards/WHT/86
+WHT-86,WHT,86,15,Mega Starmie,1,False,ptcg::archetype::mega_starmie,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/86
+WHT-86,WHT,86,20,Greninja,3,False,ptcg::archetype::greninja,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/86
+WHT-86,WHT,86,34,Doublade,4,False,ptcg::archetype::doublade,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/86
+WHT-86,WHT,86,41,Decidueye,2,False,ptcg::archetype::decidueye,ptcg::meta::2026_06::top50,,https://limitlesstcg.com/cards/WHT/86

@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PTCG Energy Anki note",
+  "type": "object",
+  "required": [
+    "CardKey",
+    "Name"
+  ],
+  "properties": {
+    "CardKey": {
+      "type": "string"
+    },
+    "Name": {
+      "type": "string"
+    },
+    "AutoDisplayLabel": {
+      "type": "string"
+    },
+    "DisplayLabelOverride": {
+      "type": "string"
+    },
+    "ArtworkImage": {
+      "type": "string"
+    },
+    "FullCardImage": {
+      "type": "string"
+    },
+    "DisplaySetCode": {
+      "type": "string"
+    },
+    "DisplayCollectorNumber": {
+      "type": "string"
+    },
+    "EnergySubtype": {
+      "type": "string"
+    },
+    "EnergyProvided": {
+      "type": "string"
+    },
+    "EffectText": {
+      "type": "string"
+    },
+    "OtherRuleText": {
+      "type": "string"
+    },
+    "CompetitiveRole": {
+      "type": "string"
+    },
+    "Rulings": {
+      "type": "string"
+    },
+    "SourceAttribution": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}

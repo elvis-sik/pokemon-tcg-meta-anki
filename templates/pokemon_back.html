@@ -1,0 +1,87 @@
+<div class="ptcg-shell">
+  <div class="ptcg-label">
+    {{#DisplayLabelOverride}}{{DisplayLabelOverride}}{{/DisplayLabelOverride}}
+    {{^DisplayLabelOverride}}{{AutoDisplayLabel}}{{/DisplayLabelOverride}}
+  </div>
+
+  <div class="ptcg-answer-grid">
+    <div class="ptcg-full-card">{{FullCardImage}}</div>
+
+    <div class="ptcg-panel">
+      <section class="ptcg-section">
+        <div class="ptcg-section-title">Identity</div>
+        <div class="ptcg-facts">
+          {{#PokemonType1}}<span class="ptcg-chip">{{PokemonType1}}{{#PokemonType2}} / {{PokemonType2}}{{/PokemonType2}}</span>{{/PokemonType1}}
+          {{#HP}}<span class="ptcg-chip">{{HP}} HP</span>{{/HP}}
+          {{#Stage}}<span class="ptcg-chip">{{Stage}}</span>{{/Stage}}
+          {{#EvolvesFrom}}<span class="ptcg-chip">Evolves from {{EvolvesFrom}}</span>{{/EvolvesFrom}}
+          {{#RuleBoxClass}}<span class="ptcg-chip">{{RuleBoxClass}}</span>{{/RuleBoxClass}}
+          {{#SpecialLabels}}<span class="ptcg-chip">{{SpecialLabels}}</span>{{/SpecialLabels}}
+          {{#PrizeValue}}<span class="ptcg-chip">{{PrizeValue}} Prize(s) when Knocked Out</span>{{/PrizeValue}}
+        </div>
+      </section>
+
+      {{#Ability1Name}}
+      <section class="ptcg-section">
+        <div class="ptcg-section-title">Abilities</div>
+        <div class="ptcg-mechanic">
+          <div class="ptcg-mechanic-head"><span>{{#Ability1Kind}}{{Ability1Kind}}: {{/Ability1Kind}}{{Ability1Name}}</span></div>
+          <div class="ptcg-text">{{Ability1Text}}</div>
+        </div>
+        {{#Ability2Name}}<div class="ptcg-mechanic">
+          <div class="ptcg-mechanic-head"><span>{{#Ability2Kind}}{{Ability2Kind}}: {{/Ability2Kind}}{{Ability2Name}}</span></div>
+          <div class="ptcg-text">{{Ability2Text}}</div>
+        </div>{{/Ability2Name}}
+        {{#Ability3Name}}<div class="ptcg-mechanic">
+          <div class="ptcg-mechanic-head"><span>{{#Ability3Kind}}{{Ability3Kind}}: {{/Ability3Kind}}{{Ability3Name}}</span></div>
+          <div class="ptcg-text">{{Ability3Text}}</div>
+        </div>{{/Ability3Name}}
+      </section>
+      {{/Ability1Name}}
+
+      {{#Attack1Name}}
+      <section class="ptcg-section">
+        <div class="ptcg-section-title">Attacks</div>
+        <div class="ptcg-mechanic">
+          <div class="ptcg-mechanic-head"><span>{{Attack1Name}}</span><span class="ptcg-cost">{{Attack1Cost}}</span><span class="ptcg-damage">{{Attack1Damage}}</span></div>
+          {{#Attack1Text}}<div class="ptcg-text">{{Attack1Text}}</div>{{/Attack1Text}}
+        </div>
+        {{#Attack2Name}}<div class="ptcg-mechanic">
+          <div class="ptcg-mechanic-head"><span>{{Attack2Name}}</span><span class="ptcg-cost">{{Attack2Cost}}</span><span class="ptcg-damage">{{Attack2Damage}}</span></div>
+          {{#Attack2Text}}<div class="ptcg-text">{{Attack2Text}}</div>{{/Attack2Text}}
+        </div>{{/Attack2Name}}
+        {{#Attack3Name}}<div class="ptcg-mechanic">
+          <div class="ptcg-mechanic-head"><span>{{Attack3Name}}</span><span class="ptcg-cost">{{Attack3Cost}}</span><span class="ptcg-damage">{{Attack3Damage}}</span></div>
+          {{#Attack3Text}}<div class="ptcg-text">{{Attack3Text}}</div>{{/Attack3Text}}
+        </div>{{/Attack3Name}}
+        {{#Attack4Name}}<div class="ptcg-mechanic">
+          <div class="ptcg-mechanic-head"><span>{{Attack4Name}}</span><span class="ptcg-cost">{{Attack4Cost}}</span><span class="ptcg-damage">{{Attack4Damage}}</span></div>
+          {{#Attack4Text}}<div class="ptcg-text">{{Attack4Text}}</div>{{/Attack4Text}}
+        </div>{{/Attack4Name}}
+      </section>
+      {{/Attack1Name}}
+
+      <section class="ptcg-section">
+        <div class="ptcg-section-title">Combat</div>
+        <div class="ptcg-facts">
+          {{#Weakness1Type}}<span class="ptcg-chip">Weakness: {{Weakness1Type}} {{Weakness1Value}}</span>{{/Weakness1Type}}
+          {{#Weakness2Type}}<span class="ptcg-chip">Weakness: {{Weakness2Type}} {{Weakness2Value}}</span>{{/Weakness2Type}}
+          {{#Resistance1Type}}<span class="ptcg-chip">Resistance: {{Resistance1Type}} {{Resistance1Value}}</span>{{/Resistance1Type}}
+          {{#Resistance2Type}}<span class="ptcg-chip">Resistance: {{Resistance2Type}} {{Resistance2Value}}</span>{{/Resistance2Type}}
+          <span class="ptcg-chip">Retreat: {{RetreatCost}}</span>
+        </div>
+      </section>
+
+      {{#OtherRuleText}}<section class="ptcg-section">
+        <div class="ptcg-section-title">Rule text</div>
+        <div class="ptcg-text">{{OtherRuleText}}</div>
+      </section>{{/OtherRuleText}}
+
+      <dl class="ptcg-secondary">
+        {{#CompetitiveRole}}<dt>Competitive role</dt><dd>{{CompetitiveRole}}</dd>{{/CompetitiveRole}}
+        {{#Rulings}}<dt>Rulings</dt><dd>{{Rulings}}</dd>{{/Rulings}}
+        {{#SourceAttribution}}<dt>Source</dt><dd>{{SourceAttribution}}</dd>{{/SourceAttribution}}
+      </dl>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,19 @@
+limitless_code,full_name,tcgdex_set_id,release_date_iso,tournament_legal_date_iso,series,set_type,set_mark_asset_url,set_logo_asset_url,notes
+ASC,Ascended Heroes,,,,Mega Evolution,main_or_special,,,Resolve tcgdex_set_id by exact normalized set-name match; review promos/energy manually.
+BLK,Black Bolt,,,,Scarlet & Violet,main_or_special,,,Resolve tcgdex_set_id by exact normalized set-name match; review promos/energy manually.
+CRI,Chaos Rising,,,,Mega Evolution,main_or_special,,,Resolve tcgdex_set_id by exact normalized set-name match; review promos/energy manually.
+DRI,Destined Rivals,,,,Scarlet & Violet,main_or_special,,,Resolve tcgdex_set_id by exact normalized set-name match; review promos/energy manually.
+JTG,Journey Together,,,,Scarlet & Violet,main_or_special,,,Resolve tcgdex_set_id by exact normalized set-name match; review promos/energy manually.
+MEE,Mega Evolution Energy,,,,Mega Evolution,energy,,,Resolve tcgdex_set_id by exact normalized set-name match; review promos/energy manually.
+MEG,Mega Evolution,,,,Mega Evolution,main_or_special,,,Resolve tcgdex_set_id by exact normalized set-name match; review promos/energy manually.
+PFL,Phantasmal Flames,,,,Mega Evolution,main_or_special,,,Resolve tcgdex_set_id by exact normalized set-name match; review promos/energy manually.
+POR,Perfect Order,,,,Mega Evolution,main_or_special,,,Resolve tcgdex_set_id by exact normalized set-name match; review promos/energy manually.
+PRE,Prismatic Evolutions,,,,Scarlet & Violet,main_or_special,,,Resolve tcgdex_set_id by exact normalized set-name match; review promos/energy manually.
+SCR,Stellar Crown,,,,Scarlet & Violet,main_or_special,,,Resolve tcgdex_set_id by exact normalized set-name match; review promos/energy manually.
+SFA,Shrouded Fable,,,,Scarlet & Violet,main_or_special,,,Resolve tcgdex_set_id by exact normalized set-name match; review promos/energy manually.
+SSP,Surging Sparks,,,,Scarlet & Violet,main_or_special,,,Resolve tcgdex_set_id by exact normalized set-name match; review promos/energy manually.
+SVI,Scarlet & Violet,,,,Scarlet & Violet,main_or_special,,,Resolve tcgdex_set_id by exact normalized set-name match; review promos/energy manually.
+SVP,Scarlet & Violet Promos,,,,Scarlet & Violet,promo,,,Resolve tcgdex_set_id by exact normalized set-name match; review promos/energy manually.
+TEF,Temporal Forces,,,,Scarlet & Violet,main_or_special,,,Resolve tcgdex_set_id by exact normalized set-name match; review promos/energy manually.
+TWM,Twilight Masquerade,,,,Scarlet & Violet,main_or_special,,,Resolve tcgdex_set_id by exact normalized set-name match; review promos/energy manually.
+WHT,White Flare,,,,Scarlet & Violet,main_or_special,,,Resolve tcgdex_set_id by exact normalized set-name match; review promos/energy manually.

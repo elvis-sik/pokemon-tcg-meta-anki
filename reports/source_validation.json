@@ -1,0 +1,26 @@
+{
+  "valid": true,
+  "errors": [],
+  "warnings": [],
+  "observed": {
+    "archetypes": 50,
+    "representative_decks": 50,
+    "deck_lines": 1305,
+    "top10_raw_locators": 145,
+    "top50_raw_locators": 361,
+    "top10_combined_entries": 4194,
+    "top50_named_combined_entries": 5688,
+    "top10_share_of_classified_pool": 0.7262337662337662,
+    "top50_named_share_of_classified_pool": 0.9849350649350649,
+    "all_decks_are_60_cards": true
+  },
+  "expected": {
+    "archetypes": 50,
+    "deck_lines": 1305,
+    "top10_raw_locators": 145,
+    "top50_raw_locators": 361,
+    "top10_combined_entries": 4194,
+    "top50_named_combined_entries": 5688,
+    "classified_entries_total": 5775
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PTCG Pokemon Anki note",
+  "type": "object",
+  "required": [
+    "CardKey",
+    "Name"
+  ],
+  "properties": {
+    "CardKey": {
+      "type": "string"
+    },
+    "Name": {
+      "type": "string"
+    },
+    "AutoDisplayLabel": {
+      "type": "string"
+    },
+    "DisplayLabelOverride": {
+      "type": "string"
+    },
+    "ArtworkImage": {
+      "type": "string"
+    },
+    "FullCardImage": {
+      "type": "string"
+    },
+    "DisplaySetCode": {
+      "type": "string"
+    },
+    "DisplayCollectorNumber": {
+      "type": "string"
+    },
+    "PokemonType1": {
+      "type": "string"
+    },
+    "PokemonType2": {
+      "type": "string"
+    },
+    "HP": {
+      "type": "string"
+    },
+    "Stage": {
+      "type": "string"
+    },
+    "EvolvesFrom": {
+      "type": "string"
+    },
+    "RuleBoxClass": {
+      "type": "string"
+    },
+    "PrizeValue": {
+      "type": "string"
+    },
+    "SpecialLabels": {
+      "type": "string"
+    },
+    "OtherRuleText": {
+      "type": "string"
+    },
+    "Ability1Kind": {
+      "type": "string"
+    },
+    "Ability1Name": {
+      "type": "string"
+    },
+    "Ability1Text": {
+      "type": "string"
+    },
+    "Ability2Kind": {
+      "type": "string"
+    },
+    "Ability2Name": {
+      "type": "string"
+    },
+    "Ability2Text": {
+      "type": "string"
+    },
+    "Ability3Kind": {
+      "type": "string"
+    },
+    "Ability3Name": {
+      "type": "string"
+    },
+    "Ability3Text": {
+      "type": "string"
+    },
+    "Attack1Name": {
+      "type": "string"
+    },
+    "Attack1Cost": {
+      "type": "string"
+    },
+    "Attack1Damage": {
+      "type": "string"
+    },
+    "Attack1Text": {
+      "type": "string"
+    },
+    "Attack2Name": {
+      "type": "string"
+    },
+    "Attack2Cost": {
+      "type": "string"
+    },
+    "Attack2Damage": {
+      "type": "string"
+    },
+    "Attack2Text": {
+      "type": "string"
+    },
+    "Attack3Name": {
+      "type": "string"
+    },
+    "Attack3Cost": {
+      "type": "string"
+    },
+    "Attack3Damage": {
+      "type": "string"
+    },
+    "Attack3Text": {
+      "type": "string"
+    },
+    "Attack4Name": {
+      "type": "string"
+    },
+    "Attack4Cost": {
+      "type": "string"
+    },
+    "Attack4Damage": {
+      "type": "string"
+    },
+    "Attack4Text": {
+      "type": "string"
+    },
+    "Weakness1Type": {
+      "type": "string"
+    },
+    "Weakness1Value": {
+      "type": "string"
+    },
+    "Weakness2Type": {
+      "type": "string"
+    },
+    "Weakness2Value": {
+      "type": "string"
+    },
+    "Resistance1Type": {
+      "type": "string"
+    },
+    "Resistance1Value": {
+      "type": "string"
+    },
+    "Resistance2Type": {
+      "type": "string"
+    },
+    "Resistance2Value": {
+      "type": "string"
+    },
+    "RetreatCost": {
+      "type": "string"
+    },
+    "CompetitiveRole": {
+      "type": "string"
+    },
+    "Rulings": {
+      "type": "string"
+    },
+    "SourceAttribution": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}

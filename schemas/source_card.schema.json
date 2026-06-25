@@ -1,0 +1,89 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Resolved source printing",
+  "type": "object",
+  "required": [
+    "raw_locator",
+    "set_code",
+    "collector_number",
+    "name",
+    "category",
+    "source_url",
+    "raw_payload"
+  ],
+  "properties": {
+    "raw_locator": {
+      "type": "string",
+      "pattern": "^[A-Z0-9.]+-.+$"
+    },
+    "set_code": {
+      "type": "string"
+    },
+    "collector_number": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "category": {
+      "enum": [
+        "Pokemon",
+        "Trainer",
+        "Energy"
+      ]
+    },
+    "source_provider": {
+      "type": "string"
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "fetched_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "tcgdex_card_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "tcgdex_set_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "release_date": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "standard_legal": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "raw_payload": {
+      "type": "object"
+    },
+    "source_archetypes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "source_top10": {
+      "type": "boolean"
+    },
+    "source_top50": {
+      "type": "boolean"
+    }
+  },
+  "additionalProperties": true
+}

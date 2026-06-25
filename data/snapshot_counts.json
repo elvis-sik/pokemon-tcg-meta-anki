@@ -1,0 +1,15 @@
+{
+  "snapshot_date": "2026-06-25",
+  "combined_classified_entries": 5775,
+  "top10_archetype_entries": 4194,
+  "top10_field_share": 0.7262337662337662,
+  "top50_named_archetype_entries": 5688,
+  "top50_named_field_share": 0.9849350649350649,
+  "representative_decks": 50,
+  "representative_deck_lines": 1305,
+  "raw_set_number_locators_top10": 145,
+  "raw_set_number_locators_top50": 361,
+  "previous_planning_estimate_mechanical_top10": 141,
+  "previous_planning_estimate_mechanical_top50": 360,
+  "warning": "145 and 361 are exact source-print locator unions. 141 and 360 were planning estimates, not validated mechanical-identity counts. The resolver must collapse exact reprints and report the resulting counts; do not force either target."
+}
