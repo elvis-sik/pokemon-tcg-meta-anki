@@ -24,20 +24,6 @@ DECK_IDS = {
     "Pokémon TCG::Cards": 1876501101,
     "Pokémon TCG::Sets": 1876501102,
 }
-ENERGY_SYMBOLS = {
-    "Grass": "✿",
-    "Fire": "🔥",
-    "Water": "💧",
-    "Lightning": "⚡",
-    "Psychic": "☯",
-    "Fighting": "✊",
-    "Darkness": "☾",
-    "Metal": "⚙",
-    "Dragon": "✦",
-    "Colorless": "★",
-    "Fairy": "✿",
-    "Any": "◇",
-}
 ENERGY_CODES = {
     "G": "Grass",
     "R": "Fire",
@@ -115,12 +101,11 @@ def energy_icon(token: Any) -> str:
     name = energy_type_name(token)
     if not name:
         return ""
-    symbol = ENERGY_SYMBOLS.get(name, "?")
     label = f"{name} Energy" if name != "Any" else "Any Energy"
     return (
         f'<span class="ptcg-energy ptcg-energy-{type_slug(name)}" '
         f'title="{attr(label)}" aria-label="{attr(label)}">'
-        f'<span class="ptcg-energy-glyph" aria-hidden="true">{e(symbol)}</span>'
+        '<span class="ptcg-energy-mark" aria-hidden="true"></span>'
         "</span>"
     )
 
@@ -173,6 +158,29 @@ def energy_subtype_label(name: str, mechanics: dict[str, Any]) -> str:
     if raw == "Normal":
         return "Basic" if base_name in BASIC_ENERGY_NAMES else "Special"
     return raw
+
+
+def html_chip(label: str, *classes: str) -> str:
+    class_name = " ".join(("ptcg-chip", *classes))
+    return f'<span class="{attr(class_name)}">{e(label)}</span>'
+
+
+def meta_badges(card: dict[str, Any]) -> str:
+    archetypes = [str(item) for item in card.get("archetypes") or [] if str(item).strip()]
+    locators = card.get("source_locators") or []
+    badges = [
+        html_chip("Top 10 core" if card.get("top10") else "Top 50 pool", "ptcg-meta-chip")
+    ]
+    if archetypes:
+        count_label = "1 archetype" if len(archetypes) == 1 else f"{len(archetypes)} archetypes"
+        badges.append(html_chip(count_label, "ptcg-meta-chip"))
+        for archetype in archetypes[:3]:
+            badges.append(html_chip(archetype, "ptcg-archetype-chip"))
+        if len(archetypes) > 3:
+            badges.append(html_chip(f"+{len(archetypes) - 3} more", "ptcg-archetype-chip"))
+    if len(locators) > 1:
+        badges.append(html_chip(f"{len(locators)} print locators", "ptcg-meta-chip"))
+    return " ".join(badges)
 
 
 def rule_box(name: str, mechanics: dict[str, Any]) -> tuple[str, str, str]:
@@ -254,6 +262,7 @@ def card_fields(card: dict[str, Any], media: dict[str, Any], model_fields: list[
             "DisplaySetCode": e(display.get("set_code", "")),
             "DisplayCollectorNumber": e(display.get("collector_number", "")),
             "CompetitiveRole": e(card.get("competitive_role", "")),
+            "MetaBadges": meta_badges(card),
             "Rulings": mechanic_text(card.get("rulings", "")),
             "SourceAttribution": source_attribution(card),
         }

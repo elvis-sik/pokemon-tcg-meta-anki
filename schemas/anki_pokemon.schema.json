@@ -181,6 +181,9 @@
     "CompetitiveRole": {
       "type": "string"
     },
+    "MetaBadges": {
+      "type": "string"
+    },
     "Rulings": {
       "type": "string"
     },

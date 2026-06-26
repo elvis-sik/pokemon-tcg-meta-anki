@@ -112,6 +112,30 @@
   --accent-2: #2a75bb;
 }
 
+.ptcg-trainer-shell[data-trainer="Item"] {
+  --accent: #2563eb;
+  --accent-rgb: 37, 99, 235;
+  --accent-2: #38bdf8;
+}
+
+.ptcg-trainer-shell[data-trainer="Supporter"] {
+  --accent: #dc2626;
+  --accent-rgb: 220, 38, 38;
+  --accent-2: #fb923c;
+}
+
+.ptcg-trainer-shell[data-trainer="Stadium"] {
+  --accent: #15803d;
+  --accent-rgb: 21, 128, 61;
+  --accent-2: #a3e635;
+}
+
+.ptcg-trainer-shell[data-trainer="Tool"] {
+  --accent: #64748b;
+  --accent-rgb: 100, 116, 139;
+  --accent-2: #facc15;
+}
+
 .ptcg-card-header {
   margin: 2px 0 18px;
   text-align: center;
@@ -151,10 +175,18 @@
   min-height: calc(100vh - 36px);
   flex-direction: column;
   justify-content: flex-start;
+  --accent: #2a75bb;
+  --accent-rgb: 42, 117, 187;
+  --accent-2: #ffcb05;
 }
 
 .ptcg-front-shell .ptcg-label {
   font-size: 2.28rem;
+}
+
+.ptcg-front-shell .ptcg-card-header {
+  margin-top: 8px;
+  margin-bottom: 20px;
 }
 
 .ptcg-art-stage {
@@ -306,6 +338,63 @@
   gap: 6px;
 }
 
+.ptcg-meta-section .ptcg-facts {
+  gap: 6px;
+}
+
+.ptcg-meta-chip,
+.ptcg-archetype-chip {
+  min-height: 26px;
+  padding: 3px 9px;
+  font-size: 0.78rem;
+}
+
+.ptcg-meta-chip {
+  border-color: rgba(42, 117, 187, 0.28);
+  background:
+    linear-gradient(180deg, rgba(42, 117, 187, 0.11), rgba(255, 203, 5, 0.13)),
+    #ffffff;
+}
+
+.ptcg-archetype-chip {
+  border-color: rgba(var(--accent-rgb), 0.22);
+  background:
+    linear-gradient(180deg, rgba(var(--accent-rgb), 0.08), rgba(255, 255, 255, 0.96)),
+    #ffffff;
+  color: #334155;
+}
+
+.ptcg-trainer-chip {
+  gap: 7px;
+}
+
+.ptcg-trainer-chip::before {
+  content: "";
+  display: inline-block;
+  width: 0.92em;
+  height: 0.92em;
+  border-radius: 999px;
+  background: linear-gradient(135deg, var(--accent), var(--accent-2));
+  box-shadow: inset 0 -2px 0 rgba(15, 23, 42, 0.18);
+}
+
+.ptcg-trainer-shell[data-trainer="Item"] .ptcg-trainer-chip::before {
+  border-radius: 0.22em;
+}
+
+.ptcg-trainer-shell[data-trainer="Stadium"] .ptcg-trainer-chip::before {
+  width: 1.1em;
+  height: 0.68em;
+  border-radius: 999px 999px 0.18em 0.18em;
+}
+
+.ptcg-trainer-shell[data-trainer="Tool"] .ptcg-trainer-chip::before {
+  width: 1.04em;
+  height: 0.42em;
+  border-radius: 999px;
+  transform: rotate(-35deg);
+}
+
 .ptcg-name {
   font-weight: 800;
 }
@@ -321,6 +410,16 @@
   padding: 13px 14px;
 }
 
+.ptcg-ability {
+  border-left-color: var(--accent-2);
+}
+
+.ptcg-attack {
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.98), rgba(var(--accent-rgb), 0.07)),
+    #ffffff;
+}
+
 .ptcg-mechanic:first-child {
   margin-top: 0;
 }
@@ -334,10 +433,19 @@
   font-weight: 850;
 }
 
+.ptcg-attack-head {
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: center;
+}
+
+.ptcg-attack-name {
+  min-width: 0;
+}
+
 .ptcg-cost {
   display: inline-flex;
   flex-wrap: wrap;
-  justify-content: flex-end;
+  justify-content: flex-start;
   gap: 4px;
   white-space: normal;
 }
@@ -353,6 +461,50 @@
   margin-top: 8px;
   color: #111827;
   line-height: 1.42;
+}
+
+.ptcg-effect-box {
+  margin-top: 0;
+  border: 1px solid rgba(var(--accent-rgb), 0.14);
+  border-left: 6px solid var(--accent);
+  border-radius: 10px;
+  background:
+    linear-gradient(90deg, rgba(var(--accent-rgb), 0.08), rgba(255, 255, 255, 0.95) 32%),
+    #ffffff;
+  padding: 13px 14px;
+}
+
+.ptcg-energy-hero {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  gap: 14px;
+  align-items: center;
+}
+
+.ptcg-energy-emblem {
+  display: flex;
+  min-width: 68px;
+  min-height: 68px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgba(var(--accent-rgb), 0.22);
+  border-radius: 12px;
+  background:
+    radial-gradient(circle at 50% 35%, rgba(255, 255, 255, 0.9), rgba(var(--accent-rgb), 0.12) 66%),
+    #ffffff;
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.95),
+    0 10px 24px rgba(15, 23, 42, 0.1);
+}
+
+.ptcg-energy-emblem .ptcg-energy {
+  font-size: 1.42rem;
+}
+
+.ptcg-energy-shell[data-energy-kind="Special"] .ptcg-energy-emblem {
+  background:
+    conic-gradient(from 35deg, rgba(var(--accent-rgb), 0.2), rgba(255, 203, 5, 0.34), rgba(var(--accent-rgb), 0.18)),
+    #ffffff;
 }
 
 .ptcg-secondary {
@@ -442,6 +594,8 @@
 }
 
 .ptcg-energy {
+  --energy-ink: #ffffff;
+  --energy-shadow: rgba(15, 23, 42, 0.26);
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -456,20 +610,27 @@
     0 0 0 1px rgba(15, 23, 42, 0.18),
     0 0.12em 0.28em rgba(15, 23, 42, 0.16);
   flex: 0 0 auto;
-  font-family: "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
   font-size: 0.78em;
-  font-weight: 900;
   line-height: 1;
   margin: 0 1px;
   padding: 0;
+  position: relative;
   vertical-align: middle;
 }
 
-.ptcg-energy-glyph {
+.ptcg-energy-mark {
   display: block;
-  filter: drop-shadow(0 1px 0 rgba(255, 255, 255, 0.38));
-  line-height: 1;
-  transform: translateY(-0.01em);
+  position: relative;
+  width: 0.86em;
+  height: 0.86em;
+  filter: drop-shadow(0 0.07em 0 var(--energy-shadow));
+}
+
+.ptcg-energy-mark::before,
+.ptcg-energy-mark::after {
+  content: "";
+  position: absolute;
+  display: block;
 }
 
 .ptcg-chip .ptcg-energy {
@@ -477,64 +638,221 @@
 }
 
 .ptcg-energy-grass {
+  background:
+    radial-gradient(circle at 30% 25%, rgba(255, 255, 255, 0.55), transparent 30%),
+    #2f9e44;
+}
+
+.ptcg-energy-grass .ptcg-energy-mark::before {
+  inset: 0.08em 0.18em 0.08em 0.08em;
+  border-radius: 85% 0 85% 18%;
+  background: var(--energy-ink);
+  transform: rotate(-38deg);
+}
+
+.ptcg-energy-grass .ptcg-energy-mark::after {
+  top: 0.47em;
+  left: 0.2em;
+  width: 0.58em;
+  height: 0.08em;
+  border-radius: 999px;
   background: #2f9e44;
-  color: #ffffff;
+  transform: rotate(-38deg);
 }
 
 .ptcg-energy-fire {
+  background:
+    radial-gradient(circle at 32% 24%, rgba(255, 255, 255, 0.55), transparent 30%),
+    #e3350d;
+}
+
+.ptcg-energy-fire .ptcg-energy-mark::before {
+  inset: 0.02em 0.12em 0.06em;
+  clip-path: polygon(50% 0, 66% 25%, 82% 15%, 76% 46%, 96% 68%, 72% 100%, 51% 88%, 30% 100%, 5% 69%, 25% 45%, 25% 18%);
+  background: var(--energy-ink);
+}
+
+.ptcg-energy-fire .ptcg-energy-mark::after {
+  left: 0.35em;
+  bottom: 0.08em;
+  width: 0.18em;
+  height: 0.34em;
+  border-radius: 999px 999px 0 999px;
   background: #e3350d;
-  color: #ffffff;
+  transform: rotate(28deg);
 }
 
 .ptcg-energy-water {
-  background: #1d6fd1;
-  color: #ffffff;
+  background:
+    radial-gradient(circle at 30% 24%, rgba(255, 255, 255, 0.55), transparent 30%),
+    #1d6fd1;
+}
+
+.ptcg-energy-water .ptcg-energy-mark::before {
+  inset: 0.04em 0.16em 0.08em;
+  border-radius: 70% 70% 76% 76%;
+  background: var(--energy-ink);
+  transform: rotate(45deg);
+}
+
+.ptcg-energy-water .ptcg-energy-mark::after {
+  top: 0.18em;
+  left: 0.24em;
+  width: 0.2em;
+  height: 0.18em;
+  border-radius: 999px;
+  background: rgba(29, 111, 209, 0.9);
 }
 
 .ptcg-energy-lightning {
-  background: #facc15;
-  color: #111827;
+  --energy-ink: #111827;
+  background:
+    radial-gradient(circle at 30% 24%, rgba(255, 255, 255, 0.62), transparent 32%),
+    #facc15;
+}
+
+.ptcg-energy-lightning .ptcg-energy-mark::before {
+  inset: 0.02em 0.12em;
+  background: var(--energy-ink);
+  clip-path: polygon(48% 0, 96% 0, 64% 38%, 94% 38%, 34% 100%, 46% 56%, 12% 56%);
 }
 
 .ptcg-energy-psychic {
-  background: #9d4edd;
-  color: #ffffff;
+  background:
+    radial-gradient(circle at 30% 24%, rgba(255, 255, 255, 0.55), transparent 30%),
+    #9d4edd;
+}
+
+.ptcg-energy-psychic .ptcg-energy-mark::before {
+  inset: 0.08em;
+  border: 0.13em solid var(--energy-ink);
+  border-radius: 999px;
+}
+
+.ptcg-energy-psychic .ptcg-energy-mark::after {
+  top: 0.32em;
+  left: 0.32em;
+  width: 0.22em;
+  height: 0.22em;
+  border-radius: 999px;
+  background: var(--energy-ink);
 }
 
 .ptcg-energy-fighting {
+  background:
+    radial-gradient(circle at 30% 24%, rgba(255, 255, 255, 0.5), transparent 30%),
+    #b45309;
+}
+
+.ptcg-energy-fighting .ptcg-energy-mark::before {
+  inset: 0.12em 0.04em 0.18em;
+  border-radius: 0.16em 0.16em 0.34em 0.34em;
+  background: var(--energy-ink);
+  clip-path: polygon(10% 28%, 28% 4%, 44% 22%, 60% 0, 76% 22%, 90% 12%, 96% 52%, 72% 100%, 24% 100%, 4% 58%);
+}
+
+.ptcg-energy-fighting .ptcg-energy-mark::after {
+  left: 0.17em;
+  top: 0.27em;
+  width: 0.52em;
+  height: 0.08em;
+  border-radius: 999px;
   background: #b45309;
-  color: #ffffff;
 }
 
 .ptcg-energy-darkness {
+  background:
+    radial-gradient(circle at 30% 24%, rgba(255, 255, 255, 0.42), transparent 30%),
+    #334155;
+}
+
+.ptcg-energy-darkness .ptcg-energy-mark::before {
+  inset: 0.05em 0.12em;
+  border-radius: 999px;
+  background: var(--energy-ink);
+}
+
+.ptcg-energy-darkness .ptcg-energy-mark::after {
+  top: 0.03em;
+  left: 0.31em;
+  width: 0.46em;
+  height: 0.62em;
+  border-radius: 999px;
   background: #334155;
-  color: #ffffff;
 }
 
 .ptcg-energy-metal {
+  --energy-ink: #0f172a;
   background: #cbd5e1;
-  color: #0f172a;
+}
+
+.ptcg-energy-metal .ptcg-energy-mark::before {
+  inset: 0.06em;
+  background: var(--energy-ink);
+  clip-path: polygon(50% 0, 93% 25%, 93% 75%, 50% 100%, 7% 75%, 7% 25%);
+}
+
+.ptcg-energy-metal .ptcg-energy-mark::after {
+  inset: 0.27em;
+  border-radius: 999px;
+  background: #cbd5e1;
 }
 
 .ptcg-energy-colorless {
+  --energy-ink: #111827;
   background: #e5e7eb;
-  color: #0f172a;
+}
+
+.ptcg-energy-colorless .ptcg-energy-mark::before {
+  inset: 0.02em;
+  background: var(--energy-ink);
+  clip-path: polygon(50% 0, 62% 34%, 98% 35%, 69% 56%, 80% 94%, 50% 72%, 20% 94%, 31% 56%, 2% 35%, 38% 34%);
 }
 
 .ptcg-energy-dragon {
   background: linear-gradient(135deg, #7c3aed 0%, #7c3aed 48%, #f59e0b 52%, #f59e0b 100%);
-  color: #ffffff;
+}
+
+.ptcg-energy-dragon .ptcg-energy-mark::before {
+  inset: 0.08em 0.12em;
+  background: var(--energy-ink);
+  clip-path: polygon(50% 0, 94% 22%, 75% 92%, 50% 72%, 25% 92%, 6% 22%);
+}
+
+.ptcg-energy-dragon .ptcg-energy-mark::after {
+  left: 0.39em;
+  top: 0.12em;
+  width: 0.08em;
+  height: 0.58em;
+  border-radius: 999px;
+  background: #7c3aed;
 }
 
 .ptcg-energy-fairy {
   background: #f9a8d4;
-  color: #831843;
+}
+
+.ptcg-energy-fairy .ptcg-energy-mark::before {
+  inset: 0.05em;
+  background: #831843;
+  clip-path: polygon(50% 0, 60% 35%, 98% 35%, 68% 56%, 80% 100%, 50% 70%, 20% 100%, 32% 56%, 2% 35%, 40% 35%);
 }
 
 .ptcg-energy-any {
   background:
     conic-gradient(from 20deg, #2f9e44, #e3350d, #1d6fd1, #9d4edd, #334155, #facc15, #2f9e44);
-  color: #ffffff;
+}
+
+.ptcg-energy-any .ptcg-energy-mark::before {
+  inset: 0.08em;
+  background: var(--energy-ink);
+  clip-path: polygon(50% 0, 100% 50%, 50% 100%, 0 50%);
+}
+
+.ptcg-energy-any .ptcg-energy-mark::after {
+  inset: 0.28em;
+  border-radius: 999px;
+  background: rgba(15, 23, 42, 0.5);
 }
 
 .nightMode .card,

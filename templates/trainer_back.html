@@ -12,13 +12,19 @@
       <section class="ptcg-section">
         <div class="ptcg-section-title">Identity</div>
         <div class="ptcg-facts">
-          {{#TrainerSubtype}}<span class="ptcg-chip">{{TrainerSubtype}}</span>{{/TrainerSubtype}}
+          {{#TrainerSubtype}}<span class="ptcg-chip ptcg-trainer-chip">{{TrainerSubtype}}</span>{{/TrainerSubtype}}
           {{#RuleBoxClass}}<span class="ptcg-chip">{{RuleBoxClass}}</span>{{/RuleBoxClass}}
         </div>
       </section>
+      {{#MetaBadges}}
+      <section class="ptcg-section ptcg-meta-section">
+        <div class="ptcg-section-title">Meta</div>
+        <div class="ptcg-facts">{{MetaBadges}}</div>
+      </section>
+      {{/MetaBadges}}
       <section class="ptcg-section">
         <div class="ptcg-section-title">Effect</div>
-        <div class="ptcg-text">{{EffectText}}</div>
+        <div class="ptcg-text ptcg-effect-box">{{EffectText}}</div>
       </section>
       {{#OtherRuleText}}<section class="ptcg-section">
         <div class="ptcg-section-title">Rule text</div>

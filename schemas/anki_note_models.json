@@ -60,6 +60,7 @@
       "RetreatCost",
       "RetreatCostIcons",
       "CompetitiveRole",
+      "MetaBadges",
       "Rulings",
       "SourceAttribution"
     ],
@@ -87,6 +88,7 @@
       "EffectText",
       "OtherRuleText",
       "CompetitiveRole",
+      "MetaBadges",
       "Rulings",
       "SourceAttribution"
     ],
@@ -116,6 +118,7 @@
       "EffectText",
       "OtherRuleText",
       "CompetitiveRole",
+      "MetaBadges",
       "Rulings",
       "SourceAttribution"
     ],

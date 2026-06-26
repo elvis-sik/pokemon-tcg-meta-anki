@@ -1,4 +1,4 @@
-<div class="ptcg-shell ptcg-back-shell ptcg-card-shell ptcg-energy-shell" data-energy="{{EnergyAccentType}}">
+<div class="ptcg-shell ptcg-back-shell ptcg-card-shell ptcg-energy-shell" data-energy="{{EnergyAccentType}}" data-energy-kind="{{EnergySubtype}}">
   <header class="ptcg-card-header">
     <div class="ptcg-kicker">Pokémon TCG · {{DisplaySetCode}} {{DisplayCollectorNumber}}</div>
     <div class="ptcg-label">
@@ -9,16 +9,27 @@
   <div class="ptcg-answer-grid">
     <div class="ptcg-full-card">{{FullCardImage}}</div>
     <div class="ptcg-panel">
-      <section class="ptcg-section">
-        <div class="ptcg-section-title">Identity</div>
-        <div class="ptcg-facts">
-          {{#EnergySubtype}}<span class="ptcg-chip">{{EnergySubtype}} Energy</span>{{/EnergySubtype}}
-          {{#EnergyProvidedIcons}}<span class="ptcg-chip ptcg-type-chip">Provides {{EnergyProvidedIcons}}</span>{{/EnergyProvidedIcons}}
+      <section class="ptcg-section ptcg-energy-identity-section">
+        <div class="ptcg-energy-hero">
+          <div class="ptcg-energy-emblem">{{EnergyProvidedIcons}}</div>
+          <div>
+            <div class="ptcg-section-title">Energy</div>
+            <div class="ptcg-facts">
+              {{#EnergySubtype}}<span class="ptcg-chip">{{EnergySubtype}} Energy</span>{{/EnergySubtype}}
+              {{#EnergyProvidedIcons}}<span class="ptcg-chip ptcg-type-chip">Provides {{EnergyProvidedIcons}}</span>{{/EnergyProvidedIcons}}
+            </div>
+          </div>
         </div>
       </section>
+      {{#MetaBadges}}
+      <section class="ptcg-section ptcg-meta-section">
+        <div class="ptcg-section-title">Meta</div>
+        <div class="ptcg-facts">{{MetaBadges}}</div>
+      </section>
+      {{/MetaBadges}}
       {{#EffectText}}<section class="ptcg-section">
         <div class="ptcg-section-title">Effect</div>
-        <div class="ptcg-text">{{EffectText}}</div>
+        <div class="ptcg-text ptcg-effect-box">{{EffectText}}</div>
       </section>{{/EffectText}}
       {{#OtherRuleText}}<section class="ptcg-section">
         <div class="ptcg-section-title">Rule text</div>

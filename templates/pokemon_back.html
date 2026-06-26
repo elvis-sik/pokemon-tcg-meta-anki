@@ -24,18 +24,25 @@
         </div>
       </section>
 
+      {{#MetaBadges}}
+      <section class="ptcg-section ptcg-meta-section">
+        <div class="ptcg-section-title">Meta</div>
+        <div class="ptcg-facts">{{MetaBadges}}</div>
+      </section>
+      {{/MetaBadges}}
+
       {{#Ability1Name}}
       <section class="ptcg-section">
         <div class="ptcg-section-title">Abilities</div>
-        <div class="ptcg-mechanic">
+        <div class="ptcg-mechanic ptcg-ability">
           <div class="ptcg-mechanic-head"><span>{{#Ability1Kind}}{{Ability1Kind}}: {{/Ability1Kind}}{{Ability1Name}}</span></div>
           <div class="ptcg-text">{{Ability1Text}}</div>
         </div>
-        {{#Ability2Name}}<div class="ptcg-mechanic">
+        {{#Ability2Name}}<div class="ptcg-mechanic ptcg-ability">
           <div class="ptcg-mechanic-head"><span>{{#Ability2Kind}}{{Ability2Kind}}: {{/Ability2Kind}}{{Ability2Name}}</span></div>
           <div class="ptcg-text">{{Ability2Text}}</div>
         </div>{{/Ability2Name}}
-        {{#Ability3Name}}<div class="ptcg-mechanic">
+        {{#Ability3Name}}<div class="ptcg-mechanic ptcg-ability">
           <div class="ptcg-mechanic-head"><span>{{#Ability3Kind}}{{Ability3Kind}}: {{/Ability3Kind}}{{Ability3Name}}</span></div>
           <div class="ptcg-text">{{Ability3Text}}</div>
         </div>{{/Ability3Name}}
@@ -45,20 +52,20 @@
       {{#Attack1Name}}
       <section class="ptcg-section">
         <div class="ptcg-section-title">Attacks</div>
-        <div class="ptcg-mechanic">
-          <div class="ptcg-mechanic-head"><span>{{Attack1Name}}</span><span class="ptcg-cost">{{Attack1Cost}}</span><span class="ptcg-damage">{{Attack1Damage}}</span></div>
+        <div class="ptcg-mechanic ptcg-attack">
+          <div class="ptcg-mechanic-head ptcg-attack-head"><span class="ptcg-cost">{{Attack1Cost}}</span><span class="ptcg-attack-name">{{Attack1Name}}</span><span class="ptcg-damage">{{Attack1Damage}}</span></div>
           {{#Attack1Text}}<div class="ptcg-text">{{Attack1Text}}</div>{{/Attack1Text}}
         </div>
-        {{#Attack2Name}}<div class="ptcg-mechanic">
-          <div class="ptcg-mechanic-head"><span>{{Attack2Name}}</span><span class="ptcg-cost">{{Attack2Cost}}</span><span class="ptcg-damage">{{Attack2Damage}}</span></div>
+        {{#Attack2Name}}<div class="ptcg-mechanic ptcg-attack">
+          <div class="ptcg-mechanic-head ptcg-attack-head"><span class="ptcg-cost">{{Attack2Cost}}</span><span class="ptcg-attack-name">{{Attack2Name}}</span><span class="ptcg-damage">{{Attack2Damage}}</span></div>
           {{#Attack2Text}}<div class="ptcg-text">{{Attack2Text}}</div>{{/Attack2Text}}
         </div>{{/Attack2Name}}
-        {{#Attack3Name}}<div class="ptcg-mechanic">
-          <div class="ptcg-mechanic-head"><span>{{Attack3Name}}</span><span class="ptcg-cost">{{Attack3Cost}}</span><span class="ptcg-damage">{{Attack3Damage}}</span></div>
+        {{#Attack3Name}}<div class="ptcg-mechanic ptcg-attack">
+          <div class="ptcg-mechanic-head ptcg-attack-head"><span class="ptcg-cost">{{Attack3Cost}}</span><span class="ptcg-attack-name">{{Attack3Name}}</span><span class="ptcg-damage">{{Attack3Damage}}</span></div>
           {{#Attack3Text}}<div class="ptcg-text">{{Attack3Text}}</div>{{/Attack3Text}}
         </div>{{/Attack3Name}}
-        {{#Attack4Name}}<div class="ptcg-mechanic">
-          <div class="ptcg-mechanic-head"><span>{{Attack4Name}}</span><span class="ptcg-cost">{{Attack4Cost}}</span><span class="ptcg-damage">{{Attack4Damage}}</span></div>
+        {{#Attack4Name}}<div class="ptcg-mechanic ptcg-attack">
+          <div class="ptcg-mechanic-head ptcg-attack-head"><span class="ptcg-cost">{{Attack4Cost}}</span><span class="ptcg-attack-name">{{Attack4Name}}</span><span class="ptcg-damage">{{Attack4Damage}}</span></div>
           {{#Attack4Text}}<div class="ptcg-text">{{Attack4Text}}</div>{{/Attack4Text}}
         </div>{{/Attack4Name}}
       </section>
