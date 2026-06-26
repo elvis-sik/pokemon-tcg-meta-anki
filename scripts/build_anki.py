@@ -24,6 +24,43 @@ DECK_IDS = {
     "Pokémon TCG::Cards": 1876501101,
     "Pokémon TCG::Sets": 1876501102,
 }
+ENERGY_SYMBOLS = {
+    "Grass": "✿",
+    "Fire": "🔥",
+    "Water": "💧",
+    "Lightning": "⚡",
+    "Psychic": "☯",
+    "Fighting": "✊",
+    "Darkness": "☾",
+    "Metal": "⚙",
+    "Dragon": "✦",
+    "Colorless": "★",
+    "Fairy": "✿",
+    "Any": "◇",
+}
+ENERGY_CODES = {
+    "G": "Grass",
+    "R": "Fire",
+    "W": "Water",
+    "L": "Lightning",
+    "P": "Psychic",
+    "F": "Fighting",
+    "D": "Darkness",
+    "M": "Metal",
+    "N": "Dragon",
+    "C": "Colorless",
+    "Y": "Fairy",
+}
+BASIC_ENERGY_NAMES = {
+    "Grass",
+    "Fire",
+    "Water",
+    "Lightning",
+    "Psychic",
+    "Fighting",
+    "Darkness",
+    "Metal",
+}
 
 
 class StableNote(genanki.Note):
@@ -36,8 +73,12 @@ def e(value: Any) -> str:
     return html.escape("" if value is None else str(value), quote=False)
 
 
+def attr(value: Any) -> str:
+    return html.escape("" if value is None else str(value), quote=True)
+
+
 def multiline(values: list[Any]) -> str:
-    return "<br>".join(e(item) for item in values if str(item).strip())
+    return "<br>".join(mechanic_text(item) for item in values if str(item).strip())
 
 
 def image_field(filename: str) -> str:
@@ -57,11 +98,81 @@ def media_filename_if_ready(entry: dict[str, Any], filename_key: str, *, crop: b
     return filename
 
 
-def energy_cost(cost: list[Any]) -> str:
-    return " ".join(
-        f'<span class="ptcg-energy ptcg-energy-{re.sub(r"[^a-z0-9]+", "-", str(token).casefold()).strip("-")}">{e(token)}</span>'
-        for token in cost
+def type_slug(name: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "-", name.casefold()).strip("-")
+
+
+def energy_type_name(token: Any) -> str:
+    raw = str(token or "").strip()
+    if not raw:
+        return ""
+    if raw.upper() in ENERGY_CODES:
+        return ENERGY_CODES[raw.upper()]
+    return raw.removesuffix(" Energy")
+
+
+def energy_icon(token: Any) -> str:
+    name = energy_type_name(token)
+    if not name:
+        return ""
+    symbol = ENERGY_SYMBOLS.get(name, "?")
+    label = f"{name} Energy" if name != "Any" else "Any Energy"
+    return (
+        f'<span class="ptcg-energy ptcg-energy-{type_slug(name)}" '
+        f'title="{attr(label)}" aria-label="{attr(label)}">'
+        f'<span class="ptcg-energy-glyph" aria-hidden="true">{e(symbol)}</span>'
+        "</span>"
     )
+
+
+def energy_icons(tokens: list[Any]) -> str:
+    return " ".join(icon for token in tokens if (icon := energy_icon(token)))
+
+
+def energy_cost(cost: list[Any]) -> str:
+    return energy_icons(cost)
+
+
+def retreat_icons(value: Any) -> str:
+    try:
+        count = int(value)
+    except (TypeError, ValueError):
+        return e(value)
+    if count <= 0:
+        return "Free"
+    return energy_icons(["Colorless"] * count)
+
+
+def mechanic_text(value: Any) -> str:
+    escaped = e(value)
+
+    def replace(match: re.Match[str]) -> str:
+        return energy_icon(match.group(1))
+
+    return re.sub(r"\{([A-Za-z])\}", replace, escaped)
+
+
+def provided_energy_types(name: str, mechanics: dict[str, Any]) -> list[str]:
+    base_name = name.removesuffix(" Energy") if name.endswith(" Energy") else name
+    if base_name in BASIC_ENERGY_NAMES:
+        return [base_name]
+    effect = str(mechanics.get("effect") or "")
+    if "provides every type of Energy" in effect:
+        return ["Any"]
+    provided: list[str] = []
+    for code in re.findall(r"\{([A-Za-z])\}", effect):
+        energy_name = energy_type_name(code)
+        if energy_name and energy_name not in provided:
+            provided.append(energy_name)
+    return provided
+
+
+def energy_subtype_label(name: str, mechanics: dict[str, Any]) -> str:
+    raw = str(mechanics.get("energy_type") or "").strip()
+    base_name = name.removesuffix(" Energy") if name.endswith(" Energy") else name
+    if raw == "Normal":
+        return "Basic" if base_name in BASIC_ENERGY_NAMES else "Special"
+    return raw
 
 
 def rule_box(name: str, mechanics: dict[str, Any]) -> tuple[str, str, str]:
@@ -143,7 +254,7 @@ def card_fields(card: dict[str, Any], media: dict[str, Any], model_fields: list[
             "DisplaySetCode": e(display.get("set_code", "")),
             "DisplayCollectorNumber": e(display.get("collector_number", "")),
             "CompetitiveRole": e(card.get("competitive_role", "")),
-            "Rulings": str(card.get("rulings", "")),
+            "Rulings": mechanic_text(card.get("rulings", "")),
             "SourceAttribution": source_attribution(card),
         }
     )
@@ -158,6 +269,7 @@ def card_fields(card: dict[str, Any], media: dict[str, Any], model_fields: list[
             {
                 "PokemonType1": e(types[0] if len(types) > 0 else ""),
                 "PokemonType2": e(types[1] if len(types) > 1 else ""),
+                "PokemonTypeIcons": energy_icons(types),
                 "HP": e(mechanics.get("hp", "")),
                 "Stage": e(mechanics.get("stage", "")),
                 "EvolvesFrom": e(mechanics.get("evolves_from", "")),
@@ -165,32 +277,38 @@ def card_fields(card: dict[str, Any], media: dict[str, Any], model_fields: list[
                 "PrizeValue": e(prize_value),
                 "SpecialLabels": e(special),
                 "RetreatCost": e(mechanics.get("retreat", "")),
+                "RetreatCostIcons": retreat_icons(mechanics.get("retreat", "")),
             }
         )
         for index, ability in enumerate((mechanics.get("abilities") or [])[:3], 1):
             fields[f"Ability{index}Kind"] = e(ability.get("kind", "Ability"))
             fields[f"Ability{index}Name"] = e(ability.get("name", ""))
-            fields[f"Ability{index}Text"] = e(ability.get("text", ""))
+            fields[f"Ability{index}Text"] = mechanic_text(ability.get("text", ""))
         for index, attack in enumerate((mechanics.get("attacks") or [])[:4], 1):
             fields[f"Attack{index}Name"] = e(attack.get("name", ""))
             fields[f"Attack{index}Cost"] = energy_cost(attack.get("cost") or [])
             fields[f"Attack{index}Damage"] = e(attack.get("damage", ""))
-            fields[f"Attack{index}Text"] = e(attack.get("text", ""))
+            fields[f"Attack{index}Text"] = mechanic_text(attack.get("text", ""))
         for index, weakness in enumerate((mechanics.get("weaknesses") or [])[:2], 1):
             fields[f"Weakness{index}Type"] = e(weakness.get("type", ""))
+            fields[f"Weakness{index}Icon"] = energy_icon(weakness.get("type", ""))
             fields[f"Weakness{index}Value"] = e(weakness.get("value", ""))
         for index, resistance in enumerate((mechanics.get("resistances") or [])[:2], 1):
             fields[f"Resistance{index}Type"] = e(resistance.get("type", ""))
+            fields[f"Resistance{index}Icon"] = energy_icon(resistance.get("type", ""))
             fields[f"Resistance{index}Value"] = e(resistance.get("value", ""))
     elif category == "Trainer":
         fields["TrainerSubtype"] = e(mechanics.get("trainer_type", ""))
         fields["RuleBoxClass"] = "ACE SPEC" if "ace spec" in " ".join(rules).casefold() else ""
-        fields["EffectText"] = e(mechanics.get("effect", ""))
+        fields["EffectText"] = mechanic_text(mechanics.get("effect", ""))
     else:
-        fields["EnergySubtype"] = e(mechanics.get("energy_type", ""))
         name = str(card["name"])
-        fields["EnergyProvided"] = e(name.removesuffix(" Energy") if name.endswith(" Energy") else "")
-        fields["EffectText"] = e(mechanics.get("effect", ""))
+        provided = provided_energy_types(name, mechanics)
+        fields["EnergySubtype"] = e(energy_subtype_label(name, mechanics))
+        fields["EnergyAccentType"] = e(provided[0] if provided else "Colorless")
+        fields["EnergyProvided"] = e(" / ".join(provided))
+        fields["EnergyProvidedIcons"] = energy_icons(provided)
+        fields["EffectText"] = mechanic_text(mechanics.get("effect", ""))
     return fields
 
 

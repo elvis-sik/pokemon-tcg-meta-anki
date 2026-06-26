@@ -14,7 +14,7 @@
       <section class="ptcg-section">
         <div class="ptcg-section-title">Identity</div>
         <div class="ptcg-facts">
-          {{#PokemonType1}}<span class="ptcg-chip">{{PokemonType1}}{{#PokemonType2}} / {{PokemonType2}}{{/PokemonType2}}</span>{{/PokemonType1}}
+          {{#PokemonTypeIcons}}<span class="ptcg-chip ptcg-type-chip">{{PokemonTypeIcons}}</span>{{/PokemonTypeIcons}}
           {{#HP}}<span class="ptcg-chip">{{HP}} HP</span>{{/HP}}
           {{#Stage}}<span class="ptcg-chip">{{Stage}}</span>{{/Stage}}
           {{#EvolvesFrom}}<span class="ptcg-chip">Evolves from {{EvolvesFrom}}</span>{{/EvolvesFrom}}
@@ -67,11 +67,11 @@
       <section class="ptcg-section">
         <div class="ptcg-section-title">Combat</div>
         <div class="ptcg-facts">
-          {{#Weakness1Type}}<span class="ptcg-chip">Weakness: {{Weakness1Type}} {{Weakness1Value}}</span>{{/Weakness1Type}}
-          {{#Weakness2Type}}<span class="ptcg-chip">Weakness: {{Weakness2Type}} {{Weakness2Value}}</span>{{/Weakness2Type}}
-          {{#Resistance1Type}}<span class="ptcg-chip">Resistance: {{Resistance1Type}} {{Resistance1Value}}</span>{{/Resistance1Type}}
-          {{#Resistance2Type}}<span class="ptcg-chip">Resistance: {{Resistance2Type}} {{Resistance2Value}}</span>{{/Resistance2Type}}
-          <span class="ptcg-chip">Retreat: {{RetreatCost}}</span>
+          {{#Weakness1Type}}<span class="ptcg-chip ptcg-type-chip">Weakness {{Weakness1Icon}} {{Weakness1Value}}</span>{{/Weakness1Type}}
+          {{#Weakness2Type}}<span class="ptcg-chip ptcg-type-chip">Weakness {{Weakness2Icon}} {{Weakness2Value}}</span>{{/Weakness2Type}}
+          {{#Resistance1Type}}<span class="ptcg-chip ptcg-type-chip">Resistance {{Resistance1Icon}} {{Resistance1Value}}</span>{{/Resistance1Type}}
+          {{#Resistance2Type}}<span class="ptcg-chip ptcg-type-chip">Resistance {{Resistance2Icon}} {{Resistance2Value}}</span>{{/Resistance2Type}}
+          <span class="ptcg-chip ptcg-type-chip">Retreat {{RetreatCostIcons}}</span>
         </div>
       </section>
 

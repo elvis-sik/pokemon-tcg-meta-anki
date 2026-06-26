@@ -37,6 +37,9 @@
     "PokemonType2": {
       "type": "string"
     },
+    "PokemonTypeIcons": {
+      "type": "string"
+    },
     "HP": {
       "type": "string"
     },
@@ -136,10 +139,16 @@
     "Weakness1Type": {
       "type": "string"
     },
+    "Weakness1Icon": {
+      "type": "string"
+    },
     "Weakness1Value": {
       "type": "string"
     },
     "Weakness2Type": {
+      "type": "string"
+    },
+    "Weakness2Icon": {
       "type": "string"
     },
     "Weakness2Value": {
@@ -148,16 +157,25 @@
     "Resistance1Type": {
       "type": "string"
     },
+    "Resistance1Icon": {
+      "type": "string"
+    },
     "Resistance1Value": {
       "type": "string"
     },
     "Resistance2Type": {
       "type": "string"
     },
+    "Resistance2Icon": {
+      "type": "string"
+    },
     "Resistance2Value": {
       "type": "string"
     },
     "RetreatCost": {
+      "type": "string"
+    },
+    "RetreatCostIcons": {
       "type": "string"
     },
     "CompetitiveRole": {

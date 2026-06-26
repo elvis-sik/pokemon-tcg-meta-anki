@@ -37,6 +37,7 @@ JOBS = (
     PreviewJob("pokemon-mega-back", "Mega Lucario ex · MEP 012", "answer"),
     PreviewJob("trainer-back", "Lillie's Determination · MEG 119", "answer"),
     PreviewJob("energy-back", "Fire Energy · BS 98", "answer"),
+    PreviewJob("special-energy-back", "Boomerang Energy · TWM 166", "answer"),
     PreviewJob("set-front", "MEG", "question", card_ord=0),
     PreviewJob("set-back", "MEG", "answer", card_ord=0),
 )

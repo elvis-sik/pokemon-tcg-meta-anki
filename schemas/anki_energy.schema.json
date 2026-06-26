@@ -34,7 +34,13 @@
     "EnergySubtype": {
       "type": "string"
     },
+    "EnergyAccentType": {
+      "type": "string"
+    },
     "EnergyProvided": {
+      "type": "string"
+    },
+    "EnergyProvidedIcons": {
       "type": "string"
     },
     "EffectText": {
