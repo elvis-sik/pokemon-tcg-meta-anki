@@ -5,11 +5,11 @@ TCG metagame.
 
 Snapshot: **2026-06-25**
 
-![No-art card back preview](docs/assets/card-back-preview-no-art.png)
+![Dragapult ex card preview](docs/assets/dragapult-ex-asc160-preview.jpg)
 
-The preview above is generated without card artwork, full-card images, or set
-logos. This repository is source-only: generated `.apkg` files and downloaded
-media are intentionally not published here.
+The preview above is a single low-resolution Dragapult ex card image included to
+show the kind of card this deck teaches. Generated `.apkg` files and downloaded
+media directories are intentionally not published here.
 
 ## Included Pool
 
