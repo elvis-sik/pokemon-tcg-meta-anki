@@ -1,65 +1,54 @@
-# Pokémon TCG Competitive Anki Deck
+# Pokémon TCG Meta Anki
 
-A small, reproducible Anki deck builder for learning the cards that show up in
-current competitive Pokémon TCG lists.
-
-The deck is built from a frozen metagame snapshot, normalizes card mechanics,
-deduplicates exact gameplay reprints, and emits Anki notes with stable IDs so
-future updates can preserve scheduling. It is meant to be practical study glue:
-less "memorize every printing ever", more "recognize the cards people are
-actually putting on tables".
+Reproducible Anki deck builder for recognizing cards in the competitive Pokémon
+TCG metagame.
 
 Snapshot: **2026-06-25**
 
-## Public Release Policy
+![No-art card back preview](docs/assets/card-back-preview-no-art.png)
 
-The public `.apkg` should be the **no-art build**:
+The preview above is generated without card artwork, full-card images, or set
+logos. This repository is source-only: generated `.apkg` files and downloaded
+media are intentionally not published here.
 
-- no card artwork;
-- no full-card images;
-- no set logos or marks;
-- no bundled generated media files.
+## Included Pool
 
-That is the version to upload to GitHub Releases or AnkiWeb. It is still a fan
-project using Pokémon card names, mechanics, and metagame references, so this is
-not legal advice and it is not zero-risk. It is simply the much cleaner release
-shape than redistributing copyrighted card images.
+- [Mechanical card roster](generated/mechanical_card_roster.csv)
+- [Included set catalog](data/set_catalog.csv)
+- [Top 50 archetype ranking](data/archetypes_top50.csv)
+- [Source print locators](data/card_source_locators_top50_361.csv)
 
-The local/private build can include card art if you run the media pipeline on
-your own machine. Generated media and `.apkg` files are intentionally ignored by
-Git.
+The pool starts from combined classified archetype entries from:
 
-This project is not affiliated with, endorsed by, or sponsored by The Pokémon
-Company, Nintendo, Creatures, Game Freak, Limitless TCG, TCGdex, or Anki.
-Pokémon names, card text, artwork, logos, and related marks belong to their
-respective rights holders.
+- 2026 North America International Championships, Limitless Labs event `0070`;
+- 2026 Turin Special Event, Limitless Labs event `0069`.
 
-## What Is In The Snapshot
+The `Other` bucket is excluded. The top 50 named archetypes are ranked by
+combined field share, then one representative NAIC 60-card list is selected for
+each archetype. Those lists expand to exact set-code/collector-number locators,
+which are resolved through TCGdex, normalized into gameplay fields, and checked
+for exact mechanical reprints.
 
-- Top 50 named archetypes from the combined classified field of:
-  - 2026 North America International Championships, Limitless Labs event `0070`;
-  - 2026 Turin Special Event, Limitless Labs event `0069`.
-- One representative NAIC deck list per archetype.
-- 361 exact set-code/collector-number source locators.
-- 145 source locators that appear in top-10 archetypes.
-- Archetype membership, Anki tags, note model definitions, templates, and build
-  scripts.
+## Snapshot Stats
 
-A set-number locator is a printing, not necessarily a unique gameplay card. The
-builder resolves the source locators, normalizes gameplay fields, and collapses
-exact mechanical reprints.
+| Metric | Count |
+|---|---:|
+| Ranked archetypes | 50 |
+| Representative decklists | 50 |
+| Source print locators | 361 |
+| Gameplay notes | 361 |
+| Top-10 gameplay notes | 145 |
+| Included sets | 18 |
+| Built review cards | 397 |
 
-## What Is Not In The Repo
+| Card type | All notes | Top 10 | Top 50 only |
+|---|---:|---:|---:|
+| Pokémon | 220 | 71 | 149 |
+| Trainer | 120 | 58 | 62 |
+| Energy | 21 | 16 | 5 |
+| **Total** | **361** | **145** | **216** |
 
-- downloaded card images;
-- cropped artwork cues;
-- generated media manifests;
-- built `.apkg` packages;
-- private credentials, API keys, or environment-specific config.
-
-See [media/README.md](media/README.md) for the media policy.
-
-## Quick Start
+## Build
 
 Install dependencies:
 
@@ -75,7 +64,7 @@ make test
 make validate-source
 ```
 
-Build the resolved card pool:
+Rebuild the resolved card pool:
 
 ```bash
 make resolve
@@ -84,20 +73,13 @@ make materialize
 make validate-resolved
 ```
 
-## Build The Public No-Art Deck
-
-Use this for GitHub Releases and AnkiWeb:
+Generate a no-media `.apkg`:
 
 ```bash
 make build-no-art
 ```
 
-This package keeps the same notes, tags, stable keys, and structured mechanics,
-but leaves all image fields empty and bundles zero media files.
-
-## Build A Local Art Deck
-
-Use this only for local/private study:
+Generate a media-bearing `.apkg` for personal study:
 
 ```bash
 make media
@@ -105,20 +87,14 @@ make crop
 python scripts/build_anki.py
 ```
 
-Before trusting the cropped art cues, review the contact sheet:
-
-```text
-reports/artwork_crop_contact_sheet.jpg
-```
-
-The full-card images and crops are generated into `media/`, and the media-bearing
-package is generated into `dist/`. Both are ignored by Git.
+The media pipeline downloads card images and creates artwork crops under
+`media/`; package outputs go under `dist/`. Both directories are ignored by Git.
 
 ## Repository Map
 
 ```text
 data/        Frozen source lists, overrides, and natural-key inputs
-generated/   Reproducible generated tables that are safe to keep when audited
+generated/   Audited generated rosters and archetype membership tables
 media/       Local-only downloaded images and crops
 reports/     Validation and build summaries
 schemas/     JSON schemas and Anki note-model specs
@@ -135,5 +111,8 @@ tests/       Source, identity, template, and smoke tests
 - Official Pokémon sources: preferred authority for rules, errata, legality, and
   bans when third-party data conflicts.
 
-See [PROVENANCE.md](PROVENANCE.md) and [LICENSE_NOTES.md](LICENSE_NOTES.md) for
-the longer version.
+This project is not affiliated with, endorsed by, or sponsored by The Pokémon
+Company, Nintendo, Creatures, Game Freak, Limitless TCG, TCGdex, or Anki.
+Pokémon names, card text, artwork, logos, and related marks belong to their
+respective rights holders. See [PROVENANCE.md](PROVENANCE.md) and
+[LICENSE_NOTES.md](LICENSE_NOTES.md) for more detail.
