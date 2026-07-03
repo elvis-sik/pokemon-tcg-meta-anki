@@ -41,7 +41,12 @@ for exact mechanical reprints.
 | Included sets | 18 |
 | Built review cards | 397 |
 
-| Card type | All notes | Top 10 | Top 50 only |
+In the table below, **all notes** means the full deck pool selected from the top
+50 archetypes. **Top 10** is a tag subset: notes that appear in at least one
+representative list for archetypes ranked 1-10. **Top 50 only** means notes from
+the top-50 pool that do not appear in that top-10 subset.
+
+| Card type | All notes (top 50 pool) | Top 10 subset | Top 50 only |
 |---|---:|---:|---:|
 | Pokémon | 220 | 71 | 149 |
 | Trainer | 120 | 58 | 62 |
