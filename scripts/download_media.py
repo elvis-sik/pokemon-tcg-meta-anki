@@ -22,6 +22,7 @@ from common import (
     MEDIA_DIR,
     REPORTS_DIR,
     stable_media_stem,
+    repo_path,
     read_csv,
     read_jsonl,
     utc_now_iso,
@@ -192,7 +193,7 @@ def main() -> None:
         ),
         "set_count": len(manifest["sets"]),
         "failure_count": len(failures),
-        "manifest": str(args.manifest),
+        "manifest": repo_path(args.manifest),
     }
     write_json(REPORTS_DIR / "media_summary.json", summary)
     print(json.dumps(summary, indent=2))

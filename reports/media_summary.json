@@ -3,5 +3,5 @@
   "card_media_ready": 361,
   "set_count": 18,
   "failure_count": 0,
-  "manifest": "/Users/elvis/Documents/pokemon-tcg/generated/media_manifest.json"
+  "manifest": "generated/media_manifest.json"
 }

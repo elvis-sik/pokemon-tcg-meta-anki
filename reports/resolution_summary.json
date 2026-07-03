@@ -3,5 +3,5 @@
   "resolved_count": 361,
   "unresolved_count": 0,
   "set_mapping_errors": [],
-  "output": "/Users/elvis/Documents/pokemon-tcg/generated/resolved_source_cards.jsonl"
+  "output": "generated/resolved_source_cards.jsonl"
 }

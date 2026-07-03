@@ -47,6 +47,17 @@ def utc_now_iso() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
 
 
+def repo_path(path: str | Path) -> str:
+    """Return a stable repository-relative path for public reports."""
+    candidate = Path(path)
+    if not candidate.is_absolute():
+        return candidate.as_posix()
+    try:
+        return candidate.resolve().relative_to(ROOT).as_posix()
+    except ValueError:
+        return candidate.as_posix()
+
+
 def normalize_text(value: Any) -> str:
     """Normalize text for mechanical comparison, not for learner display."""
     if value is None:
@@ -164,7 +175,12 @@ def read_csv(path: Path) -> list[dict[str, str]]:
 def write_csv(path: Path, rows: Iterable[Mapping[str, Any]], fieldnames: Sequence[str]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=fieldnames, extrasaction="ignore")
+        writer = csv.DictWriter(
+            handle,
+            fieldnames=fieldnames,
+            extrasaction="ignore",
+            lineterminator="\n",
+        )
         writer.writeheader()
         for row in rows:
             writer.writerow({key: row.get(key, "") for key in fieldnames})

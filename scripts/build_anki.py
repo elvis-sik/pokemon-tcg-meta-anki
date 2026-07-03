@@ -12,7 +12,18 @@ from typing import Any
 
 import genanki
 
-from common import GENERATED_DIR, MEDIA_DIR, REPORTS_DIR, ROOT, TEMPLATES_DIR, read_csv, read_json, read_jsonl, write_json
+from common import (
+    GENERATED_DIR,
+    MEDIA_DIR,
+    REPORTS_DIR,
+    ROOT,
+    TEMPLATES_DIR,
+    read_csv,
+    read_json,
+    read_jsonl,
+    repo_path,
+    write_json,
+)
 
 MODEL_IDS = {
     "PTCG Pokemon": 1876501001,
@@ -356,13 +367,18 @@ def main() -> None:
     parser.add_argument(
         "--output", type=Path, default=ROOT / "dist" / "ptcg_competitive_cards_2026-06-25.apkg"
     )
+    parser.add_argument(
+        "--no-media",
+        action="store_true",
+        help="Build an .apkg with no bundled card art, full-card images, or set marks.",
+    )
     parser.add_argument("--allow-missing-media", action="store_true")
     args = parser.parse_args()
 
     cards = read_jsonl(args.cards)
     if not cards:
         raise SystemExit(f"No mechanical cards in {args.cards}")
-    media = read_json(args.media)
+    media = {"cards": {}, "sets": {}} if args.no_media else read_json(args.media)
     models = make_models()
     card_deck = genanki.Deck(DECK_IDS["Pokémon TCG::Cards"], "Pokémon TCG::Cards")
     set_deck = genanki.Deck(DECK_IDS["Pokémon TCG::Sets"], "Pokémon TCG::Sets")
@@ -374,7 +390,7 @@ def main() -> None:
         model = models[model_name]
         model_fields = [item["name"] for item in model.fields]
         values = card_fields(card, media, model_fields)
-        if not values["ArtworkImage"] or not values["FullCardImage"]:
+        if not args.no_media and (not values["ArtworkImage"] or not values["FullCardImage"]):
             missing_media.append(str(card["card_key"]))
         note = StableNote(
             model=model,
@@ -395,9 +411,10 @@ def main() -> None:
             set_count += 1
 
     media_files: list[str] = []
-    for path in sorted(MEDIA_DIR.iterdir()):
-        if path.is_file() and path.suffix.casefold() in {".png", ".jpg", ".jpeg", ".webp"}:
-            media_files.append(str(path))
+    if not args.no_media:
+        for path in sorted(MEDIA_DIR.iterdir()):
+            if path.is_file() and path.suffix.casefold() in {".png", ".jpg", ".jpeg", ".webp"}:
+                media_files.append(str(path))
 
     if missing_media and not args.allow_missing_media:
         raise SystemExit(f"Missing card media for {len(missing_media)} notes; see media pipeline")
@@ -406,7 +423,8 @@ def main() -> None:
     package.media_files = media_files
     package.write_to_file(str(args.output))
     summary = {
-        "output": str(args.output),
+        "output": repo_path(args.output),
+        "media_mode": "none" if args.no_media else "bundled",
         "gameplay_note_count": note_count,
         "set_note_count": set_count,
         "review_card_count": note_count + 2 * set_count,

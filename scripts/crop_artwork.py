@@ -11,18 +11,32 @@ from __future__ import annotations
 import argparse
 import json
 import math
+import re
 from pathlib import Path
 from typing import Any
 
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 
-from common import DATA_DIR, GENERATED_DIR, MEDIA_DIR, REPORTS_DIR, read_csv, read_json, read_jsonl, write_csv, write_json
+from common import (
+    DATA_DIR,
+    GENERATED_DIR,
+    MEDIA_DIR,
+    REPORTS_DIR,
+    read_csv,
+    read_json,
+    read_jsonl,
+    repo_path,
+    write_csv,
+    write_json,
+)
 
 DEFAULT_PROFILES: dict[str, tuple[float, float, float, float]] = {
-    "Pokemon": (0.075, 0.105, 0.850, 0.405),
-    "Trainer": (0.075, 0.105, 0.850, 0.455),
-    "Energy": (0.075, 0.105, 0.850, 0.455),
+    "Pokemon": (0.075, 0.095, 0.850, 0.380),
+    "Trainer": (0.075, 0.140, 0.850, 0.380),
+    "Energy": (0.040, 0.140, 0.920, 0.455),
 }
+POKEMON_EX_PROFILE = (0.075, 0.145, 0.850, 0.335)
+POKEMON_TERA_PROFILE = (0.075, 0.235, 0.850, 0.240)
 
 
 def clamp(value: float, low: float, high: float) -> float:
@@ -44,6 +58,29 @@ def crop_box(
     return left, top, max(left + 1, right), max(top + 1, bottom)
 
 
+def profile_for(
+    key: str,
+    card: dict[str, Any],
+    overrides: dict[str, tuple[float, float, float, float]],
+) -> tuple[tuple[float, float, float, float], str]:
+    if key in overrides:
+        return overrides[key], "manual"
+
+    category = str(card.get("category"))
+    name = str(card.get("name") or "")
+    mechanics = card.get("normalized_mechanics") or {}
+    rules = " ".join(str(rule) for rule in mechanics.get("rules") or [])
+    suffix = str(mechanics.get("suffix") or "")
+    is_tera = "Tera" in suffix or "Tera" in rules
+    if category == "Pokemon" and name.endswith(" ex") and is_tera:
+        return POKEMON_TERA_PROFILE, "derived_Pokemon_Tera_ex"
+    if category == "Pokemon" and name.endswith(" ex"):
+        return POKEMON_EX_PROFILE, "derived_Pokemon_ex"
+
+    profile = DEFAULT_PROFILES.get(category, DEFAULT_PROFILES["Pokemon"])
+    return profile, f"default_{category}"
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument(
@@ -57,6 +94,8 @@ def main() -> None:
     )
     parser.add_argument("--continue-on-error", action="store_true")
     parser.add_argument("--thumb-width", type=int, default=180)
+    parser.add_argument("--contact-category", action="append", default=[])
+    parser.add_argument("--contact-name-regex", default="")
     args = parser.parse_args()
 
     cards = read_jsonl(args.cards)
@@ -74,6 +113,7 @@ def main() -> None:
     failures: list[dict[str, str]] = []
     audit: list[dict[str, Any]] = []
     thumbnails: list[tuple[str, Image.Image]] = []
+    contact_name_pattern = re.compile(args.contact_name_regex) if args.contact_name_regex else None
 
     for key, entry in manifest.get("cards", {}).items():
         card = by_key.get(key)
@@ -87,18 +127,30 @@ def main() -> None:
             continue
         full_path = MEDIA_DIR / full_name
         art_path = MEDIA_DIR / art_name
-        profile = overrides.get(key) or DEFAULT_PROFILES.get(str(card.get("category")), DEFAULT_PROFILES["Pokemon"])
-        profile_source = "manual" if key in overrides else f"default_{card.get('category')}"
+        profile, profile_source = profile_for(key, card, overrides)
         try:
             with Image.open(full_path) as source:
                 source = source.convert("RGB")
                 box = crop_box(source, profile)
                 art = source.crop(box)
                 art.save(art_path, format="PNG", optimize=True)
-                thumb_height = round(args.thumb_width * art.height / art.width)
-                thumb = ImageOps.fit(art, (args.thumb_width, thumb_height), method=Image.Resampling.LANCZOS)
-                thumbnails.append((str(card.get("display_label") or key), thumb.copy()))
+                include_thumb = (
+                    (not args.contact_category or str(card.get("category")) in args.contact_category)
+                    and (
+                        contact_name_pattern is None
+                        or contact_name_pattern.search(str(card.get("name") or ""))
+                    )
+                )
+                if include_thumb:
+                    thumb_height = round(args.thumb_width * art.height / art.width)
+                    thumb = ImageOps.fit(
+                        art,
+                        (args.thumb_width, thumb_height),
+                        method=Image.Resampling.LANCZOS,
+                    )
+                    thumbnails.append((str(card.get("display_label") or key), thumb.copy()))
             entry["crop_profile"] = list(profile)
+            entry["crop_box_pixels"] = list(box)
             entry["crop_profile_source"] = profile_source
             entry["crop_status"] = "created"
             audit.append(
@@ -110,6 +162,10 @@ def main() -> None:
                     "y_fraction": profile[1],
                     "width_fraction": profile[2],
                     "height_fraction": profile[3],
+                    "left_px": box[0],
+                    "top_px": box[1],
+                    "right_px": box[2],
+                    "bottom_px": box[3],
                     "artwork_filename": art_name,
                 }
             )
@@ -150,6 +206,10 @@ def main() -> None:
             "y_fraction",
             "width_fraction",
             "height_fraction",
+            "left_px",
+            "top_px",
+            "right_px",
+            "bottom_px",
             "artwork_filename",
         ],
     )
@@ -159,7 +219,7 @@ def main() -> None:
         "crop_count": len(audit),
         "manual_override_count": sum(1 for row in audit if row["profile_source"] == "manual"),
         "failure_count": len(failures),
-        "contact_sheet": str(REPORTS_DIR / "artwork_crop_contact_sheet.jpg"),
+        "contact_sheet": repo_path(REPORTS_DIR / "artwork_crop_contact_sheet.jpg"),
     }
     write_json(REPORTS_DIR / "artwork_crop_summary.json", summary)
     print(json.dumps(summary, indent=2))

@@ -24,6 +24,7 @@ from common import (
     normalize_for_match,
     parse_bool,
     read_csv,
+    repo_path,
     utc_now_iso,
     write_csv,
     write_json,
@@ -274,7 +275,7 @@ def main() -> None:
         "resolved_count": len(resolved),
         "unresolved_count": len(unresolved),
         "set_mapping_errors": set_errors,
-        "output": str(args.output),
+        "output": repo_path(args.output),
     }
     write_json(REPORTS_DIR / "resolution_summary.json", summary)
     print(json.dumps(summary, indent=2))

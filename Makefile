@@ -1,6 +1,6 @@
 PYTHON ?= $(if $(wildcard .venv/bin/python),.venv/bin/python,$(shell command -v python3 2>/dev/null || command -v python 2>/dev/null || printf python))
 
-.PHONY: validate-source resolve discover materialize validate-resolved media crop freeze build test all clean-generated
+.PHONY: validate-source resolve discover materialize validate-resolved media crop freeze build build-no-art test all clean-generated
 
 validate-source:
 	$(PYTHON) scripts/validate_source.py
@@ -28,6 +28,9 @@ freeze: validate-resolved
 
 build: crop
 	$(PYTHON) scripts/build_anki.py
+
+build-no-art:
+	$(PYTHON) scripts/build_anki.py --no-media --output dist/ptcg_competitive_cards_no_art_2026-06-25.apkg
 
 test:
 	$(PYTHON) -m pytest

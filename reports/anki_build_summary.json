@@ -1,9 +1,10 @@
 {
-  "output": "/Users/elvis/Documents/pokemon-tcg/ptcg-competitive-anki-deck/dist/ptcg_competitive_cards_2026-06-25.apkg",
+  "output": "dist/ptcg_competitive_cards_no_art_2026-06-25.apkg",
+  "media_mode": "none",
   "gameplay_note_count": 361,
   "set_note_count": 18,
   "review_card_count": 397,
-  "media_file_count": 749,
+  "media_file_count": 0,
   "missing_card_media_count": 0,
   "missing_card_media": []
 }
