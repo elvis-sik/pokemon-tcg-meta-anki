@@ -3,13 +3,13 @@
 Reproducible Anki deck builder for recognizing cards in the competitive Pokémon
 TCG metagame.
 
-Snapshot: **2026-06-25**
-
 ![Dragapult ex rendered card-back preview](docs/assets/dragapult-ex-card-back-screenshot.png)
 
 The preview above is a single low-resolution screenshot of a rendered Dragapult
 ex card back. Generated `.apkg` files and downloaded media directories are
 intentionally not published here.
+
+Card pool frozen from June 25, 2026 metagame data.
 
 ## Included Pool
 
