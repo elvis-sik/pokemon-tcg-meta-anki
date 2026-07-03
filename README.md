@@ -31,27 +31,22 @@ for exact mechanical reprints.
 
 ## Snapshot Stats
 
-| Metric | Count |
+This snapshot produces **361 card notes** from the top 50 archetypes. Of those,
+**145 notes** also appear in at least one top-10 archetype list, so they get an
+extra top-10 tag.
+
+| What | Count |
 |---|---:|
-| Ranked archetypes | 50 |
-| Representative decklists | 50 |
-| Source print locators | 361 |
-| Gameplay notes | 361 |
-| Top-10 gameplay notes | 145 |
-| Included sets | 18 |
-| Built review cards | 397 |
+| Archetypes covered | 50 |
+| Card notes | 361 |
+| Top-10-tagged notes | 145 |
+| Sets represented | 18 |
 
-In the table below, **all notes** means the full deck pool selected from the top
-50 archetypes. **Top 10** is a tag subset: notes that appear in at least one
-representative list for archetypes ranked 1-10. **Top 50 only** means notes from
-the top-50 pool that do not appear in that top-10 subset.
-
-| Card type | All notes (top 50 pool) | Top 10 subset | Top 50 only |
-|---|---:|---:|---:|
-| Pokémon | 220 | 71 | 149 |
-| Trainer | 120 | 58 | 62 |
-| Energy | 21 | 16 | 5 |
-| **Total** | **361** | **145** | **216** |
+| Card type | Notes |
+|---|---:|
+| Pokémon | 220 |
+| Trainer | 120 |
+| Energy | 21 |
 
 ## Build
 
